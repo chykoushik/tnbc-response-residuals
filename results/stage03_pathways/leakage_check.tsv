@@ -1,0 +1,5 @@
+file	exists	forbidden_fields	field_names	passed
+metadata/neotrip_analysis_manifest_blinded_v1.tsv	TRUE	0		TRUE
+data/processed/pathways/neotrip_confirmatory_scores_v1.tsv.gz	TRUE	0		TRUE
+data/processed/pathways/neotrip_confirmatory_pair_scores_v1.tsv	TRUE	0		TRUE
+data/processed/pathways/neotrip_model_inputs_blinded_v1.tsv	TRUE	0		TRUE

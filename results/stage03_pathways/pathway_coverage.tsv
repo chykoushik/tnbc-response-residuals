@@ -1,0 +1,7 @@
+axis	gs_name	expected_genes	matched_genes	missing_genes	coverage_fraction	passed
+immune_interferon	HALLMARK_INTERFERON_GAMMA_RESPONSE	200	200	0	1	TRUE
+proliferation	HALLMARK_E2F_TARGETS	200	200	0	1	TRUE
+stromal_emt	HALLMARK_EPITHELIAL_MESENCHYMAL_TRANSITION	200	200	0	1	TRUE
+dna_repair	HALLMARK_DNA_REPAIR	150	150	0	1	TRUE
+hypoxia_stress	HALLMARK_HYPOXIA	200	198	2	0.99	TRUE
+apoptosis	HALLMARK_APOPTOSIS	161	160	1	0.993788819875776	TRUE

@@ -1,0 +1,3 @@
+package	version	R_version	OS	OS_release	platform	role
+Python	3.10.0	not applicable	Windows	10	Windows-10-10.0.19045-SP0	Official-file download, figure export verification and ZIP creation
+PyMuPDF	1.28.2	not applicable	Windows	10	Windows-10-10.0.19045-SP0	PDF rendering and vector/text audit

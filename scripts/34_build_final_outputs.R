@@ -1,0 +1,10 @@
+source("R/paths.R")
+source("R/checksums.R")
+source("R/prediction_folds.R")
+source("R/sc_source_audit.R")
+source("R/final_figures.R")
+source("R/final_tables.R")
+run_stage("34_build_final_outputs", {
+  tables09();figures09()
+  assert09(system2("python",shQuote(path("scripts/validate_stage09_figures.py")))==0,"Figure export validation failed")
+})

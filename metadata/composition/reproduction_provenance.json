@@ -1,0 +1,32 @@
+{
+  "started": "2026-09-25T14:10:27Z",
+  "completed": "2026-09-25T14:21:18Z",
+  "package_version": "0.1.6",
+  "package_commit": "7d3b57cde9342c5eac7282f4c2d8bff09f21e693",
+  "repository_commit": "26b765cc816fcb04794797f22d78d944e834a25b",
+  "expression_sha256": "397f7e4d9d0272ed7867c08bdc6191ea1b4d4369b0ab4480622aa31a7e7cf56c",
+  "reference_sha256": "a732cbda7d8c768220d5d870dc1d7910b1a0ee5e2b9891a6da3f72f6763a56c8",
+  "input_genes": 23890,
+  "input_samples": 401,
+  "used_genes": 16490,
+  "cell_types": ["Endothelial", "CAFs", "PVL", "B-cells", "T-cells", "Myeloid", "Normal_Epithelial", "Cancer_Epithelial"],
+  "cell_states": 76,
+  "command": "InstaPrism(bulk_Expr = expression, refPhi_cs = reference)",
+  "preprocessing": "HGNC row names; discard annotation columns; unchanged linear TPM including negative ComBat values. Published code and package default bpPrepare contain no clipping step. Package default bulk outlier filtering and shared-gene reference normalization retained; negative-input limitation documented, no correction invented.",
+  "defaults": {
+    "n.iter": 152,
+    "filter": true,
+    "outlier.cut": 0.01,
+    "outlier.fraction": 0.1,
+    "pseudo.min": 1e-08,
+    "n.core": 1,
+    "input_type": "refPhi_cs"
+  },
+  "units": {
+    "full": "0-1",
+    "summary": "percent",
+    "change": "percentage_points"
+  },
+  "identities": "Stage 1 exact mapping; all expression samples; no clinical covariates or outcomes used.",
+  "environment": "Pinned InstaPrism 0.1.6 commit; project R and dependency versions recorded separately; no claim of bitwise reproduction of original authors' results."
+}

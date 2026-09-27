@@ -1,0 +1,17 @@
+metric	count	scope
+geo_samples	401	source
+expression_samples	401	source
+phenotype_rows	401	source
+unique_patients	251	source
+baseline_samples	241	verified_identity_with_expression
+d1c2_samples	160	verified_identity_with_expression
+patients_with_baseline	241	verified_identity_with_expression
+patients_with_d1c2	160	verified_identity_with_expression
+matched_baseline_d1c2_pairs	150	verified_identity_with_expression
+paired_with_arm	150	verified_pairs
+paired_with_pcr	150	verified_pairs
+paired_complete	150	verified_pairs
+ct_patients	79	usable_complete_pairs
+ct_a_patients	71	usable_complete_pairs
+pcr_patients	63	usable_complete_pairs
+rd_patients	87	usable_complete_pairs

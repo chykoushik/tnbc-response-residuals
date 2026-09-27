@@ -1,0 +1,22 @@
+{
+  "stage": 5,
+  "timestamp": "2026-09-25T18:15:59Z",
+  "stage04_verified": true,
+  "residual_freeze_verified": true,
+  "patients": 150,
+  "pcr": 63,
+  "residual_disease": 87,
+  "treatment_CT": 79,
+  "treatment_CTA": 71,
+  "primary_models": 0,
+  "models_converged": 0,
+  "rank_failures": null,
+  "missing_data_failures": 0,
+  "identity_failures": 0,
+  "direction_matching_pathways": null,
+  "effect_size_gate_pathways": null,
+  "multiplicity_gate_pathways": null,
+  "both_effect_and_multiplicity_gate": null,
+  "decision": "MODIFY_REVIEW",
+  "decision_reason": "150 of 150 patients fail the required three-component zero-sum constraint after explicit percentage-point to fraction conversion; maximum absolute sum = 0.2968252795 . No logistic models were fitted; the two-coordinate parameterization requires methodology review."
+}

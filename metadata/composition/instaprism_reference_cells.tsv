@@ -1,0 +1,77 @@
+cell_type	cell_state
+Endothelial	Endothelial ACKR1
+Endothelial	Endothelial RGS5
+Endothelial	Endothelial CXCL12
+Endothelial	Endothelial Lymphatic LYVE1
+CAFs	CAFs MSC iCAF-like s1
+CAFs	CAFs MSC iCAF-like s2
+CAFs	CAFs Transitioning s3
+CAFs	CAFs myCAF like s4
+CAFs	CAFs myCAF like s5
+PVL	PVL Differentiated s3
+PVL	PVL_Immature s2
+PVL	PVL Immature s1
+PVL	Cycling PVL
+B-cells	B cells Memory
+B-cells	B cells Naive
+B-cells	Plasmablasts
+T-cells	T_cells_c4_CD8+_ZFP36
+T-cells	T_cells_c6_IFIT1
+T-cells	T_cells_c5_CD8+_GZMK
+T-cells	T_cells_c7_CD8+_IFNG
+T-cells	T_cells_c8_CD8+_LAG3
+T-cells	T_cells_c0_CD4+_CCR7
+T-cells	T_cells_c1_CD4+_IL7R
+T-cells	T_cells_c2_CD4+_T-regs_FOXP3
+T-cells	T_cells_c3_CD4+_Tfh_CXCL13
+T-cells	T_cells_c9_NK_cells_AREG
+T-cells	T_cells_c11_MKI67
+T-cells	T_cells_c10_NKT_cells_FCGR3A
+Myeloid	Myeloid_c11_cDC2_CD1C
+Myeloid	Myeloid_c4_DCs_pDC_IRF7
+Myeloid	Myeloid_c3_cDC1_CLEC9A
+Myeloid	Myeloid_c0_DC_LAMP3
+Myeloid	Myeloid_c10_Macrophage_1_EGR1
+Myeloid	Myeloid_c12_Monocyte_1_IL1B
+Myeloid	Myeloid_c2_LAM2_APOE
+Myeloid	Myeloid_c1_LAM1_FABP5
+Myeloid	Myeloid_c8_Monocyte_2_S100A9
+Myeloid	Myeloid_c7_Monocyte_3_FCGR3A
+Myeloid	Myeloid_c9_Macrophage_2_CXCL10
+Myeloid	Cycling_Myeloid
+Myeloid	Myeloid_c5_Macrophage_3_SIGLEC1
+Normal Epithelial	Myoepithelial
+Normal Epithelial	Luminal Progenitors
+Normal Epithelial	Mature Luminal
+Cancer Epithelial	Cancer Cycling_1
+Cancer Epithelial	Cancer Her2 SC_5
+Cancer Epithelial	Cancer Her2 SC_1
+Cancer Epithelial	Cancer LumB SC_2
+Cancer Epithelial	Cancer Cycling_8
+Cancer Epithelial	Cancer Her2 SC_2
+Cancer Epithelial	Cancer Her2 SC_3
+Cancer Epithelial	Cancer LumB SC_3
+Cancer Epithelial	Cancer LumB SC_4
+Cancer Epithelial	Cancer Cycling_4
+Cancer Epithelial	Cancer Basal SC_8
+Cancer Epithelial	Cancer LumA SC_2
+Cancer Epithelial	Cancer LumA SC_4
+Cancer Epithelial	Cancer Her2 SC_4
+Cancer Epithelial	Cancer Basal SC_4
+Cancer Epithelial	Cancer Cycling_3
+Cancer Epithelial	Cancer Basal SC_2
+Cancer Epithelial	Cancer Basal SC_3
+Cancer Epithelial	Cancer LumB SC_1
+Cancer Epithelial	Cancer Cycling_6
+Cancer Epithelial	Cancer Basal SC_1
+Cancer Epithelial	Cancer Her2 SC_6
+Cancer Epithelial	Cancer Cycling_2
+Cancer Epithelial	Cancer Basal SC_7
+Cancer Epithelial	Cancer Cycling_7
+Cancer Epithelial	Cancer Cycling_5
+Cancer Epithelial	Cancer Basal SC_5
+Cancer Epithelial	Cancer Basal SC_6
+Cancer Epithelial	Cancer LumA SC_1
+Cancer Epithelial	Cancer LumA SC_5
+Cancer Epithelial	Cancer LumB SC_5
+Cancer Epithelial	Cancer LumA SC_3

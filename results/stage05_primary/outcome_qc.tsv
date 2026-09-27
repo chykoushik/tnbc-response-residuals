@@ -1,0 +1,12 @@
+check	failures	passed
+unique_patients	0	TRUE
+pcr_count	0	TRUE
+rd_count	0	TRUE
+CT_count	0	TRUE
+CTA_count	0	TRUE
+missing_labels	0	TRUE
+binary_coding	0	TRUE
+label_numeric_agreement	0	TRUE
+patient_identity	0	TRUE
+treatment_identity	0	TRUE
+residual_patient_axis	0	TRUE

@@ -1,0 +1,7 @@
+variant	axis	mean	sd	n
+S4_arm_baseline_interaction	immune_interferon	0.000339321669879326	0.0310233421905083	150
+S4_arm_baseline_interaction	proliferation	0.000173939075034003	0.0355115787729127	150
+S4_arm_baseline_interaction	stromal_emt	5.89399182067974e-05	0.0273519097158976	150
+S4_arm_baseline_interaction	dna_repair	0.00012645943483494	0.0133498333237998	150
+S4_arm_baseline_interaction	hypoxia_stress	7.95537094495944e-05	0.0166181091137387	150
+S4_arm_baseline_interaction	apoptosis	-2.43151645051098e-05	0.0126860140461765	150

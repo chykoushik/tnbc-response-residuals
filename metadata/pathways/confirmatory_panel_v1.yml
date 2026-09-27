@@ -1,0 +1,33 @@
+panel_version: v1
+freeze_timestamp: '2026-09-25T16:45:57Z'
+msigdbr_version: 26.1.1
+msigdb_version: '2026.1'
+species: Homo sapiens
+collection: H
+primary_scoring_method: singscore
+primary_scoring: singscore
+sensitivity_scoring: ssGSEA
+sensitivity_status: DEFERRED
+direction: positive
+sha256: ca93509538c2abbfd7b0e61cf71086dc2f68312ccefebb0836e3e11e2c94f1cc
+decision_status: FROZEN
+source_documentation: https://igordot.github.io/msigdbr/news/index.html
+pathways:
+- axis: immune_interferon
+  gs_name: HALLMARK_INTERFERON_GAMMA_RESPONSE
+  gene_count: 200
+- axis: proliferation
+  gs_name: HALLMARK_E2F_TARGETS
+  gene_count: 200
+- axis: stromal_emt
+  gs_name: HALLMARK_EPITHELIAL_MESENCHYMAL_TRANSITION
+  gene_count: 200
+- axis: dna_repair
+  gs_name: HALLMARK_DNA_REPAIR
+  gene_count: 150
+- axis: hypoxia_stress
+  gs_name: HALLMARK_HYPOXIA
+  gene_count: 200
+- axis: apoptosis
+  gs_name: HALLMARK_APOPTOSIS
+  gene_count: 161

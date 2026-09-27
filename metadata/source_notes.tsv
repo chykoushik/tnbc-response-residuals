@@ -1,0 +1,5 @@
+timestamp	source	topic	note
+2026-09-25T13:06:47Z	https://github.com/mdugo/Early_GEP_NeoTRIP	clinical_availability_discrepancy	The README states clinical data are not publicly available due to privacy restrictions and may be obtained upon reasonable request; the public repository contains data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt. Discrepancy recorded without interpretation.
+2026-09-25T13:06:47Z	https://github.com/mdugo/Early_GEP_NeoTRIP	repository_revision	git ls-remote HEAD: 26b765cc816fcb04794797f22d78d944e834a25b
+2026-09-25T13:06:47Z	https://github.com/mdugo/Early_GEP_NeoTRIP	gene_sets	Downloaded for provenance and later work only; not used in Stage 1.
+2026-09-25T13:06:47Z	GSE319641	expression_scale	Official processed ComBat-adjusted TPM; no additional transformation or filtering in Stage 1.

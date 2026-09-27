@@ -1,0 +1,16 @@
+{
+  "stage": 2,
+  "timestamp": "2026-09-25T14:23:11Z",
+  "stage01_verified": true,
+  "pathology_variable_found": false,
+  "pathology_variable_linkable": false,
+  "instaprism_exact_method_identified": true,
+  "instaprism_public_inputs": true,
+  "instaprism_reproduced": true,
+  "composition_samples": 401,
+  "paired_composition_patients": 150,
+  "composition_qc_failures": 0,
+  "residual_method_overlap_found": false,
+  "decision": "PROCEED_WITH_MODIFICATION",
+  "decision_reason": "Published InstaPrism method reproduced from pinned public inputs; 401 samples and 150 Stage 1 pairs pass QC. No qualifying public pathology tumour-content measurement is linkable in inspected sources; transcriptomic composition is the available measurement. Negative ComBat input values were retained exactly as in the published code; no undocumented clipping was applied. No substantial residual construct was identified in reviewed code and abstract. Publisher full text/supplements could not be retrieved; pathology availability and novelty conclusions remain limited to inspected sources. No pCR analysis performed."
+}

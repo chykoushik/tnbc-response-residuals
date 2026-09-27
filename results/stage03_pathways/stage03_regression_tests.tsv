@@ -1,0 +1,10 @@
+check	passed
+case_insensitive_leakage	TRUE
+residual_disease_leakage	TRUE
+arm_allowed	TRUE
+patient_mismatch_rejected	TRUE
+constant_scores_rejected	TRUE
+nonfinite_scores_rejected	TRUE
+composition_sample_mismatch_rejected	TRUE
+frozen_membership_reused	TRUE
+stage01_02_preserved	TRUE

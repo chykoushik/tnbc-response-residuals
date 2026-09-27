@@ -1,0 +1,15 @@
+GSM	title	tissue	timepoint_evidence
+GSM8208510	P0102, Pre, scRNAseq	triple-negative breast cancer	treatment: pre treatment
+GSM8208511	P0102, Post, scRNAseq	triple-negative breast cancer	treatment: post treatment
+GSM8391107	P02_tumor,Pre, scRNAseq	triple-negative breast cancer	treatment: pre treatment
+GSM8391108	P02_TdLN,Pre, scRNAseq	draining lymph node	treatment: pre treatment
+GSM8391109	P02_PBMC,Pre, scRNAseq	peripheral blood	treatment: pre treatment
+GSM8391110	P02_tumor,Post, scRNAseq	triple-negative breast cancer	treatment: post treatment
+GSM8391111	P02_TdLN,Post, scRNAseq	draining lymph node	treatment: post treatment
+GSM8391112	P02_PBMC,Post, scRNAseq	peripheral blood	treatment: post treatment
+GSM8391113	P03_tumor,Pre, scRNAseq	triple-negative breast cancer	treatment: pre treatment
+GSM8391114	P03_TdLN,Pre, scRNAseq	draining lymph node	treatment: pre treatment
+GSM8391115	P03_PBMC,Pre, scRNAseq	peripheral blood	treatment: pre treatment
+GSM8391116	P03_tumor,Post, scRNAseq	triple-negative breast cancer	treatment: post treatment
+GSM8391117	P03_TdLN,Post, scRNAseq	draining lymph node	treatment: post treatment
+GSM8391118	P03_PBMC,Post, scRNAseq	peripheral blood	treatment: post treatment

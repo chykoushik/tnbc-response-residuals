@@ -1,0 +1,12 @@
+{
+  "package_identified": true,
+  "package_version_identified": true,
+  "reference_identified": true,
+  "reference_public": true,
+  "input_scale_identified": true,
+  "generation_code_identified": true,
+  "cell_types_identified": true,
+  "aggregation_rules_identified": true,
+  "reproducible_from_public_inputs": true,
+  "reason": "Exact package commit, published command, BRCA reference, linear TPM input and positional aggregation identified. Public reference revision pinned; historical run checksum not supplied. No alternative reference or method substituted."
+}

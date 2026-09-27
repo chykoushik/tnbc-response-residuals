@@ -1,0 +1,13 @@
+axis	model	n_rows	n_columns	matrix_rank	zero_variance_columns	zero_variance_predictors	duplicate_columns	nonfinite_values	passed
+immune_interferon	base_model	150	4	4	(Intercept)	0	0	0	TRUE
+immune_interferon	composition_adjusted_model_v2	150	7	7	(Intercept)	0	0	0	TRUE
+proliferation	base_model	150	4	4	(Intercept)	0	0	0	TRUE
+proliferation	composition_adjusted_model_v2	150	7	7	(Intercept)	0	0	0	TRUE
+stromal_emt	base_model	150	4	4	(Intercept)	0	0	0	TRUE
+stromal_emt	composition_adjusted_model_v2	150	7	7	(Intercept)	0	0	0	TRUE
+dna_repair	base_model	150	4	4	(Intercept)	0	0	0	TRUE
+dna_repair	composition_adjusted_model_v2	150	7	7	(Intercept)	0	0	0	TRUE
+hypoxia_stress	base_model	150	4	4	(Intercept)	0	0	0	TRUE
+hypoxia_stress	composition_adjusted_model_v2	150	7	7	(Intercept)	0	0	0	TRUE
+apoptosis	base_model	150	4	4	(Intercept)	0	0	0	TRUE
+apoptosis	composition_adjusted_model_v2	150	7	7	(Intercept)	0	0	0	TRUE

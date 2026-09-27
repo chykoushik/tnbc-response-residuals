@@ -1,0 +1,3 @@
+accession	official_URL	local_relative_path	sha256
+GSE263995	https://ftp.ncbi.nlm.nih.gov/geo/series/GSE263nnn/GSE263995/soft/GSE263995_family.soft.gz	metadata/single_cell/GSE263995_family.soft.gz	6c1f66211b06eeb8fd92bd7cc69fb6a1f258a5f39da6f5cd6400852606717906
+GSE289825	https://ftp.ncbi.nlm.nih.gov/geo/series/GSE289nnn/GSE289825/soft/GSE289825_family.soft.gz	metadata/single_cell/GSE289825_family.soft.gz	d511326aa37fe2efed1e1b6839b30ecc89c36293a044088fbbf8b2eca4331d64

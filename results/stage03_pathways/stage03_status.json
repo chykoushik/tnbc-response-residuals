@@ -1,0 +1,20 @@
+{
+  "stage": 3,
+  "timestamp": "2026-09-25T16:48:18Z",
+  "stage02_verified": true,
+  "panel_version": "v1",
+  "msigdb_version": "2026.1",
+  "msigdbr_version": "26.1.1",
+  "singscore_version": "1.30.0",
+  "confirmatory_pathways": 6,
+  "all_sets_frozen": true,
+  "all_sets_pass_coverage": true,
+  "expression_samples": 401,
+  "paired_patients": 150,
+  "composition_linked_patients": 150,
+  "score_qc_failures": 0,
+  "mapping_failures": 0,
+  "forbidden_outcome_fields": 0,
+  "decision": "PROCEED",
+  "decision_reason": "Six exact MSigDB 2026.1 Hallmark sets frozen with msigdbr 26.1.1; all pass HGNC-symbol coverage. Outcome-blinded singscore scores validate for 401 samples; 150 verified paired changes link to composition. No outcome fields, mapping failures or score QC failures. Expression values and all 23,890 genes retained unchanged. Technical QC only; residual modelling, exploratory scoring and ssGSEA remain deferred."
+}

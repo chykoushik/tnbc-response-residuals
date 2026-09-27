@@ -1,0 +1,16 @@
+timestamp: '2026-09-25T19:21:35Z'
+clinical_labels_used: no
+specification_sha256: 745403e309794f3ee68ede3fef3af465ee1a54691604a13fce6b3d1acf006615
+files:
+  local_relative_path:
+  - data/processed/prediction/stage07_nested_residuals_v1.tsv.gz
+  - metadata/prediction/stage07_residual_scaling_v1.tsv
+  - metadata/prediction/stage07_outer_folds_v1.tsv
+  - metadata/prediction/stage07_residual_crossfit_folds_v1.tsv
+  - metadata/prediction/stage07_expected_tuning_folds_v1.tsv
+  sha256:
+  - 62485ce2f55f3fcb5a4f61fab8843160a83ebe0f16cadbb5178a2175874e67cd
+  - 57c6bb479bec1e6e49766dca89d95fa43d9c179f39f5c5f205d66b48ba67d31e
+  - ca523c40c32f7df13df82631889ff5a859fe0944559e80010521a34ac57dab2d
+  - ed1a621c489056eed9efc453646f0ba7339975217219c42eabcecb0d4b549c0c
+  - 2e77a02965f7474c533a0e6fa452abd7cccf57ba182ac9452d958712fa275434

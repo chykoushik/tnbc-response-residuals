@@ -1,0 +1,16 @@
+- GitHub authentication credentials are not available.
+- Please set GITHUB_PAT, or ensure the 'gitcreds' package is installed.
+- See https://usethis.r-lib.org/articles/git-credentials.html for more details.
+- Querying repositories for available source packages ... Done!
+The following package(s) will be installed:
+- InstaPrism [humengying0907/InstaPrism@7d3b57cd]
+These packages will be installed into "D:/TNBC-ResponseResiduals/renv/library/windows/R-4.5/x86_64-w64-mingw32".
+
+# Downloading packages -------------------------------------------------------
+[?25l  (0/1) Downloading: InstaPrism                                                                                                                                 [32m✔[0m InstaPrism 0.1.6                         [7.7 MB in 2.8s]
+                                                                                Successfully downloaded 1 package in 3.4 seconds.
+
+# Installing packages --------------------------------------------------------
+  (0/1) Installing: InstaPrism                                                    (0/1) Installing: InstaPrism                                                    (0/1) Installing: InstaPrism                                                    (0/1) Installing: InstaPrism                                                    (0/1) Installing: InstaPrism                                                    (0/1) Installing: InstaPrism                                                                                                                                  [32m✔[0m InstaPrism 0.1.6                         [built from source in 25s]
+Successfully installed 1 package in 25 seconds.
+[?25h

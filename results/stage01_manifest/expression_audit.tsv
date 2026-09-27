@@ -1,0 +1,15 @@
+check	count	detail
+expression_sample_columns	401	
+gene_rows	23890	
+duplicate_sample_names	0	
+missing_sample_names	0	
+malformed_expression_rows	0	
+duplicate_HGNC_approved_symbol	0	
+missing_HGNC_approved_symbol	0	
+duplicate_HGNC_id	0	
+missing_HGNC_id	0	
+duplicate_entrez_gene_id	0	
+missing_entrez_gene_id	617	
+unmatched_expression_samples	0	
+unmatched_phenotype_samples	0	
+phenotype_expression_expectation	401	All supplied phenotype rows are expected to have expression.

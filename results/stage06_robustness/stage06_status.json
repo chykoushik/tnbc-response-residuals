@@ -1,0 +1,20 @@
+{
+  "stage": 6,
+  "timestamp": "2026-09-25T18:55:47Z",
+  "stage05_verified": true,
+  "five_sensitivities_completed": true,
+  "permutations_completed": true,
+  "permutations_per_pathway": 10000,
+  "influence_completed": true,
+  "random_gene_controls_completed": true,
+  "arm_interaction_completed": true,
+  "arm_specific_residuals_completed": true,
+  "complete_case_verified": true,
+  "technical_failures": 0,
+  "full_eligible_pathways": 0,
+  "hypothesis_generating_pathways": 4,
+  "not_robust_pathways": 2,
+  "external_transportability_decision": "SKIP",
+  "decision": "PROCEED",
+  "decision_reason": "All planned Stage 6 analyses completed with zero technical failures. At least one pathway matches its prespecified direction and is stable in at least four of five sensitivities. Primary multiplicity results remain unchanged; no pathway meets full external-transportability eligibility. External transportability is skipped; no external cohort or Stage 7 analysis was opened."
+}

@@ -1,0 +1,7 @@
+figure	scope	raster_dpi	vector_pdf	significance_stars
+Figure1	Study design, public audit, patient flow and residual construction	300	TRUE	FALSE
+Figure2	Baseline, D1C2, pathway and composition changes	300	TRUE	FALSE
+Figure3	Cross-fitted expected versus observed changes and residual distributions	300	TRUE	FALSE
+Figure4	Primary residual associations and composition adjustment comparison	300	TRUE	FALSE
+Figure5	Five sensitivities, permutations, influence and matched random controls	300	TRUE	FALSE
+Figure6	Secondary prediction and orthogonal single-cell interpretation	300	TRUE	FALSE

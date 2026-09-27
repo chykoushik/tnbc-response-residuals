@@ -1,0 +1,18 @@
+item	value	source_file	source_line	verified	notes
+package	InstaPrism	external/neotrip_2026_repo/renv.lock	884-933	TRUE	
+package_version	0.1.6	external/neotrip_2026_repo/renv.lock	886	TRUE	
+package_commit	7d3b57cde9342c5eac7282f4c2d8bff09f21e693	external/neotrip_2026_repo/renv.lock	932	TRUE	
+generation_command	deconv_tpm = InstaPrism(bulk_Expr = expData, refPhi_cs = ref)	external/neotrip_2026_repo/scripts/12-SuppFigure5.R	21-30	TRUE	
+reference	InstaPrism_reference('BRCA')	external/neotrip_2026_repo/scripts/12-SuppFigure5.R	28	TRUE	
+reference_public	https://raw.githubusercontent.com/humengying0907/InstaPrismSourceCode/33d5e0cb76fbe5d06f4375e7b69de27532d4f075/refPhi/BRCA_refPhi.RDS	external/instaprism_source/R/InstaPrism.R	951-968	TRUE	Original function resolves mutable main; archived file revision pinned from public history, last changed 2024-05-15. Original run reference checksum not supplied.
+input_scale	Linear ComBat-adjusted TPM	external/neotrip_2026_repo/scripts/12-SuppFigure5.R	21-29	TRUE	Stage 1 official expression source; no outcome-dependent filtering or log transform.
+preprocessing	HGNC symbols become row names; remove three annotation columns; no external gene filter	external/neotrip_2026_repo/scripts/12-SuppFigure5.R	21-27	TRUE	
+source_file_resolution	Official GSE319641 supplementary TPM file retained with GEO accession prefix	external/neotrip_2026_repo/scripts/01-data_download_and_singscore.R	14-18;34-39	TRUE	Authors' local read path omits the GEO prefix; reproduction reads the official gzip directly without renaming, unzipping to disk or editing source bytes.
+negative_input_handling	Published code supplies linear ComBat values unchanged; neither caller nor default bpPrepare clips negative bulk values	external/neotrip_2026_repo/scripts/12-SuppFigure5.R	21-29;external/instaprism_source/R/InstaPrism.R:86-161	TRUE	Source input QC records negative entries. Retained for literal reproduction; this is a methodological limitation, not proof of biological negative abundance.
+internal_preprocessing	Default bpPrepare: shared genes, bulk outlier filtering, reference normalization; n.iter=max(100,2*cell_states)	external/instaprism_source/R/InstaPrism.R	208-285;bpPrepare 84-181	TRUE	
+cell_types	Endothelial;CAFs;PVL;B-cells;T-cells;Myeloid;Normal Epithelial;Cancer Epithelial	external/instaprism_reference/BRCA_refPhi.RDS	map slot; ordered names	TRUE	
+Cancer_Epithelial	Cancer Epithelial	external/neotrip_2026_repo/scripts/13-SuppFigure6.R	24-28	TRUE	Cell type 8 in public BRCA reference; phenodata has nine columns before binding theta. Name normalization only; not pathology.
+Stromal_fraction	Endothelial+CAFs+PVL	external/neotrip_2026_repo/scripts/13-SuppFigure6.R	26;29	TRUE	Phenodata columns 10:12 correspond to first three reference cell types; exact positional rule.
+Immune_fraction	B-cells+T-cells+Myeloid	external/neotrip_2026_repo/scripts/13-SuppFigure6.R	26;30	TRUE	Phenodata columns 13:15 correspond to reference cell types 4:6; normal epithelial component is not added.
+fraction_units	Full theta: 0-1; summary and paired changes: percent/percentage points	external/neotrip_2026_repo/scripts/13-SuppFigure6.R	24-30	TRUE	Published aggregation multiplies theta by 100. The full eight-type vector sums to 1; the three summaries exclude normal epithelium and need not sum to 100.
+normalization_evidence	ppguess divided by sum(ppguess); cell-state theta summed by map	external/instaprism_source/src/cppFuncs.cpp	55;R/InstaPrism.R:302	TRUE	

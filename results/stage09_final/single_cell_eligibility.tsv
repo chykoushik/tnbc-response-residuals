@@ -1,0 +1,3 @@
+accession	eligible	dataset_status	reason
+GSE263995	TRUE	ELIGIBLE	All six frozen pathways meet 80% coverage in every sample
+GSE289825	FALSE	OMIT_TECHNICAL	At least one frozen pathway has less than 80% common measured-gene coverage; no subset rescue

@@ -1,0 +1,7 @@
+variant	axis	mean	sd	n
+S2_no_baseline_composition	immune_interferon	0.000212476472563937	0.0312188184692041	150
+S2_no_baseline_composition	proliferation	0.000136979356730917	0.0357300736375743	150
+S2_no_baseline_composition	stromal_emt	-2.83371898924193e-05	0.0271933433503165	150
+S2_no_baseline_composition	dna_repair	9.17563296304e-05	0.0134449818770043	150
+S2_no_baseline_composition	hypoxia_stress	5.98669667636307e-05	0.0166130971374775	150
+S2_no_baseline_composition	apoptosis	-1.70225733462099e-05	0.0125613770827223	150

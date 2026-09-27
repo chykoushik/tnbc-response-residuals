@@ -1,0 +1,6 @@
+source("R/paths.R")
+source("R/checksums.R")
+source("R/prediction_folds.R")
+source("R/sc_source_audit.R")
+source("R/final_reproducibility.R")
+run_stage("35_run_final_reproducibility_audit", {environment09();claims09();audit09()})

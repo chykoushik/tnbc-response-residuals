@@ -1,0 +1,7 @@
+comparison	metric	mean_difference	median_difference	repeats_favoring_later	minimum	maximum	mean_improves	interpretation
+P3 - P1	auc_difference	0.00125889436234264	-0.00310162379127898	4	-0.0275497172048896	0.0563765736179529	TRUE	Secondary descriptive result; no significance threshold or biological success criterion
+P3 - P1	brier_difference	0.000279239733409764	0.000633928598444147	5	-0.00347193923896794	0.00313963020235908	FALSE	Secondary descriptive result; no significance threshold or biological success criterion
+P3 - P1	logloss_difference	-0.000149004704417444	0.0013438177899851	5	-0.00713192067996538	0.00548308661188135	TRUE	Secondary descriptive result; no significance threshold or biological success criterion
+P4 - P2	auc_difference	-0.00589308520343003	-0.00319284802043429	5	-0.0275497172048896	0.0109469074986317	FALSE	Secondary descriptive result; no significance threshold or biological success criterion
+P4 - P2	brier_difference	0.000676283134103464	0.000581419542394532	4	-0.00197746048428263	0.00255686783209613	FALSE	Secondary descriptive result; no significance threshold or biological success criterion
+P4 - P2	logloss_difference	0.00115727011655837	0.00139049672456687	3	-0.005192378079802	0.00525155410244604	FALSE	Secondary descriptive result; no significance threshold or biological success criterion

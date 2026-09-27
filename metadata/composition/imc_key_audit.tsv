@@ -1,0 +1,5 @@
+field	unique_values	stage01_exact_key_matches	rule
+Patient_ID	119	0	Exact string comparison only; no prefix conversion, numeric matching or inferred crosswalk
+Tissue_ID	119	0	Exact string comparison only; no prefix conversion, numeric matching or inferred crosswalk
+fov	372	0	Exact string comparison only; no prefix conversion, numeric matching or inferred crosswalk
+_index	485523	0	Exact string comparison only; no prefix conversion, numeric matching or inferred crosswalk

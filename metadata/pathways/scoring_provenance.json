@@ -1,0 +1,26 @@
+{
+  "timestamp": "2026-09-25T16:48:28Z",
+  "singscore_version": "1.30.0",
+  "bioconductor_version": "3.22",
+  "R_version": "R version 4.5.2 (2025-10-31 ucrt)",
+  "expression_sha256": "397f7e4d9d0272ed7867c08bdc6191ea1b4d4369b0ab4480622aa31a7e7cf56c",
+  "frozen_gene_sets_sha256": "ca93509538c2abbfd7b0e61cf71086dc2f68312ccefebb0836e3e11e2c94f1cc",
+  "gene_universe": 23890,
+  "samples": 401,
+  "matching_key": "HGNC_approved_symbol",
+  "rankGenes": {
+    "tiesMethod": "min",
+    "stable_genes": "not supplied"
+  },
+  "simpleScore": {
+    "upSet": "frozen genes matched by HGNC symbol",
+    "downSet": "not supplied",
+    "centerScore": true,
+    "knownDirection": true,
+    "score_column": "TotalScore"
+  },
+  "expression_transformation": "none",
+  "patient_score_standardization": "none",
+  "missing_entrez_genes_retained": 617,
+  "documentation": "https://bioconductor.org/packages/3.22/bioc/vignettes/singscore/inst/doc/singscore.html"
+}

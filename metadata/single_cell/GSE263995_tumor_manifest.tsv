@@ -1,0 +1,7 @@
+GSM	patient_id	timepoint	title	tissue	timepoint_evidence	repository_url
+GSM8208510	P0102	Pre	P0102, Pre, scRNAseq	triple-negative breast cancer	treatment: pre treatment	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM8208510
+GSM8208511	P0102	Post	P0102, Post, scRNAseq	triple-negative breast cancer	treatment: post treatment	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM8208511
+GSM8391107	P02	Pre	P02_tumor,Pre, scRNAseq	triple-negative breast cancer	treatment: pre treatment	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM8391107
+GSM8391110	P02	Post	P02_tumor,Post, scRNAseq	triple-negative breast cancer	treatment: post treatment	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM8391110
+GSM8391113	P03	Pre	P03_tumor,Pre, scRNAseq	triple-negative breast cancer	treatment: pre treatment	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM8391113
+GSM8391116	P03	Post	P03_tumor,Post, scRNAseq	triple-negative breast cancer	treatment: post treatment	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM8391116

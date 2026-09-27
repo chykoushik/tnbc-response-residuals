@@ -1,0 +1,65 @@
+Warning: stack imbalance in '<-', 70 then 72
+immune_interferon 10 
+immune_interferon 20 
+immune_interferon 30 
+immune_interferon 40 
+immune_interferon 50 
+immune_interferon 60 
+immune_interferon 70 
+immune_interferon 80 
+immune_interferon 90 
+immune_interferon 100 
+proliferation 10 
+proliferation 20 
+proliferation 30 
+proliferation 40 
+proliferation 50 
+proliferation 60 
+proliferation 70 
+proliferation 80 
+proliferation 90 
+proliferation 100 
+stromal_emt 10 
+stromal_emt 20 
+stromal_emt 30 
+stromal_emt 40 
+stromal_emt 50 
+stromal_emt 60 
+stromal_emt 70 
+stromal_emt 80 
+stromal_emt 90 
+stromal_emt 100 
+dna_repair 10 
+dna_repair 20 
+dna_repair 30 
+dna_repair 40 
+dna_repair 50 
+dna_repair 60 
+dna_repair 70 
+dna_repair 80 
+dna_repair 90 
+dna_repair 100 
+hypoxia_stress 10 
+hypoxia_stress 20 
+hypoxia_stress 30 
+hypoxia_stress 40 
+hypoxia_stress 50 
+hypoxia_stress 60 
+hypoxia_stress 70 
+hypoxia_stress 80 
+hypoxia_stress 90 
+hypoxia_stress 100 
+apoptosis 10 
+apoptosis 20 
+apoptosis 30 
+apoptosis 40 
+apoptosis 50 
+apoptosis 60 
+apoptosis 70 
+apoptosis 80 
+apoptosis 90 
+apoptosis 100 
+Warning: stack imbalance in '{', 66 then 68
+Warning: stack imbalance in 'if', 64 then 66
+Warning: stack imbalance in '{', 60 then 62
+Warning: stack imbalance in '{', 51 then 53

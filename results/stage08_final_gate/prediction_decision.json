@@ -1,0 +1,6 @@
+{
+  "prediction_secondary": true,
+  "consistent_incremental_gain": false,
+  "decision_curve_status": "NOT_RUN",
+  "interpretation": "No residual-addition comparison improves all three mean metrics simultaneously; predictive improvement and clinical utility are not supported."
+}

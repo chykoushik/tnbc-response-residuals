@@ -1,0 +1,18 @@
+seed: 319660
+cell_qc: scuttle quickPerCellQC independently by sample; default 3 MAD
+mitochondria_regex: ^MT-
+doublets: scDblFinder per sample with default parameters and SerialParam
+normalization: Seurat LogNormalize scale.factor 10000; no integration or regression
+annotation: SingleR HumanPrimaryCellAtlasData label.main; pruned NA mapped to other
+minimum_compartment_cells: 50
+scoring: UCell maxRank 1500; average ties; missing genes imputed zero
+attribution: Highest median of evaluable patient-compartment medians at both timepoints;
+  require at least two evaluable patients per compartment and concordant top compartment.
+  Different top compartments are MULTICOMPARTMENT; absent sufficient support or substantial
+  scoring discordance is INCONCLUSIVE.
+substantial_discordance: More than half of evaluable paired patient-compartment directions
+  disagree between UCell and pseudobulk singscore
+pseudobulk: sum raw counts; edgeR TMM across profiles; logCPM prior.count 2; singscore
+  positive-set scores
+no_clinical_response: yes
+no_significance_tests: yes

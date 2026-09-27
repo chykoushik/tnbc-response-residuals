@@ -1,0 +1,6 @@
+file	forbidden_fields	passed
+data/processed/pathways/neotrip_model_inputs_blinded_v1.tsv	0	TRUE
+metadata/modeling/stage04_outer_folds_v1.tsv	0	TRUE
+metadata/modeling/stage04_inner_folds_v1.tsv	0	TRUE
+data/processed/composition/neotrip_pair_composition_change.tsv	0	TRUE
+data/processed/composition/neotrip_composition.tsv	0	TRUE

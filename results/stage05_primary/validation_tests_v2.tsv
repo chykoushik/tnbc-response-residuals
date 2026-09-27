@@ -1,0 +1,16 @@
+check	passed
+prior_stage_and_v1_bytes_preserved	TRUE
+amendment_frozen_before_models	TRUE
+directions_unchanged	TRUE
+exact_primary_and_base_terms	TRUE
+reference_component_excluded	TRUE
+duplicate_predictor_rejected	TRUE
+constant_predictor_rejected	TRUE
+nonfinite_predictor_rejected	TRUE
+complete_separation_detected	TRUE
+raw_and_scaled_residuals_unchanged	TRUE
+sample_and_pair_composition_verified	TRUE
+saved_model_likelihood_verified	TRUE
+inference_reproduced	TRUE
+bonferroni_verified	TRUE
+familywise_intervals_verified	TRUE

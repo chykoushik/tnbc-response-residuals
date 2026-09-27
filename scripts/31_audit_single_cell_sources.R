@@ -1,0 +1,7 @@
+source("R/paths.R")
+source("R/checksums.R")
+source("R/prediction_folds.R")
+source("R/final_gate.R")
+source("R/sc_source_audit.R")
+init09()
+run_stage("31_audit_single_cell_sources", audit_sources09())

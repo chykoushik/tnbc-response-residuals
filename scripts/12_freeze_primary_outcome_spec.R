@@ -1,0 +1,10 @@
+source("D:/TNBC-ResponseResiduals/R/paths.R")
+setwd(root)
+source(path("R/checksums.R"))
+source(path("R/outcome_manifest.R"))
+init05()
+run_stage("12_freeze_primary_outcome_spec", {
+  verify_stage04_05()
+  freeze_spec05()
+})
+cat("Primary specification frozen\n")

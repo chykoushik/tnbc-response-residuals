@@ -1,0 +1,23 @@
+{
+  "stage": 9,
+  "timestamp": "2026-09-25T20:59:59Z",
+  "stage08_verified": true,
+  "GSE263995_audited": true,
+  "GSE263995_eligible": true,
+  "GSE263995_patients": 3,
+  "GSE263995_tumor_pairs": 3,
+  "GSE289825_audited": true,
+  "GSE289825_eligible": false,
+  "single_cell_status": "COMPLETED",
+  "final_figures": 6,
+  "final_tables": 6,
+  "reproducibility_failures": 0,
+  "checksum_failures": 0,
+  "raw_integrity_failures": 0,
+  "claim_audit_failures": 0,
+  "external_transportability": "SKIPPED",
+  "multiplicity_confirmed_pathways": 0,
+  "incremental_prediction_gain": false,
+  "decision": "PROCEED_TO_MANUSCRIPT",
+  "decision_reason": "Frozen Stage 1-8 outputs and raw-data hashes verified; six final figures and six tables are frozen. Single-cell support is descriptive orthogonal cell-type interpretation only; the targeted panel is omitted for inadequate gene coverage. Claims remain NeoTRIP-only, hypothesis-generating, without confirmatory multiplicity success, independent replication, incremental predictive improvement, clinical utility or mechanistic proof. Manuscript writing not started."
+}

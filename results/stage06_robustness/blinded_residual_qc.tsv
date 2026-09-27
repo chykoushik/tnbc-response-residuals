@@ -1,0 +1,7 @@
+file	patients	predictions	missing	nonfinite	duplicate_keys	forbidden_fields	passed
+data/processed/sensitivity/residuals_s1_ssgsea.tsv	150	900	0	0	0	0	TRUE
+data/processed/sensitivity/residuals_s2_no_baseline_composition.tsv	150	900	0	0	0	0	TRUE
+data/processed/sensitivity/residuals_s3_lambda_min.tsv	150	900	0	0	0	0	TRUE
+data/processed/sensitivity/residuals_s4_arm_baseline_interaction.tsv	150	900	0	0	0	0	TRUE
+data/processed/sensitivity/residuals_arm_specific.tsv	150	900	0	0	0	0	TRUE
+data/processed/sensitivity/random_null_residuals_v1.tsv.gz	150	90000	0	0	0	0	TRUE

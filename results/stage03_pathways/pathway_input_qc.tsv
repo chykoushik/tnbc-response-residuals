@@ -1,0 +1,13 @@
+check	failures	passed	detail
+expression_genes_unique	0	TRUE	HGNC IDs
+hgnc_symbols_unique	0	TRUE	HGNC approved symbols
+missing_symbols	0	TRUE	No empty symbol
+duplicated_symbols	0	TRUE	No duplicate symbol
+expression_samples	0	TRUE	401
+expression_genes	0	TRUE	23890
+sample_identity	0	TRUE	Exact Stage 1 sample IDs
+duplicate_samples	0	TRUE	Unique sample IDs
+finite_expression	0	TRUE	All values finite
+sample_order	0	TRUE	Stage 1 expression order
+missing_entrez_retained	0	TRUE	617 genes retained
+negative_values_unchanged	0	TRUE	670839 negative values retained; no transformation

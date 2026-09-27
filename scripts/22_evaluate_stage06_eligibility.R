@@ -1,0 +1,11 @@
+source("D:/TNBC-ResponseResiduals/R/paths.R")
+setwd(root)
+source(path("R/checksums.R"))
+source(path("R/stage06_common.R"))
+source(path("R/eligibility_gate.R"))
+run06("22_evaluate_stage06_eligibility", {
+  verify_prior06()
+  eligibility06()
+  figures06()
+})
+cat("Eligibility evaluated\n")

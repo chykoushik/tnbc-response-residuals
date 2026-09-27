@@ -1,0 +1,15 @@
+check	passed
+forbidden_field_patterns_rejected	TRUE
+allowed_molecular_fields	TRUE
+exact_baseline_predictors	TRUE
+postbaseline_predictors_excluded	TRUE
+fold_seed_reproduction	TRUE
+fold_order_invariance	TRUE
+inner_seed_reproduction	TRUE
+heldout_patient_contamination_rejected	TRUE
+unexpected_arm_rejected	TRUE
+all_saved_model_predictions_reproduced	TRUE
+training_only_benchmarks_reproduced	TRUE
+constant_residual_rejected	TRUE
+standardized_residuals_valid	TRUE
+prior_stage_bytes_preserved	TRUE

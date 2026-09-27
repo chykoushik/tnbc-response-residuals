@@ -1,0 +1,13 @@
+axis	model	frame_verified	likelihood_score_max	information_se_max_error	passed
+immune_interferon	base_model	TRUE	2.42840496149366e-08	3.84974614622835e-06	TRUE
+immune_interferon	composition_adjusted_model_v2	TRUE	1.50936510789901e-08	7.16386358401433e-06	TRUE
+proliferation	base_model	TRUE	2.24136265103425e-11	7.72499989254438e-08	TRUE
+proliferation	composition_adjusted_model_v2	TRUE	1.99212313312103e-11	2.02351593703298e-07	TRUE
+stromal_emt	base_model	TRUE	1.442401753593e-12	1.7809888064324e-08	TRUE
+stromal_emt	composition_adjusted_model_v2	TRUE	2.45353737327036e-12	7.49011393463839e-08	TRUE
+dna_repair	base_model	TRUE	1.80688797257744e-13	6.63421639846007e-09	TRUE
+dna_repair	composition_adjusted_model_v2	TRUE	3.93263199782723e-12	7.29507345087477e-08	TRUE
+hypoxia_stress	base_model	TRUE	8.47710790452538e-13	1.32229510674264e-08	TRUE
+hypoxia_stress	composition_adjusted_model_v2	TRUE	8.49875725350557e-13	3.68616319690318e-08	TRUE
+apoptosis	base_model	TRUE	7.28528348759028e-13	2.25113237217744e-08	TRUE
+apoptosis	composition_adjusted_model_v2	TRUE	8.7711388152556e-10	1.53357605570115e-06	TRUE

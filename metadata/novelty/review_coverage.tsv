@@ -1,0 +1,17 @@
+source	sha256	line_count	review
+scripts/00a-helper_functions.R	fb800f897cffe6ff0ad9af74a877feb62ea839c762bfce7dccfbaa3749ef48df	246	Static read-only review of inputs, transformations, model targets, predictions and exported objects; not executed.
+scripts/00b-project_setup.R	8401cc626573b97fa0f9d9640826ebbd6556517540b5ab330f81b3ddb51edc26	16	Static read-only review of inputs, transformations, model targets, predictions and exported objects; not executed.
+scripts/01-data_download_and_singscore.R	4bc05c1d250f1db51701bfd11bfd1db42c0814f158761721904839d58c7161b8	104	Static read-only review of inputs, transformations, model targets, predictions and exported objects; not executed.
+scripts/02-Figure1.R	099a39b3c345ad39912dbd33554bce07deb815d7d02eeafd18e430a0c11483ab	171	Static read-only review of inputs, transformations, model targets, predictions and exported objects; not executed.
+scripts/03-Figure2.R	9be64be8a8a12652f3104d6c43c5cad11f812360421b9e28da89a59a81b35e9d	219	Static read-only review of inputs, transformations, model targets, predictions and exported objects; not executed.
+scripts/04-Figure3.R	ad7d5af8f2c12de243146f6da162336c40deb7dc99ba435529eddef880da0dda	338	Static read-only review of inputs, transformations, model targets, predictions and exported objects; not executed.
+scripts/05-Figure4.R	5aef10344dfe581210a8cf21b19b69ae57fb8a53a11b1f80435fd3cc60d076b1	210	Static read-only review of inputs, transformations, model targets, predictions and exported objects; not executed.
+scripts/06-Figure5.R	d5d90f06931679c7f802c8723373f368f49a6bfe1b2b07284c2cd5bff8ef0efb	235	Static read-only review of inputs, transformations, model targets, predictions and exported objects; not executed.
+scripts/07-Figure6.R	e6eb07960c254dd62ca7b30783e32aac2b48744a90d7bf3ec4f226a29981398d	548	Static read-only review of inputs, transformations, model targets, predictions and exported objects; not executed.
+scripts/08-SuppFigure1.R	769ff66e76b66b9408af84d8836952158a654ae8767985acfd30f5a0d6f224c9	74	Static read-only review of inputs, transformations, model targets, predictions and exported objects; not executed.
+scripts/09-SuppFigure2.R	d57d597ab5ba9e1ecdc2a5ac00f2a20ce84696255d00e66041b060bf0f66d5fa	64	Static read-only review of inputs, transformations, model targets, predictions and exported objects; not executed.
+scripts/10-SuppFigure3.R	5691e615ed11b7957c8376242bc62b36d55d89ae291a1bea2878766cdd4c3801	191	Static read-only review of inputs, transformations, model targets, predictions and exported objects; not executed.
+scripts/11-SuppFigure4.R	ba490750d00b4efd3988a11c5755c107b8717e71654d5e52542008f4f30a4826	79	Static read-only review of inputs, transformations, model targets, predictions and exported objects; not executed.
+scripts/12-SuppFigure5.R	85102a1e1fd569436ead74293d9bc30e5382f19205e6af5350344a2cce0e7433	473	Static read-only review of inputs, transformations, model targets, predictions and exported objects; not executed.
+scripts/13-SuppFigure6.R	5386292304cf48da9d9cd59e4727b8d7107db6e83f19a0d9fd5a7028ff26d950	447	Static read-only review of inputs, transformations, model targets, predictions and exported objects; not executed.
+scripts/14-SuppFigure7.R	e803345bbac4b942436a42cf8d734434e2e1dcf1267cedf408480756e8013883	94	Static read-only review of inputs, transformations, model targets, predictions and exported objects; not executed.

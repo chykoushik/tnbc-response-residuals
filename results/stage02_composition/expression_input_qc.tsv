@@ -1,0 +1,6 @@
+check	value	interpretation
+nonfinite_values	0	Must be zero
+negative_values	670839	Retained unchanged as supplied in published linear ComBat TPM input
+samples_with_negative_values	401	No samples excluded; published code does not clip negative values
+minimum_value	-0.9805975	Observed source minimum
+nonpositive_sample_totals	0	Must be zero

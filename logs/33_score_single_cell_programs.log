@@ -1,0 +1,21 @@
+Loading required namespace: SummarizedExperiment
+2026-09-25T20:41:46Z $ operator not defined for this S4 class 
+2026-09-25T20:43:26Z subscript out of bounds 
+Annotated and scored GSM8208510 5903 cells
+Annotated and scored GSM8208511 5121 cells
+Annotated and scored GSM8391107 7442 cells
+Annotated and scored GSM8391110 3515 cells
+Annotated and scored GSM8391113 5440 cells
+Annotated and scored GSM8391116 1418 cells
+Warning in checkGenes(upSet, rownames(rankData)) :
+  4 genes missing: MARCHF1, RIGI, TMT1B, WARS1
+Warning in checkGenes(upSet, rownames(rankData)) :
+  2 genes missing: H2AX, H2AZ1
+Warning in checkGenes(upSet, rownames(rankData)) :
+  2 genes missing: CCN1, CCN2
+Warning in checkGenes(upSet, rownames(rankData)) :
+  1 genes missing: POLR1H
+Warning in checkGenes(upSet, rownames(rankData)) :
+  3 genes missing: CCN1, CCN2, CCN5
+Warning in checkGenes(upSet, rownames(rankData)) :
+  2 genes missing: GPX1, H1-0

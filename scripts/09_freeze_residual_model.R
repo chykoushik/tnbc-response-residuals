@@ -1,0 +1,12 @@
+source("D:/TNBC-ResponseResiduals/R/paths.R")
+setwd(root)
+source(path("R/checksums.R"))
+source(path("R/fold_generation.R"))
+run04("09_freeze_residual_model", {
+  verify_stage03()
+  x <- read_input04()
+  s <- freeze_spec04()
+  freeze_folds04(x, s)
+  if (file.exists(path(stage04_freeze))) verify_residual_freeze04()
+})
+cat("Model specification frozen\n")

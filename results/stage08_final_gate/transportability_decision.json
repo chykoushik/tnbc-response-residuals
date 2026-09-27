@@ -1,0 +1,7 @@
+{
+  "eligible_pathways": [],
+  "eligible_count": 0,
+  "GSE122630_status": "SKIP",
+  "reason": "No confirmatory pathway satisfied the complete prespecified eligibility rule.",
+  "data_presence": "ABSENT_NOT_DOWNLOADED"
+}

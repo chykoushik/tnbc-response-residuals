@@ -1,0 +1,8 @@
+check	passed
+expected_six_samples	TRUE
+singlet_cell_coverage	TRUE
+unique_cell_identity	TRUE
+all_six_scores	TRUE
+finite_bounded_scores	TRUE
+no_clinical_fields	TRUE
+annotation_coverage	TRUE

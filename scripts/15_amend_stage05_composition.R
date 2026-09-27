@@ -1,0 +1,11 @@
+source("D:/TNBC-ResponseResiduals/R/paths.R")
+setwd(root)
+source(path("R/checksums.R"))
+source(path("R/outcome_manifest.R"))
+source(path("R/stage05_v2.R"))
+run_stage("15_amend_stage05_composition", {
+  verify_v2()
+  freeze_yaml_v2(amendment_v2(), amend_v2)
+  freeze_yaml_v2(specification_v2(), spec_v2)
+})
+cat("Amendment frozen\n")

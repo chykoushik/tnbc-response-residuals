@@ -1,0 +1,19 @@
+timestamp: '2026-09-25T17:03:24Z'
+R_version: R version 4.5.2 (2025-10-31 ucrt)
+glmnet_version: '5.1'
+input_file: data/processed/pathways/neotrip_model_inputs_blinded_v1.tsv
+input_sha256: e4a11ccf91152aeb6f81852dee4ebf6db63148750d2520d3e8a7377d6daf4b80
+models: 60
+predictions: 900
+predictor_scaling: Training data only, internal to each glmnet fit
+outer_predictions: Only held-out patients; lambda.1se
+lambda_grid: Derived by cv.glmnet from each outer training set; inner fits use their
+  own training scaling
+benchmarks:
+- Outer-training mean delta
+- Outer-training delta ~ arm linear model
+residual_scaling: Mean and sample SD of the 150 cross-fitted residuals per axis
+clinical_labels_accessed: no
+prior_stage_validation: Status and checksum manifests; raw sources hashed only
+panel_changes: none
+model_redesign: none

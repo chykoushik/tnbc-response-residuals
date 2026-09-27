@@ -1,0 +1,10 @@
+root: D:/TNBC-ResponseResiduals
+stage: 1
+geo_accession: GSE319641
+repository: https://github.com/mdugo/Early_GEP_NeoTRIP
+geo_base: https://ftp.ncbi.nlm.nih.gov/geo/series/GSE319nnn/GSE319641
+expression_file: GSE319641_NeoTRIP_baseline_D1C2_TPM_ComBat_all_samples.txt.gz
+timepoints: [Baseline, D1C2]
+arms: [CT, CT/A]
+pcr_values: [pCR, RD]
+pcr_numeric: ['1', '0']

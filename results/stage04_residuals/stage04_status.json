@@ -1,0 +1,20 @@
+{
+  "stage": 4,
+  "timestamp": "2026-09-25T17:03:22Z",
+  "stage03_verified": true,
+  "model_version": "v1",
+  "patients": 150,
+  "pathways": 6,
+  "outer_folds": 10,
+  "inner_folds": 10,
+  "crossfitted_predictions": 900,
+  "patient_separation_failures": 0,
+  "leakage_failures": 0,
+  "residual_qc_failures": 0,
+  "pathways_beating_intercept": 6,
+  "pathways_beating_arm_only": 6,
+  "all_residuals_frozen": true,
+  "residual_freeze_sha256": "99f92b86fa08c2e6149de589882e82d8452b47abe7564546f54bb2db5faee470",
+  "decision": "PROCEED",
+  "decision_reason": "All 150 patients have six verified outer-fold predictions; patient separation, leakage and residual QC pass. Frozen v1 residuals retain all six pathways. 6 pathways improve on arm-only OOF MSE and 6 improve on intercept-only OOF MSE. Clinical outcomes were not accessed; no model redesign or Stage 5 analysis was performed."
+}

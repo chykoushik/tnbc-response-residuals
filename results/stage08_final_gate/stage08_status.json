@@ -1,0 +1,16 @@
+{
+  "stage": 8,
+  "timestamp": "2026-09-25T20:12:46Z",
+  "stage05_verified": true,
+  "stage06_verified": true,
+  "stage07_verified": true,
+  "patients": 150,
+  "confirmatory_pathways": 6,
+  "multiplicity_confirmed_pathways": 0,
+  "full_transportability_eligible_pathways": 0,
+  "GSE122630_status": "SKIP",
+  "consistent_incremental_prediction_gain": false,
+  "fundamental_stop_condition": false,
+  "decision": "PROCEED_NEOTRIP_ONLY",
+  "decision_reason": "Technical reconstruction, composition, residuals and primary models are valid; directionally stable hypothesis-generating associations remain. No multiplicity-confirmed pathway or external-transportability eligibility exists. Continue with single-cohort scope; no positive confirmatory result, predictive improvement, clinical utility or high-impact external-validation framing is supported."
+}

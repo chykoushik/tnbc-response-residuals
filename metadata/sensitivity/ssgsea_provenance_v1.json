@@ -1,0 +1,13 @@
+{
+  "GSVA_version": "2.4.9",
+  "alpha": 0.25,
+  "normalize": true,
+  "minSize": 1,
+  "maxSize": "Inf",
+  "gene_matching": "HGNC symbols",
+  "expression_transformation": "none",
+  "genes": 23890,
+  "samples": 401,
+  "negative_values_retained": 670839,
+  "frozen_membership_sha256": "ca93509538c2abbfd7b0e61cf71086dc2f68312ccefebb0836e3e11e2c94f1cc"
+}

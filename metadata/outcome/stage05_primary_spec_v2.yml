@@ -1,0 +1,77 @@
+version: v2
+outcome: pCR
+outcome_positive: pCR
+outcome_negative: RD
+model_family: binomial_logit
+primary_effect: residual_z
+effect_scale: one_sd_residual
+tests: two_sided
+multiplicity_family: six_confirmatory_pathways
+multiplicity_method: bonferroni
+familywise_alpha: 0.05
+composition_adjusted_model: yes
+composition_coordinates:
+- delta_cancer_epithelial
+- delta_immune_fraction
+- delta_stromal_fraction
+treatment_interaction: none
+subgroup_analysis: none
+axes:
+- immune_interferon
+- proliferation
+- stromal_emt
+- dna_repair
+- hypoxia_stress
+- apoptosis
+directions:
+  immune_interferon: positive
+  proliferation: negative
+  stromal_emt: negative
+  dna_repair: negative
+  hypoxia_stress: negative
+  apoptosis: positive
+direction_definition:
+  positive: OR > 1
+  negative: OR < 1
+arm_encoding:
+  CT: 0
+  CT/A: 1
+primary_terms:
+- residual_z_axis
+- arm
+- baseline_z_axis
+- delta_cancer_epithelial_10
+- delta_immune_fraction_10
+- delta_stromal_fraction_10
+base_terms:
+- residual_z_axis
+- arm
+- baseline_z_axis
+inference: Wald normal approximation; two-sided
+effect_size_threshold_positive: 1.5
+effect_size_threshold_negative: 0.6666667
+composition_constraint_tolerance: 1.0e-08
+composition_input_units: percentage_points
+composition_analysis_units: fraction_change
+composition_conversion: Stage 2 percentage-point delta / 100; modelling fraction delta
+  / 0.10
+composition_units_provenance: metadata/composition/reproduction_provenance.json
+baseline_scaling: Mean and sample SD across all 150 patients, without outcome values
+attenuation_zero_tolerance: 1.4901161e-08
+stage06_eligibility: DEFERRED
+freeze_timestamp: '2026-09-25T18:28:03Z'
+composition_definition:
+  components:
+  - cancer_epithelial
+  - normal_epithelial
+  - immune
+  - stromal
+omitted_reference_component: delta_normal_epithelial
+composition_scale: 10_percentage_point_absolute_change
+primary_model_name: composition_adjusted_model_v2
+sample_sum_tolerance: 1.0e-08
+separation_diagnostic: detectseparation::detect_separation; diagnostic only, no estimator
+  substitution
+separation_package_version: 0.4.0
+separation_documentation: https://ikosmidis.r-universe.dev/detectseparation/doc/manual.html
+methodology_amendment_sha256: f59fe749151a2fea4af5129fd7dc91013afde3864962e51728eacb162066568d

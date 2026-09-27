@@ -1,0 +1,22 @@
+package 'renv' successfully unpacked and MD5 sums checked
+- The project is out-of-sync -- use `renv::status()` for details.
+- The project is out-of-sync -- use `renv::status()` for details.
+- Querying repositories for available source packages ... Done!
+The following package(s) will be installed:
+- digest   [0.6.39]
+- jsonlite [2.0.0]
+- yaml     [2.3.12]
+These packages will be installed into "D:/TNBC-ResponseResiduals/renv/library/windows/R-4.5/x86_64-w64-mingw32".
+
+# Downloading packages -------------------------------------------------------
+[?25l  (0/3) Downloading: yaml, jsonlite, digest                                                                                                                     y yaml 2.3.12                              [125 kB in 0.22s]
+  (1/3) Downloading: jsonlite, digest                                                                                                                           y digest 0.6.39                            [226 kB in 0.25s]
+  (2/3) Downloading: jsonlite                                                                                                                                   y jsonlite 2.0.0                           [1.1 MB in 0.54s]
+                                                                                Successfully downloaded 3 packages in 1.1 seconds.
+
+# Installing packages --------------------------------------------------------
+                                                                                y digest 0.6.39                            [installed binary]
+                                                                                y jsonlite 2.0.0                           [installed binary]
+                                                                                y yaml 2.3.12                              [installed binary]
+Successfully installed 3 packages in 0.95 seconds.
+[?25h

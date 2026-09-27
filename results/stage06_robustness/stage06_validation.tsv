@@ -1,0 +1,12 @@
+check	passed
+prior_stage_files_unchanged	TRUE
+blinded_freeze_intact	TRUE
+five_variant_rule_verified	TRUE
+permutation_assignments_valid	TRUE
+permutation_pvalues_reproduced	TRUE
+influence_refits_complete	TRUE
+influence_arithmetic_verified	TRUE
+null_genes_exclude_confirmatory	TRUE
+null_sizes_and_bins_match	TRUE
+six_hundred_null_results	TRUE
+primary_multiplicity_preserved	TRUE

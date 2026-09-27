@@ -1,0 +1,12 @@
+{
+  "started": "2026-09-25T18:13:48Z",
+  "stage04_verified": true,
+  "residual_freeze_verified": true,
+  "specification_verified": true,
+  "models_attempted": false,
+  "decision": "MODIFY_REVIEW",
+  "reason": "150 of 150 patients fail the required three-component zero-sum constraint after explicit percentage-point to fraction conversion; maximum absolute sum = 0.2968252795 . No logistic models were fitted; the two-coordinate parameterization requires methodology review.",
+  "specification_sha256": "caa30f2489c8b808c1fe863a18ce6fdde06a5560af89ebde9876a2763cebfe95",
+  "outcome_access_started": "2026-09-25T18:13:48Z",
+  "completed": "2026-09-25T18:13:48Z"
+}

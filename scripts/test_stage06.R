@@ -1,0 +1,11 @@
+source("D:/TNBC-ResponseResiduals/R/paths.R")
+setwd(root)
+source(path("R/checksums.R"))
+source(path("R/stage06_common.R"))
+source(path("R/stage06_validation.R"))
+run06("stage06_tests", {
+  requireNamespace("glmnet", quietly = TRUE)
+  validate_crossfit06()
+  validate_outputs06()
+})
+cat("Stage 6 checks passed\n")

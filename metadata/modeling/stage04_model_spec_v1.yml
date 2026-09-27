@@ -1,0 +1,60 @@
+model_version: v1
+model_family: gaussian
+method: ridge
+alpha: 0.0
+lambda_rule: lambda.1se
+outer_folds: 10
+inner_folds: 10
+master_seed: 319641
+stratification: treatment_arm
+standardize: yes
+intercept: yes
+nlambda: 100
+lambda_min_ratio: 0.0001
+type_measure: mse
+predictors:
+- arm
+- baseline_immune_interferon
+- baseline_proliferation
+- baseline_stromal_emt
+- baseline_dna_repair
+- baseline_hypoxia_stress
+- baseline_apoptosis
+- baseline_cancer_epithelial
+- baseline_stromal_fraction
+- baseline_immune_fraction
+outcomes:
+- delta_immune_interferon
+- delta_proliferation
+- delta_stromal_emt
+- delta_dna_repair
+- delta_hypoxia_stress
+- delta_apoptosis
+axes:
+- immune_interferon
+- proliferation
+- stromal_emt
+- dna_repair
+- hypoxia_stress
+- apoptosis
+arm_encoding:
+  CT: 0
+  CT/A: 1
+interaction_terms: none
+outcome_information_used: no
+global_predictor_scaling: none
+lambda_min_sensitivity: DEFERRED
+feature_selection: none
+rng_kind:
+- Mersenne-Twister
+- Inversion
+- Rejection
+fold_algorithm: Sort patient IDs within CT then CT/A; independently shuffle balanced
+  repeated fold labels
+inner_seed_rule: master_seed + outer_fold
+benchmark_r2: 1 - sum((observed - predicted)^2) / sum((observed - mean(observed))^2)
+cv_grouped: yes
+cv_alignment: lambda
+cv_parallel: no
+glmnet_version: '5.1'
+documentation: https://search.r-project.org/CRAN/refmans/glmnet/html/cv.glmnet.html

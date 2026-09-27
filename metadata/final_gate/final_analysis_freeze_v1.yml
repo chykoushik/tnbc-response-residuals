@@ -1,0 +1,14 @@
+primary_cohort: GSE319641
+analytic_patients: 150
+confirmatory_pathways: 6
+residual_version: Stage4_v1
+primary_outcome_version: Stage5_v2
+robustness_version: Stage6_v1
+prediction_version: Stage7_v1
+external_transportability: SKIPPED
+single_cell_status: COMPLETED
+single_cell_dataset_used: GSE263995
+multiplicity_confirmed_pathways: 0
+clinical_prediction_gain: no
+manuscript_ready: yes
+freeze_timestamp: '2026-09-25T20:59:59Z'

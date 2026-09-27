@@ -1,0 +1,12 @@
+check	passed
+stage04_freeze_intact	TRUE
+specification_precedes_outcome_access	TRUE
+exact_patient_join	TRUE
+outcome_counts_match	TRUE
+raw_residuals_unchanged	TRUE
+standardized_residuals_unchanged	TRUE
+baseline_scaling_reproduced	TRUE
+explicit_composition_unit_conversion	TRUE
+ten_percentage_point_scaling	TRUE
+composition_constraint_reproduced	TRUE
+failed_constraint_prevents_models	TRUE

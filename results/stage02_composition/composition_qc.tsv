@@ -1,0 +1,14 @@
+check	failures	passed	detail
+sample_count	0	TRUE	Full cell-type theta fractions in [0,1]; sum tolerance 1e-8; Stage 1 exact keys.
+sample_order	0	TRUE	Full cell-type theta fractions in [0,1]; sum tolerance 1e-8; Stage 1 exact keys.
+duplicate_sample_ids	0	TRUE	Full cell-type theta fractions in [0,1]; sum tolerance 1e-8; Stage 1 exact keys.
+missing_fractions	0	TRUE	Full cell-type theta fractions in [0,1]; sum tolerance 1e-8; Stage 1 exact keys.
+non_finite_values	0	TRUE	Full cell-type theta fractions in [0,1]; sum tolerance 1e-8; Stage 1 exact keys.
+negative_fractions	0	TRUE	Full cell-type theta fractions in [0,1]; sum tolerance 1e-8; Stage 1 exact keys.
+fractions_above_one	0	TRUE	Full cell-type theta fractions in [0,1]; sum tolerance 1e-8; Stage 1 exact keys.
+component_sum	0	TRUE	Full cell-type theta fractions in [0,1]; sum tolerance 1e-8; Stage 1 exact keys.
+unmatched_samples	0	TRUE	Full cell-type theta fractions in [0,1]; sum tolerance 1e-8; Stage 1 exact keys.
+patient_mapping	0	TRUE	Full cell-type theta fractions in [0,1]; sum tolerance 1e-8; Stage 1 exact keys.
+timepoint_mapping	0	TRUE	Full cell-type theta fractions in [0,1]; sum tolerance 1e-8; Stage 1 exact keys.
+cell_type_order	0	TRUE	Pinned BRCA map order.
+method_warnings	0	TRUE	No method warnings.

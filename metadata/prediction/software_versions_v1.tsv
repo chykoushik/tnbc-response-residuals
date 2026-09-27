@@ -1,0 +1,8 @@
+R_version	platform	package	package_version
+R version 4.5.2 (2025-10-31 ucrt)	x86_64-w64-mingw32	glmnet	5.1
+R version 4.5.2 (2025-10-31 ucrt)	x86_64-w64-mingw32	Matrix	1.7.4
+R version 4.5.2 (2025-10-31 ucrt)	x86_64-w64-mingw32	stats	4.5.2
+R version 4.5.2 (2025-10-31 ucrt)	x86_64-w64-mingw32	renv	1.2.4
+R version 4.5.2 (2025-10-31 ucrt)	x86_64-w64-mingw32	digest	0.6.39
+R version 4.5.2 (2025-10-31 ucrt)	x86_64-w64-mingw32	yaml	2.3.12
+R version 4.5.2 (2025-10-31 ucrt)	x86_64-w64-mingw32	jsonlite	2.0.0

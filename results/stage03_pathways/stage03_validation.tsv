@@ -1,0 +1,11 @@
+check	passed
+sample_schema	TRUE
+sample_mapping	TRUE
+score_qc	TRUE
+score_reproduction	TRUE
+neotrip_confirmatory_pair_scores_v1.tsv_schema	TRUE
+neotrip_confirmatory_pair_scores_v1.tsv	TRUE
+neotrip_model_inputs_blinded_v1.tsv_schema	TRUE
+neotrip_model_inputs_blinded_v1.tsv	TRUE
+leakage	TRUE
+figures	TRUE

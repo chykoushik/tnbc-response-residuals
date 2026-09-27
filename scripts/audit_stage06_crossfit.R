@@ -1,0 +1,11 @@
+source("D:/TNBC-ResponseResiduals/R/paths.R")
+setwd(root)
+source(path("R/checksums.R"))
+source(path("R/stage06_common.R"))
+source(path("R/stage06_validation.R"))
+run06("stage06_crossfit_audit", {
+  requireNamespace("glmnet", quietly = TRUE)
+  verify_blind_freeze06()
+  validate_crossfit06()
+})
+cat("Cross-fitting verified\n")

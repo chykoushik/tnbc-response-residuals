@@ -1,0 +1,40 @@
+timestamp	url	local_path	downloaded	access_result
+2026-09-25T14:02:37Z	https://api.crossref.org/works/10.1016/j.annonc.2026.05.694	external/neotrip_2026_paper/crossref.json	TRUE	downloaded
+2026-09-25T14:02:37Z	https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:42162664%20AND%20SRC:MED&format=json&resultType=core	external/neotrip_2026_paper/europepmc.json	TRUE	downloaded
+2026-09-25T14:02:38Z	https://api.elsevier.com/content/article/pii/S0923753426008781?httpAccept=text/xml		FALSE	cannot open URL 'https://api.elsevier.com/content/article/pii/S0923753426008781?httpAccept=text/xml'
+2026-09-25T14:02:38Z	https://zenodo.org/api/records/17871576	external/neotrip_2026_paper/zenodo_rna.json	TRUE	downloaded
+2026-09-25T14:02:39Z	https://zenodo.org/api/records/7990870	external/neotrip_2026_paper/zenodo_imc.json	TRUE	downloaded
+2026-09-25T14:02:42Z	https://www.annalsofoncology.org/article/S0923-7534(26)00878-1/fulltext		FALSE	cannot open URL 'https://www.annalsofoncology.org/article/S0923-7534(26)00878-1/fulltext'
+2026-09-25T14:02:42Z	https://www.sciencedirect.com/science/article/pii/S0923753426008781		FALSE	cannot open URL 'https://www.sciencedirect.com/science/article/pii/S0923753426008781'
+2026-09-25T14:02:45Z	https://raw.githubusercontent.com/humengying0907/InstaPrismSourceCode/33d5e0cb76fbe5d06f4375e7b69de27532d4f075/refPhi/BRCA_refPhi.RDS	external/instaprism_reference/BRCA_refPhi.RDS	TRUE	downloaded
+2026-09-25T14:02:45Z	https://api.github.com/repos/humengying0907/InstaPrismSourceCode/commits?path=refPhi/BRCA_refPhi.RDS&per_page=100	external/instaprism_reference/reference_history.json	TRUE	downloaded
+2026-09-25T14:07:22Z	https://raw.githubusercontent.com/humengying0907/InstaPrismSourceCode/33d5e0cb76fbe5d06f4375e7b69de27532d4f075/refPhi/BRCA_refPhi.RDS	external/instaprism_reference/BRCA_refPhi.RDS	TRUE	cached
+2026-09-25T14:07:22Z	https://api.github.com/repos/humengying0907/InstaPrismSourceCode/commits?path=refPhi/BRCA_refPhi.RDS&per_page=100	external/instaprism_reference/reference_history.json	TRUE	cached
+2026-09-25T14:10:10Z	https://raw.githubusercontent.com/humengying0907/InstaPrismSourceCode/33d5e0cb76fbe5d06f4375e7b69de27532d4f075/refPhi/BRCA_refPhi.RDS	external/instaprism_reference/BRCA_refPhi.RDS	TRUE	cached
+2026-09-25T14:10:10Z	https://api.github.com/repos/humengying0907/InstaPrismSourceCode/commits?path=refPhi/BRCA_refPhi.RDS&per_page=100	external/instaprism_reference/reference_history.json	TRUE	cached
+2026-09-25T14:11:35Z	https://iris.unisr.it/handle/20.500.11768/206316		FALSE	cannot open URL 'https://iris.unisr.it/handle/20.500.11768/206316'
+2026-09-25T14:11:35Z	https://iris.unisr.it/retrieve/7983debc-661f-45e8-8d0d-11427faad894/PIIS0923753426008781.pdf		FALSE	cannot open URL 'https://iris.unisr.it/retrieve/7983debc-661f-45e8-8d0d-11427faad894/PIIS0923753426008781.pdf'
+2026-09-25T14:13:43Z	https://zenodo.org/api/records/14290163	external/neotrip_2026_paper/quiche_zenodo.json	TRUE	downloaded
+2026-09-25T14:15:30Z	https://zenodo.org/api/records/14290163/files/nt_preprocessed.h5ad/content	external/neotrip_2026_paper/nt_preprocessed.h5ad	TRUE	downloaded
+2026-09-25T14:15:31Z	https://zenodo.org/api/records/19226009		FALSE	cannot open URL 'https://zenodo.org/api/records/19226009'
+2026-09-25T14:16:11Z	https://iris.unisr.it/handle/20.500.11768/206316		FALSE	cannot open URL 'https://iris.unisr.it/handle/20.500.11768/206316'
+2026-09-25T14:16:11Z	https://iris.unisr.it/retrieve/7983debc-661f-45e8-8d0d-11427faad894/PIIS0923753426008781.pdf		FALSE	cannot open URL 'https://iris.unisr.it/retrieve/7983debc-661f-45e8-8d0d-11427faad894/PIIS0923753426008781.pdf'
+2026-09-25T14:18:40Z	https://zenodo.org/api/records/14290163	external/neotrip_2026_paper/quiche_zenodo.json	TRUE	cached
+2026-09-25T14:18:40Z	https://zenodo.org/api/records/14290163/files/nt_preprocessed.h5ad/content	external/neotrip_2026_paper/nt_preprocessed.h5ad	TRUE	cached
+2026-09-25T14:18:41Z	https://zenodo.org/api/records/19226009		FALSE	cannot open URL 'https://zenodo.org/api/records/19226009'
+2026-09-25T14:18:43Z	https://raw.githubusercontent.com/humengying0907/InstaPrismSourceCode/33d5e0cb76fbe5d06f4375e7b69de27532d4f075/refPhi/BRCA_refPhi.RDS	external/instaprism_reference/BRCA_refPhi.RDS	TRUE	cached
+2026-09-25T14:18:43Z	https://api.github.com/repos/humengying0907/InstaPrismSourceCode/commits?path=refPhi/BRCA_refPhi.RDS&per_page=100	external/instaprism_reference/reference_history.json	TRUE	cached
+2026-09-25T14:23:05Z	https://api.crossref.org/works/10.1016/j.annonc.2026.05.694	external/neotrip_2026_paper/crossref.json	TRUE	cached
+2026-09-25T14:23:05Z	https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:42162664%20AND%20SRC:MED&format=json&resultType=core	external/neotrip_2026_paper/europepmc.json	TRUE	cached
+2026-09-25T14:23:05Z	https://api.elsevier.com/content/article/pii/S0923753426008781?httpAccept=text/xml	external/neotrip_2026_paper/elsevier.xml	TRUE	downloaded
+2026-09-25T14:23:05Z	https://zenodo.org/api/records/17871576	external/neotrip_2026_paper/zenodo_rna.json	TRUE	cached
+2026-09-25T14:23:05Z	https://zenodo.org/api/records/7990870	external/neotrip_2026_paper/zenodo_imc.json	TRUE	cached
+2026-09-25T14:23:06Z	https://www.annalsofoncology.org/article/S0923-7534(26)00878-1/fulltext		FALSE	cannot open URL 'https://www.annalsofoncology.org/article/S0923-7534(26)00878-1/fulltext'
+2026-09-25T14:23:06Z	https://www.sciencedirect.com/science/article/pii/S0923753426008781		FALSE	cannot open URL 'https://www.sciencedirect.com/science/article/pii/S0923753426008781'
+2026-09-25T14:23:06Z	https://iris.unisr.it/handle/20.500.11768/206316		FALSE	cannot open URL 'https://iris.unisr.it/handle/20.500.11768/206316'
+2026-09-25T14:23:06Z	https://iris.unisr.it/retrieve/7983debc-661f-45e8-8d0d-11427faad894/PIIS0923753426008781.pdf		FALSE	cannot open URL 'https://iris.unisr.it/retrieve/7983debc-661f-45e8-8d0d-11427faad894/PIIS0923753426008781.pdf'
+2026-09-25T14:23:06Z	https://zenodo.org/api/records/14290163	external/neotrip_2026_paper/quiche_zenodo.json	TRUE	cached
+2026-09-25T14:23:07Z	https://zenodo.org/api/records/14290163/files/nt_preprocessed.h5ad/content	external/neotrip_2026_paper/nt_preprocessed.h5ad	TRUE	cached
+2026-09-25T14:23:07Z	https://zenodo.org/api/records/19226009		FALSE	cannot open URL 'https://zenodo.org/api/records/19226009'
+2026-09-25T14:23:09Z	https://raw.githubusercontent.com/humengying0907/InstaPrismSourceCode/33d5e0cb76fbe5d06f4375e7b69de27532d4f075/refPhi/BRCA_refPhi.RDS	external/instaprism_reference/BRCA_refPhi.RDS	TRUE	cached
+2026-09-25T14:23:09Z	https://api.github.com/repos/humengying0907/InstaPrismSourceCode/commits?path=refPhi/BRCA_refPhi.RDS&per_page=100	external/instaprism_reference/reference_history.json	TRUE	cached

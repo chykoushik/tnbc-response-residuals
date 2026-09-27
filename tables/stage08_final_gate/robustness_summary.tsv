@@ -1,0 +1,7 @@
+axis	sensitivity_stable_count	permutation_gate	influence_gate	random_gene_null_percentile	full_transportability_eligible	stage06_classification
+immune_interferon	5	TRUE	TRUE	99	FALSE	HYPOTHESIS_GENERATING
+proliferation	5	TRUE	TRUE	90	FALSE	HYPOTHESIS_GENERATING
+stromal_emt	5	FALSE	TRUE	92	FALSE	NOT_ROBUST
+dna_repair	5	FALSE	FALSE	26	FALSE	HYPOTHESIS_GENERATING
+hypoxia_stress	5	FALSE	TRUE	93	FALSE	NOT_ROBUST
+apoptosis	5	TRUE	TRUE	96	FALSE	HYPOTHESIS_GENERATING

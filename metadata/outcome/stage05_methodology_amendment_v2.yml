@@ -1,0 +1,18 @@
+amendment_version: v2
+freeze_timestamp: '2026-09-25T18:28:03Z'
+previous_status: MODIFY_REVIEW
+previous_models_fitted: 0
+reason: four_component_composition
+previous_assumption: cancer + immune + stromal sums to one
+verified_definition: cancer + normal_epithelial + immune + stromal sums to one
+primary_reference_component: normal_epithelial
+primary_coordinates:
+- delta_cancer_epithelial
+- delta_immune_fraction
+- delta_stromal_fraction
+outcome_results_seen_before_amendment: no
+residual_construction_changed: no
+pathway_panel_changed: no
+outcome_definition_changed: no
+basis: User-authorized correction of verified composition definition before association
+  modelling

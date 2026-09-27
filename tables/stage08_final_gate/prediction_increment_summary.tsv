@@ -1,0 +1,3 @@
+comparison	mean_auc_difference	mean_brier_difference	mean_logloss_difference	auc_repeats_favoring_residuals	brier_repeats_favoring_residuals	logloss_repeats_favoring_residuals
+P3 - P1	0.00125889436234264	0.000279239733409764	-0.000149004704417444	4	5	5
+P4 - P2	-0.00589308520343003	0.000676283134103464	0.00115727011655837	5	4	3

@@ -1,0 +1,4 @@
+axis	gs_name	gene_symbol	entrez_gene	ensembl_gene	db_version	source
+apoptosis	HALLMARK_APOPTOSIS	IFNB1	3456	ENSG00000171855	2026.1.Hs	msigdbr 26.1.1; MSigDB human 2026.1; collection H
+hypoxia_stress	HALLMARK_HYPOXIA	BRS3	680	ENSG00000102239	2026.1.Hs	msigdbr 26.1.1; MSigDB human 2026.1; collection H
+hypoxia_stress	HALLMARK_HYPOXIA	GAPDHS	26330	ENSG00000105679	2026.1.Hs	msigdbr 26.1.1; MSigDB human 2026.1; collection H

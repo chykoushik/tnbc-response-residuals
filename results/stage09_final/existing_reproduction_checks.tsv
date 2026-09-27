@@ -1,0 +1,6 @@
+check	passed	method
+stage04_regression	TRUE	Read and verify frozen validation results; no model fitting or statistic recomputation
+stage05_saved_models	TRUE	Read and verify frozen validation results; no model fitting or statistic recomputation
+stage06_crossfit_reproduction	TRUE	Read and verify frozen validation results; no model fitting or statistic recomputation
+stage07_saved_models	TRUE	Read and verify frozen validation results; no model fitting or statistic recomputation
+stage07_no_leakage	TRUE	Read and verify frozen validation results; no model fitting or statistic recomputation

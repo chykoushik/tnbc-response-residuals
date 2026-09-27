@@ -1,0 +1,17 @@
+{
+  "stage": 1,
+  "timestamp": "2026-09-25T13:06:54Z",
+  "geo_accession": "GSE319641",
+  "geo_samples": 401,
+  "expression_samples": 401,
+  "phenotype_rows": 401,
+  "unique_patients": 251,
+  "paired_patients": 150,
+  "paired_with_arm": 150,
+  "paired_with_pcr": 150,
+  "paired_complete": 150,
+  "mapping_failures": 0,
+  "metadata_conflicts": 0,
+  "decision": "PROCEED",
+  "decision_reason": "All sample mappings agree exactly; 150 complete pairs have consistent treatment and pCR. No unresolved systematic mismatch was detected. Gene annotation warnings, if present, do not affect sample identity. Observed counts require methodology review; sample-size adequacy is not inferred."
+}

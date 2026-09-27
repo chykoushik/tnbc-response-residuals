@@ -1,0 +1,26 @@
+timestamp: '2026-09-25T18:51:28Z'
+clinical_labels_accessed: no
+specification_sha256: fb46d2055d01212548365498ea3b68dcafc5dc89b22c0a207ef4f8fbfe0e6bcd
+files:
+  local_relative_path:
+  - data/processed/sensitivity/residuals_s1_ssgsea.tsv
+  - data/processed/sensitivity/residuals_s2_no_baseline_composition.tsv
+  - data/processed/sensitivity/residuals_s3_lambda_min.tsv
+  - data/processed/sensitivity/residuals_s4_arm_baseline_interaction.tsv
+  - data/processed/sensitivity/residuals_arm_specific.tsv
+  - data/processed/sensitivity/random_null_residuals_v1.tsv.gz
+  - data/processed/sensitivity/random_null_residuals_raw_v1.tsv.gz
+  - metadata/sensitivity/random_matched_gene_sets_v1.tsv.gz
+  - data/processed/sensitivity/ssgsea_confirmatory_scores_v1.tsv.gz
+  - metadata/sensitivity/arm_specific_inner_folds_v1.tsv
+  sha256:
+  - bb199551413cf7d352013e5445f8afb56a57adb9f31370e43dab41fc11f490c2
+  - 4e7893a74f18512c508a0574cc1be2b643e724aba5206e5a1faa6738178f2967
+  - 14e0d3a49730a60db4305961a55121916fa8fa5c7ed2236855062dca8d22ecb9
+  - 7a9d2db9276880084f89e68a53b25f138fcd92008cf0e630d7005ab0e73f3c72
+  - 5455a3b2644664764f25bbbf17c0b30f0cfb308d49e89f1675cee82524dca399
+  - b8a4f55dc918d9235ed71c42a562a778e15214ce394df4d80732a8717918a226
+  - c1a903c1eca236757abc63bf218cd564fd0dc89ed54341017e6a86fd38b070b1
+  - 5d4b35a84f9bd2a209b33b44ad3f6ceace8635e013e7234caf44eeed28cad456
+  - 93e506a4ec9f272627b06d87977386bd6a1b0bcdbee15192fb7f5f42980aee78
+  - 869662d572646d0cc85a59d8f2468fd39ef808083b327ce6f511d5a48c459b3a

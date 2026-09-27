@@ -1,0 +1,17 @@
+version: v1
+primary_dataset: GSE319641
+analytic_patients: 150
+confirmatory_pathways: 6
+primary_scoring: singscore
+primary_residual_model: Stage4_v1
+primary_outcome_model: Stage5_v2
+robustness_stage: Stage6_v1
+prediction_stage: Stage7_v1
+external_transportability: SKIPPED
+GSE122630: NOT_ANALYSED
+decision_curve: NOT_RUN
+exploratory_hallmark: NOT_RUN
+single_cell_support: PENDING_STAGE09
+manuscript_status: NOT_STARTED
+project_decision: PROCEED_NEOTRIP_ONLY
+claims_subject_to_stage09_audit: yes

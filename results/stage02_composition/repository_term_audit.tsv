@@ -1,0 +1,453 @@
+term	file	line_number	matched_text
+Early.pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	1	Sample_ID Patient_ID Timepoint Arm pCR pCR.num Early.pCR TNBCtype Batch_correlation
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	1	Sample_ID Patient_ID Timepoint Arm pCR pCR.num Early.pCR TNBCtype Batch_correlation
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	5	TNBC01436_Baseline TNBC01436 Baseline CT pCR 1 pCR IM Batch 2
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	6	TNBC01436_D1C2 TNBC01436 D1C2 CT pCR 1 pCR IM Batch 2
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	7	TNBC01926_Baseline TNBC01926 Baseline CT pCR 1 NA BL1 Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	8	TNBC03683_Baseline TNBC03683 Baseline CT/A pCR 1 pCR BL1 Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	9	TNBC03683_D1C2 TNBC03683 D1C2 CT/A pCR 1 pCR BL2 Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	10	TNBC03920_Baseline TNBC03920 Baseline CT pCR 1 pCR UNS Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	11	TNBC03920_D1C2 TNBC03920 D1C2 CT pCR 1 pCR MSL Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	13	TNBC04687_Baseline TNBC04687 Baseline CT pCR 1 pCR BL1 Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	16	TNBC06123_Baseline TNBC06123 Baseline CT/A pCR 1 Sustained e-pCR UNS Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	19	TNBC06324_Baseline TNBC06324 Baseline CT pCR 1 pCR M Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	20	TNBC06324_D1C2 TNBC06324 D1C2 CT pCR 1 pCR M Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	23	TNBC06775_Baseline TNBC06775 Baseline CT/A pCR 1 Sustained e-pCR BL1 Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	24	TNBC07076_D1C2 TNBC07076 D1C2 CT pCR 1 pCR IM Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	26	TNBC07348_Baseline TNBC07348 Baseline CT/A pCR 1 Sustained e-pCR IM Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	27	TNBC07550_Baseline TNBC07550 Baseline CT pCR 1 pCR LAR Batch 1
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	28	TNBC07550_D1C2 TNBC07550 D1C2 CT pCR 1 pCR MSL Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	29	TNBC07711_Baseline TNBC07711 Baseline CT/A pCR 1 Sustained e-pCR IM Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	30	TNBC07895_Baseline TNBC07895 Baseline CT pCR 1 pCR M Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	31	TNBC07895_D1C2 TNBC07895 D1C2 CT pCR 1 pCR M Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	34	TNBC08172_Baseline TNBC08172 Baseline CT/A pCR 1 NA BL1 Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	35	TNBC08670_Baseline TNBC08670 Baseline CT/A RD 0 Transient e-pCR LAR Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	45	TNBC11579_Baseline TNBC11579 Baseline CT/A pCR 1 pCR IM Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	46	TNBC11579_D1C2 TNBC11579 D1C2 CT/A pCR 1 pCR UNS Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	49	TNBC12534_Baseline TNBC12534 Baseline CT pCR 1 pCR MSL Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	50	TNBC12534_D1C2 TNBC12534 D1C2 CT pCR 1 pCR UNS Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	51	TNBC12644_Baseline TNBC12644 Baseline CT/A pCR 1 pCR M Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	52	TNBC12644_D1C2 TNBC12644 D1C2 CT/A pCR 1 pCR MSL Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	55	TNBC13721_Baseline TNBC13721 Baseline CT/A pCR 1 Sustained e-pCR IM Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	58	TNBC13954_Baseline TNBC13954 Baseline CT pCR 1 Sustained e-pCR IM Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	59	TNBC13988_Baseline TNBC13988 Baseline CT pCR 1 pCR M Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	60	TNBC13988_D1C2 TNBC13988 D1C2 CT pCR 1 pCR UNS Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	61	TNBC13995_Baseline TNBC13995 Baseline CT pCR 1 pCR BL1 Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	62	TNBC13995_D1C2 TNBC13995 D1C2 CT pCR 1 pCR UNS Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	65	TNBC14100_Baseline TNBC14100 Baseline CT/A pCR 1 Sustained e-pCR MSL Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	68	TNBC14163_Baseline TNBC14163 Baseline CT RD 0 Transient e-pCR BL1 Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	69	TNBC14419_Baseline TNBC14419 Baseline CT/A RD 0 Transient e-pCR BL1 Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	78	TNBC16427_Baseline TNBC16427 Baseline CT/A pCR 1 pCR M Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	79	TNBC16427_D1C2 TNBC16427 D1C2 CT/A pCR 1 pCR M Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	84	TNBC16653_Baseline TNBC16653 Baseline CT pCR 1 pCR M Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	85	TNBC16653_D1C2 TNBC16653 D1C2 CT pCR 1 pCR UNS Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	86	TNBC16918_Baseline TNBC16918 Baseline CT pCR 1 Sustained e-pCR IM Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	89	TNBC17157_Baseline TNBC17157 Baseline CT/A pCR 1 pCR BL1 Batch 2
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	90	TNBC17157_D1C2 TNBC17157 D1C2 CT/A pCR 1 pCR IM Batch 2
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	94	TNBC18242_Baseline TNBC18242 Baseline CT/A pCR 1 pCR BL1 Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	95	TNBC18242_D1C2 TNBC18242 D1C2 CT/A pCR 1 pCR IM Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	108	TNBC20977_Baseline TNBC20977 Baseline CT pCR 1 pCR BL1 Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	109	TNBC20977_D1C2 TNBC20977 D1C2 CT pCR 1 pCR MSL Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	114	TNBC21538_Baseline TNBC21538 Baseline CT/A pCR 1 Sustained e-pCR BL1 Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	115	TNBC22219_Baseline TNBC22219 Baseline CT pCR 1 Sustained e-pCR M Batch 1
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	116	TNBC22557_Baseline TNBC22557 Baseline CT/A pCR 1 Sustained e-pCR BL1 Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	117	TNBC23635_Baseline TNBC23635 Baseline CT pCR 1 Sustained e-pCR UNS Batch 2
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	118	TNBC23988_Baseline TNBC23988 Baseline CT/A pCR 1 NA IM Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	119	TNBC24087_Baseline TNBC24087 Baseline CT/A pCR 1 pCR M Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	120	TNBC24087_D1C2 TNBC24087 D1C2 CT/A pCR 1 pCR IM Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	125	TNBC25372_Baseline TNBC25372 Baseline CT pCR 1 pCR IM Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	126	TNBC25372_D1C2 TNBC25372 D1C2 CT pCR 1 pCR IM Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	127	TNBC25694_Baseline TNBC25694 Baseline CT/A pCR 1 pCR BL1 Batch 2
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	128	TNBC25694_D1C2 TNBC25694 D1C2 CT/A pCR 1 pCR MSL Batch 2
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	129	TNBC26224_Baseline TNBC26224 Baseline CT pCR 1 pCR MSL Batch 2
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	130	TNBC26224_D1C2 TNBC26224 D1C2 CT pCR 1 pCR BL2 Batch 2
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	131	TNBC26226_Baseline TNBC26226 Baseline CT/A pCR 1 pCR M Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	132	TNBC26226_D1C2 TNBC26226 D1C2 CT/A pCR 1 pCR IM Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	133	TNBC26502_Baseline TNBC26502 Baseline CT pCR 1 pCR BL1 Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	134	TNBC26502_D1C2 TNBC26502 D1C2 CT pCR 1 pCR IM Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	141	TNBC27308_Baseline TNBC27308 Baseline CT/A pCR 1 pCR M Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	142	TNBC27308_D1C2 TNBC27308 D1C2 CT/A pCR 1 pCR IM Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	143	TNBC27408_Baseline TNBC27408 Baseline CT pCR 1 Sustained e-pCR M Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	151	TNBC29782_Baseline TNBC29782 Baseline CT/A pCR 1 Sustained e-pCR IM Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	155	TNBC30276_Baseline TNBC30276 Baseline CT pCR 1 pCR IM Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	156	TNBC30276_D1C2 TNBC30276 D1C2 CT pCR 1 pCR IM Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	157	TNBC30391_Baseline TNBC30391 Baseline CT pCR 1 pCR BL1 Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	158	TNBC30391_D1C2 TNBC30391 D1C2 CT pCR 1 pCR IM Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	163	TNBC33632_D1C2 TNBC33632 D1C2 CT/A pCR 1 pCR UNS Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	166	TNBC34652_Baseline TNBC34652 Baseline CT/A RD 0 Transient e-pCR IM Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	167	TNBC34981_Baseline TNBC34981 Baseline CT pCR 1 Sustained e-pCR MSL Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	168	TNBC35810_Baseline TNBC35810 Baseline CT/A pCR 1 Sustained e-pCR IM Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	170	TNBC37020_Baseline TNBC37020 Baseline CT pCR 1 pCR BL1 Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	171	TNBC37020_D1C2 TNBC37020 D1C2 CT pCR 1 pCR IM Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	172	TNBC37606_Baseline TNBC37606 Baseline CT pCR 1 Sustained e-pCR M Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	173	TNBC37723_Baseline TNBC37723 Baseline CT/A pCR 1 Sustained e-pCR IM Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	176	TNBC37865_Baseline TNBC37865 Baseline CT pCR 1 pCR UNS Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	177	TNBC37865_D1C2 TNBC37865 D1C2 CT pCR 1 pCR MSL Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	180	TNBC38928_Baseline TNBC38928 Baseline CT pCR 1 Sustained e-pCR MSL Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	181	TNBC39361_Baseline TNBC39361 Baseline CT pCR 1 Sustained e-pCR BL1 Batch 1
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	184	TNBC41186_Baseline TNBC41186 Baseline CT/A pCR 1 pCR MSL Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	185	TNBC41186_D1C2 TNBC41186 D1C2 CT/A pCR 1 pCR IM Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	190	TNBC41807_Baseline TNBC41807 Baseline CT/A pCR 1 Sustained e-pCR BL1 Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	192	TNBC41956_Baseline TNBC41956 Baseline CT pCR 1 pCR BL1 Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	193	TNBC41956_D1C2 TNBC41956 D1C2 CT pCR 1 pCR IM Batch 2
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	196	TNBC42925_Baseline TNBC42925 Baseline CT RD 0 Transient e-pCR BL1 Batch 2
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	197	TNBC43171_Baseline TNBC43171 Baseline CT/A pCR 1 pCR UNS Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	198	TNBC43171_D1C2 TNBC43171 D1C2 CT/A pCR 1 pCR MSL Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	201	TNBC43892_D1C2 TNBC43892 D1C2 CT pCR 1 pCR BL2 Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	202	TNBC44181_Baseline TNBC44181 Baseline CT pCR 1 pCR MSL Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	203	TNBC44181_D1C2 TNBC44181 D1C2 CT pCR 1 pCR MSL Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	208	TNBC46193_Baseline TNBC46193 Baseline CT/A pCR 1 pCR M Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	209	TNBC46193_D1C2 TNBC46193 D1C2 CT/A pCR 1 pCR MSL Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	210	TNBC46266_Baseline TNBC46266 Baseline CT/A pCR 1 Sustained e-pCR MSL Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	213	TNBC47153_Baseline TNBC47153 Baseline CT pCR 1 pCR M Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	214	TNBC47179_Baseline TNBC47179 Baseline CT/A pCR 1 pCR BL1 Batch 1
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	215	TNBC47179_D1C2 TNBC47179 D1C2 CT/A pCR 1 pCR MSL Batch 1
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	219	TNBC47688_Baseline TNBC47688 Baseline CT/A pCR 1 Sustained e-pCR M Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	220	TNBC48771_Baseline TNBC48771 Baseline CT/A pCR 1 pCR M Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	221	TNBC48771_D1C2 TNBC48771 D1C2 CT/A pCR 1 pCR BL2 Batch 1
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	222	TNBC49181_Baseline TNBC49181 Baseline CT/A pCR 1 pCR BL1 Batch 2
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	223	TNBC49181_D1C2 TNBC49181 D1C2 CT/A pCR 1 pCR UNS Batch 2
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	224	TNBC49260_Baseline TNBC49260 Baseline CT pCR 1 pCR BL1 Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	225	TNBC49260_D1C2 TNBC49260 D1C2 CT pCR 1 pCR IM Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	230	TNBC50471_Baseline TNBC50471 Baseline CT/A pCR 1 Sustained e-pCR BL1 Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	233	TNBC50721_Baseline TNBC50721 Baseline CT pCR 1 pCR IM Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	234	TNBC50721_D1C2 TNBC50721 D1C2 CT pCR 1 pCR IM Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	238	TNBC51354_Baseline TNBC51354 Baseline CT pCR 1 pCR M Batch 1
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	239	TNBC51621_Baseline TNBC51621 Baseline CT/A pCR 1 pCR M Batch 2
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	240	TNBC51621_D1C2 TNBC51621 D1C2 CT/A pCR 1 pCR IM Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	241	TNBC52365_Baseline TNBC52365 Baseline CT RD 0 Transient e-pCR UNS Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	244	TNBC52792_Baseline TNBC52792 Baseline CT pCR 1 pCR IM Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	245	TNBC52792_D1C2 TNBC52792 D1C2 CT pCR 1 pCR IM Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	248	TNBC53452_Baseline TNBC53452 Baseline CT pCR 1 pCR M Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	249	TNBC53452_D1C2 TNBC53452 D1C2 CT pCR 1 pCR MSL Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	252	TNBC54583_Baseline TNBC54583 Baseline CT/A pCR 1 NA BL1 Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	257	TNBC54691_Baseline TNBC54691 Baseline CT/A pCR 1 NA M Batch 1
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	262	TNBC55271_Baseline TNBC55271 Baseline CT pCR 1 Sustained e-pCR IM Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	263	TNBC55371_Baseline TNBC55371 Baseline CT RD 0 Transient e-pCR IM Batch 1
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	266	TNBC56879_Baseline TNBC56879 Baseline CT/A RD 0 Transient e-pCR M Batch 2
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	267	TNBC56985_Baseline TNBC56985 Baseline CT pCR 1 pCR UNS Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	268	TNBC57567_Baseline TNBC57567 Baseline CT pCR 1 NA IM Batch 1
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	274	TNBC58336_Baseline TNBC58336 Baseline CT/A pCR 1 pCR BL2 Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	275	TNBC58336_D1C2 TNBC58336 D1C2 CT/A pCR 1 pCR MSL Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	276	TNBC58386_Baseline TNBC58386 Baseline CT/A pCR 1 Sustained e-pCR BL1 Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	277	TNBC58860_Baseline TNBC58860 Baseline CT/A pCR 1 Sustained e-pCR IM Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	278	TNBC58928_Baseline TNBC58928 Baseline CT/A pCR 1 pCR LAR Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	279	TNBC58928_D1C2 TNBC58928 D1C2 CT/A pCR 1 pCR IM Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	283	TNBC59891_Baseline TNBC59891 Baseline CT/A pCR 1 Sustained e-pCR BL2 Batch 1
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	284	TNBC60028_Baseline TNBC60028 Baseline CT pCR 1 pCR BL1 Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	285	TNBC60028_D1C2 TNBC60028 D1C2 CT pCR 1 pCR MSL Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	290	TNBC61164_Baseline TNBC61164 Baseline CT/A pCR 1 pCR UNS Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	291	TNBC61164_D1C2 TNBC61164 D1C2 CT/A pCR 1 pCR IM Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	292	TNBC61772_Baseline TNBC61772 Baseline CT pCR 1 pCR UNS Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	293	TNBC61772_D1C2 TNBC61772 D1C2 CT pCR 1 pCR IM Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	294	TNBC61774_Baseline TNBC61774 Baseline CT/A pCR 1 Sustained e-pCR M Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	295	TNBC61994_D1C2 TNBC61994 D1C2 CT/A pCR 1 pCR IM Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	299	TNBC62858_Baseline TNBC62858 Baseline CT pCR 1 Sustained e-pCR BL1 Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	300	TNBC62877_Baseline TNBC62877 Baseline CT/A pCR 1 NA BL1 Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	301	TNBC62923_Baseline TNBC62923 Baseline CT/A pCR 1 pCR IM Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	302	TNBC62923_D1C2 TNBC62923 D1C2 CT/A pCR 1 pCR IM Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	303	TNBC63353_Baseline TNBC63353 Baseline CT/A pCR 1 Sustained e-pCR M Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	305	TNBC63962_Baseline TNBC63962 Baseline CT/A pCR 1 Sustained e-pCR UNS Batch 2
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	308	TNBC64125_Baseline TNBC64125 Baseline CT pCR 1 pCR IM Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	309	TNBC64125_D1C2 TNBC64125 D1C2 CT pCR 1 pCR IM Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	310	TNBC64231_Baseline TNBC64231 Baseline CT/A pCR 1 Sustained e-pCR UNS Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	315	TNBC65129_Baseline TNBC65129 Baseline CT pCR 1 pCR IM Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	316	TNBC65129_D1C2 TNBC65129 D1C2 CT pCR 1 pCR UNS Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	317	TNBC65587_Baseline TNBC65587 Baseline CT/A pCR 1 Sustained e-pCR BL1 Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	318	TNBC66282_Baseline TNBC66282 Baseline CT/A pCR 1 pCR BL1 Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	319	TNBC66282_D1C2 TNBC66282 D1C2 CT/A pCR 1 pCR IM Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	321	TNBC66516_Baseline TNBC66516 Baseline CT/A pCR 1 Sustained e-pCR UNS Batch 2
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	324	TNBC67091_Baseline TNBC67091 Baseline CT pCR 1 pCR BL1 Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	325	TNBC67091_D1C2 TNBC67091 D1C2 CT pCR 1 pCR UNS Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	326	TNBC67961_Baseline TNBC67961 Baseline CT/A pCR 1 pCR M Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	327	TNBC67961_D1C2 TNBC67961 D1C2 CT/A pCR 1 pCR IM Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	328	TNBC70484_Baseline TNBC70484 Baseline CT pCR 1 Sustained e-pCR M Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	329	TNBC70708_Baseline TNBC70708 Baseline CT pCR 1 pCR IM Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	330	TNBC70708_D1C2 TNBC70708 D1C2 CT pCR 1 pCR IM Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	331	TNBC70897_Baseline TNBC70897 Baseline CT pCR 1 pCR BL1 Batch 1
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	332	TNBC70897_D1C2 TNBC70897 D1C2 CT pCR 1 pCR IM Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	335	TNBC72297_Baseline TNBC72297 Baseline CT/A pCR 1 Sustained e-pCR UNS Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	340	TNBC73192_Baseline TNBC73192 Baseline CT/A pCR 1 NA M Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	341	TNBC74125_Baseline TNBC74125 Baseline CT/A pCR 1 NA BL1 Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	342	TNBC75171_Baseline TNBC75171 Baseline CT/A pCR 1 Sustained e-pCR IM Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	346	TNBC75966_Baseline TNBC75966 Baseline CT/A RD 0 Transient e-pCR BL1 Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	351	TNBC76661_Baseline TNBC76661 Baseline CT/A pCR 1 Sustained e-pCR BL1 Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	354	TNBC78152_Baseline TNBC78152 Baseline CT pCR 1 pCR IM Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	355	TNBC78152_D1C2 TNBC78152 D1C2 CT pCR 1 pCR UNS Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	356	TNBC78358_Baseline TNBC78358 Baseline CT/A pCR 1 pCR IM Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	357	TNBC78358_D1C2 TNBC78358 D1C2 CT/A pCR 1 pCR IM Batch 1
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	358	TNBC79502_Baseline TNBC79502 Baseline CT pCR 1 pCR UNS Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	359	TNBC79502_D1C2 TNBC79502 D1C2 CT pCR 1 pCR MSL Batch 2
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	360	TNBC80198_Baseline TNBC80198 Baseline CT pCR 1 Sustained e-pCR IM Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	363	TNBC81216_Baseline TNBC81216 Baseline CT pCR 1 pCR BL1 Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	364	TNBC81216_D1C2 TNBC81216 D1C2 CT pCR 1 pCR IM Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	367	TNBC81683_Baseline TNBC81683 Baseline CT pCR 1 pCR IM Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	368	TNBC81683_D1C2 TNBC81683 D1C2 CT pCR 1 pCR IM Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	371	TNBC81824_Baseline TNBC81824 Baseline CT/A pCR 1 pCR BL1 Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	372	TNBC81824_D1C2 TNBC81824 D1C2 CT/A pCR 1 pCR UNS Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	375	TNBC83483_Baseline TNBC83483 Baseline CT/A pCR 1 Sustained e-pCR LAR Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	376	TNBC84591_Baseline TNBC84591 Baseline CT/A pCR 1 Sustained e-pCR BL1 Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	381	TNBC85532_Baseline TNBC85532 Baseline CT/A pCR 1 pCR M Batch 1
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	382	TNBC85532_D1C2 TNBC85532 D1C2 CT/A pCR 1 pCR MSL Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	383	TNBC85632_Baseline TNBC85632 Baseline CT pCR 1 NA IM Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	384	TNBC86067_Baseline TNBC86067 Baseline CT pCR 1 pCR M Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	392	TNBC87556_Baseline TNBC87556 Baseline CT/A pCR 1 pCR IM Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	393	TNBC87556_D1C2 TNBC87556 D1C2 CT/A pCR 1 pCR IM Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	394	TNBC87688_Baseline TNBC87688 Baseline CT/A RD 0 Transient e-pCR BL1 Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	395	TNBC87969_Baseline TNBC87969 Baseline CT/A RD 0 Transient e-pCR IM Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	396	TNBC88201_Baseline TNBC88201 Baseline CT pCR 1 pCR BL1 Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	397	TNBC88201_D1C2 TNBC88201 D1C2 CT pCR 1 pCR UNS Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	398	TNBC88367_Baseline TNBC88367 Baseline CT pCR 1 Sustained e-pCR LAR Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	399	TNBC88958_Baseline TNBC88958 Baseline CT pCR 1 pCR IM Batch 3
+pCR	data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	400	TNBC88958_D1C2 TNBC88958 D1C2 CT pCR 1 pCR IM Batch 3
+InstaPrism	renv.lock	884	"InstaPrism": {
+InstaPrism	renv.lock	885	"Package": "InstaPrism",
+InstaPrism	renv.lock	892	"Description": "InstaPrism is an R package for cell type composition and gene expression deconvolution in bulk RNA-Seq data. It is based on a Bayesian framework from BayesPrism. In
+InstaPrism	renv.lock	930	"RemoteRepo": "InstaPrism",
+deconvolution	renv.lock	889	"Title": "Fast implementaion of BayesPrism for cell type composition and gene expression deconvolution",
+deconvolution	renv.lock	892	"Description": "InstaPrism is an R package for cell type composition and gene expression deconvolution in bulk RNA-Seq data. It is based on a Bayesian framework from BayesPrism. In
+Early.pCR	scripts/01-data_download_and_singscore.R	57	pheno$Early.pCR <- factor(pheno$Early.pCR, levels = c("Sustained e-pCR", "Transient e-pCR", "pCR", "RD"))
+pCR	scripts/01-data_download_and_singscore.R	57	pheno$Early.pCR <- factor(pheno$Early.pCR, levels = c("Sustained e-pCR", "Transient e-pCR", "pCR", "RD"))
+pCR	scripts/02-Figure1.R	27	pData(ct)[, c("pCR", "Timepoint")],
+pCR	scripts/02-Figure1.R	34	pData(cta)[, c("pCR", "Timepoint")],
+pCR	scripts/02-Figure1.R	39	g1 <- ggplot(data = df.ct, aes(x = PC1, y = PC2, shape = pCR)) +
+pCR	scripts/02-Figure1.R	41	scale_shape_manual(name = "pCR status", values = c(15, 17)) +
+pCR	scripts/02-Figure1.R	49	g2 <- ggplot(data = df.cta, aes(x = PC1, y = PC2, shape = pCR)) +
+pCR	scripts/02-Figure1.R	51	scale_shape_manual(name = "pCR status", values = c(15, 17)) +
+pCR	scripts/02-Figure1.R	65	meta <- pData(ct)[, c("pCR", "Timepoint", "Patient_ID")]
+pCR	scripts/02-Figure1.R	67	meta$pCR <- factor(meta$pCR)
+pCR	scripts/02-Figure1.R	69	form <- ~ (1|pCR) + (1|Timepoint) + (1|Patient_ID)
+pCR	scripts/02-Figure1.R	75	meta <- pData(cta)[, c("pCR", "Timepoint", "Patient_ID")]
+pCR	scripts/02-Figure1.R	77	meta$pCR <- factor(meta$pCR)
+pCR	scripts/02-Figure1.R	79	form <- ~ (1|pCR) + (1|Timepoint) + (1|Patient_ID)
+pCR	scripts/02-Figure1.R	92	scale_x_discrete(labels = c("Patient", "pCR status", "Timepoint", "Residuals")) +
+pCR	scripts/02-Figure1.R	103	info <- unique(pData(scoreSS)[, c("Patient_ID", "Arm", "pCR")])
+pCR	scripts/02-Figure1.R	106	info <- info[order(info$Arm, info$pCR, -info$Baseline, -info$D1C2),]
+pCR	scripts/02-Figure1.R	114	t2x2 <- data.frame(table(info$Count, paste(info$Arm, info$pCR)))
+pCR	scripts/02-Figure1.R	150	column_split = paste(info$Arm,info$pCR),
+pCR	scripts/03-Figure2.R	27	res.ct.bl <- logistic_regression(response = "pCR.num",
+pCR	scripts/03-Figure2.R	30	res.cta.bl <- logistic_regression(response = "pCR.num",
+pCR	scripts/03-Figure2.R	33	res.int.bl <- interaction_logistic_regression(response = "pCR.num",
+pCR	scripts/03-Figure2.R	41	write.table(fullRes, file = file.path(here("results", "tables"), "01-pCR_prediciton_baseline.txt"))
+pCR	scripts/03-Figure2.R	131	pCR=rep(scoreSS$pCR, 7))
+pCR	scripts/03-Figure2.R	136	df$pCR.num <- ifelse(df$pCR  == "pCR", 1, 0)
+pCR	scripts/03-Figure2.R	137	df$pCR <- factor(df$pCR, levels=c("RD", "pCR"))
+pCR	scripts/03-Figure2.R	143	test$pvalue[1] <- summary(glm(pCR.num ~ SingScore_cat*Arm, data=df[df$GeneSet  == test$GeneSet[1], ]))$coefficients[4, 4]
+pCR	scripts/03-Figure2.R	144	test$pvalue[2] <- summary(glm(pCR.num ~ SingScore_cat*Arm, data=df[df$GeneSet  == test$GeneSet[2], ]))$coefficients[4, 4]
+pCR	scripts/03-Figure2.R	145	test$pvalue[3] <- summary(glm(pCR.num ~ SingScore_cat*Arm, data=df[df$GeneSet  == test$GeneSet[3], ]))$coefficients[4, 4]
+pCR	scripts/03-Figure2.R	146	test$pvalue[4] <- summary(glm(pCR.num ~ SingScore_cat*Arm, data=df[df$GeneSet  == test$GeneSet[4], ]))$coefficients[4, 4]
+pCR	scripts/03-Figure2.R	147	test$pvalue[5] <- summary(glm(pCR.num ~ SingScore_cat*Arm, data=df[df$GeneSet  == test$GeneSet[5], ]))$coefficients[4, 4]
+pCR	scripts/03-Figure2.R	148	test$pvalue[6] <- summary(glm(pCR.num ~ SingScore_cat*Arm, data=df[df$GeneSet  == test$GeneSet[6], ]))$coefficients[4, 4]
+pCR	scripts/03-Figure2.R	152	t2x2 <- table(df$Group[df$GeneSet  == intSig[1]], df$pCR[df$GeneSet  == intSig[1]])
+pCR	scripts/03-Figure2.R	165	t2x2 <- table(df$Group[df$GeneSet  == intSig[i]], df$pCR[df$GeneSet  == intSig[i]])
+pCR	scripts/03-Figure2.R	186	ylab("pCR rate (%)") +
+Early.pCR	scripts/04-Figure3.R	21	sum(is.na(scoreSS$Early.pCR))
+Early.pCR	scripts/04-Figure3.R	22	scoreSS <- scoreSS[, !is.na(scoreSS$Early.pCR)]
+Early.pCR	scripts/04-Figure3.R	23	scoreSS$Early.pCR <- gsub("e-pCR", "early-pCR", scoreSS$Early.pCR)
+Early.pCR	scripts/04-Figure3.R	24	scoreSS$Early.pCR <- factor(scoreSS$Early.pCR, levels = c("Sustained early-pCR", "Transient early-pCR", "pCR", "RD"))
+Early.pCR	scripts/04-Figure3.R	31	clinical$Tumor_cells <- ifelse(clinical$Early.pCR %in% c("Sustained early-pCR", "Transient early-pCR"), "No TC in core biopsy", "TC in core biopsy")
+Early.pCR	scripts/04-Figure3.R	142	df <- data.frame(pCR = scoreSS$Early.pCR, Arm = scoreSS$Arm, Variable = exprs(scoreSS)[i, ])
+Early.pCR	scripts/04-Figure3.R	174	medie <- t(apply(scaledMat, 1, function(x)tapply(x, paste(scoreSS$Arm, scoreSS$Early.pCR), mean)))
+Early.pCR	scripts/04-Figure3.R	210	column_labels = levels(scoreSS$Early.pCR),
+Early.pCR	scripts/04-Figure3.R	236	column_labels = levels(scoreSS$Early.pCR),
+Early.pCR	scripts/04-Figure3.R	255	pCR = scoreSS$Early.pCR)
+Early.pCR	scripts/04-Figure3.R	284	pCR = scoreSS$Early.pCR)
+pCR	scripts/04-Figure3.R	21	sum(is.na(scoreSS$Early.pCR))
+pCR	scripts/04-Figure3.R	22	scoreSS <- scoreSS[, !is.na(scoreSS$Early.pCR)]
+pCR	scripts/04-Figure3.R	23	scoreSS$Early.pCR <- gsub("e-pCR", "early-pCR", scoreSS$Early.pCR)
+pCR	scripts/04-Figure3.R	24	scoreSS$Early.pCR <- factor(scoreSS$Early.pCR, levels = c("Sustained early-pCR", "Transient early-pCR", "pCR", "RD"))
+pCR	scripts/04-Figure3.R	31	clinical$Tumor_cells <- ifelse(clinical$Early.pCR %in% c("Sustained early-pCR", "Transient early-pCR"), "No TC in core biopsy", "TC in core biopsy")
+pCR	scripts/04-Figure3.R	35	pCR_cat = clinical$pCR,
+pCR	scripts/04-Figure3.R	36	pCR = clinical$pCR.num,
+pCR	scripts/04-Figure3.R	40	t2x2 <- table(df$Group, df$pCR)
+pCR	scripts/04-Figure3.R	57	fit1 <- glm(pCR ~ Variable, family = binomial, data = df[df$Arm == "CT", ])
+pCR	scripts/04-Figure3.R	58	fit2 <- glm(pCR ~ Variable, family = binomial, data = df[df$Arm == "CT/A", ])
+pCR	scripts/04-Figure3.R	59	fit.int <- glm(pCR ~ Variable*Arm, family = binomial, data = df)
+pCR	scripts/04-Figure3.R	69	ylab("pCR rate (%)") +
+pCR	scripts/04-Figure3.R	99	t2x2 <- table(df$Variable[df$Arm == "CT"], df$pCR_cat[df$Arm == "CT"])
+pCR	scripts/04-Figure3.R	100	TP <- t2x2["No TC in core biopsy", "pCR"]
+pCR	scripts/04-Figure3.R	102	FN <- t2x2["TC in core biopsy", "pCR"]
+pCR	scripts/04-Figure3.R	115	t2x2 <- table(df$Variable[df$Arm == "CT/A"], df$pCR_cat[df$Arm == "CT/A"])
+pCR	scripts/04-Figure3.R	116	TP <- t2x2["No TC in core biopsy", "pCR"]
+pCR	scripts/04-Figure3.R	118	FN <- t2x2["TC in core biopsy", "pCR"]
+pCR	scripts/04-Figure3.R	142	df <- data.frame(pCR = scoreSS$Early.pCR, Arm = scoreSS$Arm, Variable = exprs(scoreSS)[i, ])
+pCR	scripts/04-Figure3.R	145	model <- multinom(pCR ~ Variable, data = df[df$Arm == "CT", ], Hess = TRUE)
+pCR	scripts/04-Figure3.R	152	model <- multinom(pCR ~ Variable, data = df[df$Arm == "CT/A", ], Hess = TRUE)
+pCR	scripts/04-Figure3.R	159	model <- multinom(pCR ~ Variable*Arm, data = df, Hess = TRUE)
+pCR	scripts/04-Figure3.R	168	write.table(res, file = file.path(here("results", "tables"), "02-Early_pCR_prediciton_baseline.txt"), sep = "\t", row.names=F, quote=F)
+pCR	scripts/04-Figure3.R	174	medie <- t(apply(scaledMat, 1, function(x)tapply(x, paste(scoreSS$Arm, scoreSS$Early.pCR), mean)))
+pCR	scripts/04-Figure3.R	210	column_labels = levels(scoreSS$Early.pCR),
+pCR	scripts/04-Figure3.R	236	column_labels = levels(scoreSS$Early.pCR),
+pCR	scripts/04-Figure3.R	255	pCR = scoreSS$Early.pCR)
+pCR	scripts/04-Figure3.R	256	nsamp <- data.frame(table(df$pCR, df$Arm))
+pCR	scripts/04-Figure3.R	257	colnames(nsamp) <- c("pCR", "Arm", "N")
+pCR	scripts/04-Figure3.R	263	g3 <- ggplot(data = df, aes(x = Arm, y = Var1, fill = pCR)) +
+pCR	scripts/04-Figure3.R	284	pCR = scoreSS$Early.pCR)
+pCR	scripts/04-Figure3.R	285	nsamp <- data.frame(table(df$pCR, df$Arm))
+pCR	scripts/04-Figure3.R	286	colnames(nsamp) <- c("pCR", "Arm", "N")
+pCR	scripts/04-Figure3.R	292	g4 <- ggplot(data = df, aes(x = Arm, y = Var1, fill = pCR)) +
+pCR	scripts/05-Figure4.R	26	res.ct.on <- logistic_regression(response = "pCR.num",
+pCR	scripts/05-Figure4.R	29	res.cta.on <- logistic_regression(response = "pCR.num",
+pCR	scripts/05-Figure4.R	32	res.int.on <- interaction_logistic_regression(response = "pCR.num",
+pCR	scripts/05-Figure4.R	40	write.table(fullRes, file = file.path(here::here("results", "tables"), "03-pCR_prediciton_d1c2.txt"))
+pCR	scripts/05-Figure4.R	123	pCR = rep(scoreSS$pCR, 5))
+pCR	scripts/05-Figure4.R	128	df$pCR.num <- ifelse(df$pCR=="pCR", 1, 0)
+pCR	scripts/05-Figure4.R	129	df$pCR <- factor(df$pCR, levels = c("RD", "pCR"))
+pCR	scripts/05-Figure4.R	135	test$pvalue[1] <- summary(glm(pCR.num ~ SingScore_cat*Arm, data = df[df$GeneSet == test$GeneSet[1], ]))$coefficients[4, 4]
+pCR	scripts/05-Figure4.R	136	test$pvalue[2] <- summary(glm(pCR.num ~ SingScore_cat*Arm, data = df[df$GeneSet == test$GeneSet[2], ]))$coefficients[4, 4]
+pCR	scripts/05-Figure4.R	137	test$pvalue[3] <- summary(glm(pCR.num ~ SingScore_cat*Arm, data = df[df$GeneSet == test$GeneSet[3], ]))$coefficients[4, 4]
+pCR	scripts/05-Figure4.R	138	test$pvalue[4] <- summary(glm(pCR.num ~ SingScore_cat*Arm, data = df[df$GeneSet == test$GeneSet[4], ]))$coefficients[4, 4]
+pCR	scripts/05-Figure4.R	139	test$pvalue[5] <- summary(glm(pCR.num ~ SingScore_cat*Arm, data = df[df$GeneSet == test$GeneSet[5], ]))$coefficients[4, 4]
+pCR	scripts/05-Figure4.R	143	t2x2 <- table(df$Group[df$GeneSet == intSig[1]], df$pCR[df$GeneSet == intSig[1]])
+pCR	scripts/05-Figure4.R	156	t2x2 <- table(df$Group[df$GeneSet == intSig[i]], df$pCR[df$GeneSet == intSig[i]])
+pCR	scripts/05-Figure4.R	177	ylab("pCR rate (%)") +
+pCR	scripts/06-Figure5.R	17	#* Analysis of delta with pCR status
+pCR	scripts/06-Figure5.R	34	pdata <- unique(pData(scoreSSp)[, c("Patient_ID", "Arm", "pCR", "pCR.num")])
+pCR	scripts/06-Figure5.R	42	res.ct.d <- logistic_regression(response = "pCR.num",
+pCR	scripts/06-Figure5.R	45	res.cta.d <- logistic_regression(response = "pCR.num",
+pCR	scripts/06-Figure5.R	48	res.int.d <- interaction_logistic_regression(response = "pCR.num",
+pCR	scripts/06-Figure5.R	56	write.table(fullRes, file = file.path(here::here("results", "tables"), "06-pCR_prediciton_delta.txt"), sep = "\t", row.names = F, quote = F)
+pCR	scripts/06-Figure5.R	154	pCR = factor(scoreSSp$pCR, levels = c("pCR", "RD")),
+pCR	scripts/06-Figure5.R	156	df$Group <- paste(df$Arm, df$pCR, sep = " - ")
+pCR	scripts/06-Figure5.R	171	geom_line(aes(group = Patient, color = pCR)) +
+pCR	scripts/06-Figure5.R	187	pCR = factor(deltas$pCR, levels = c("pCR", "RD")))
+pCR	scripts/06-Figure5.R	195	gb <- ggplot(data = dfp, aes(x = Arm, y = Delta, fill = pCR)) +
+pCR	scripts/06-Figure5.R	217	leg <- get_legend(ggplot(data = dfp, aes(x = Arm, y = Delta, fill = pCR)) +
+pCR	scripts/07-Figure6.R	77	label <- expList[[j]]$pCR.num
+pCR	scripts/07-Figure6.R	309	dtrain <- xgb.DMatrix(data  =  t(exprs(on.cta)), label  =  on.cta$pCR.num)
+pCR	scripts/07-Figure6.R	319	myexp <- data.frame(Iron_utilization = exprs(on.cta)["Iron_utilization", ], cTME_Cytotoxic_cells = exprs(on.cta)["cTME_Cytotoxic_cells", ], pCR = on.cta$pCR, pCR.num = on.cta$pCR.n
+pCR	scripts/07-Figure6.R	338	scale_fill_continuous_sequential(name = "P(pCR)", palette = "Greens", alpha = 0.7) +
+pCR	scripts/07-Figure6.R	340	geom_point(data = myexp, aes(x = Iron_utilization, y = cTME_Cytotoxic_cells, fill = pCR), pch = 21, inherit.aes  =  F, size = 2.3) +
+pCR	scripts/07-Figure6.R	341	scale_fill_manual(name = "pCR status", values  =  carto_pal(12, "Pastel")[2:1]) +
+pCR	scripts/07-Figure6.R	356	n_pCR  =  sum(pCR  ==  "pCR"),
+pCR	scripts/07-Figure6.R	357	perc_pCR  =  100 * n_pCR / n,
+pCR	scripts/07-Figure6.R	367	n_pCR  =  sum(pCR  ==  "pCR"),
+pCR	scripts/07-Figure6.R	368	perc_pCR  =  100 * n_pCR / n,
+pCR	scripts/07-Figure6.R	378	n_pCR  =  sum(pCR  ==  "pCR"),
+pCR	scripts/07-Figure6.R	379	perc_pCR  =  100 * n_pCR / n,
+pCR	scripts/07-Figure6.R	387	y  =  perc_pCR)) +
+pCR	scripts/07-Figure6.R	389	ylab("pCR rate (%)") +
+pCR	scripts/07-Figure6.R	398	y  =  perc_pCR)) +
+pCR	scripts/07-Figure6.R	400	ylab("pCR rate (%)") +
+pCR	scripts/07-Figure6.R	409	y  =  perc_pCR, fill  =  Iron_utilization_cat)) +
+pCR	scripts/07-Figure6.R	412	ylab("pCR rate (%)") +
+pCR	scripts/07-Figure6.R	426	mod_A <- glm(pCR.num ~ Iron_utilization_cat, data = myexp, family = "binomial")
+pCR	scripts/07-Figure6.R	427	mod_B <- glm(pCR.num ~ cTME_Cytotoxic_cells_cat, data = myexp, family = "binomial")
+pCR	scripts/07-Figure6.R	428	mod_AB <- glm(pCR.num ~ Iron_utilization_cat + cTME_Cytotoxic_cells_cat , data = myexp, family = "binomial")
+pCR	scripts/07-Figure6.R	429	mod_interaction <- glm(pCR.num ~ Iron_utilization_cat * cTME_Cytotoxic_cells_cat, data  =  myexp, family  =  "binomial")
+pCR	scripts/10-SuppFigure3.R	26	f <- factor(paste(scoreSSp$Timepoint, gsub("\\/", "", scoreSSp$Arm), scoreSSp$pCR, sep = "_"))
+pCR	scripts/10-SuppFigure3.R	34	fD1C2_CT_pCR-fBaseline_CT_pCR,
+pCR	scripts/10-SuppFigure3.R	36	fD1C2_CTA_pCR-fBaseline_CTA_pCR,
+pCR	scripts/10-SuppFigure3.R	37	(fD1C2_CT_pCR-fBaseline_CT_pCR)-(fD1C2_CT_RD-fBaseline_CT_RD),
+pCR	scripts/10-SuppFigure3.R	38	(fD1C2_CTA_pCR-fBaseline_CTA_pCR)-(fD1C2_CTA_RD-fBaseline_CTA_RD),
+pCR	scripts/10-SuppFigure3.R	39	(((fD1C2_CTA_pCR+fD1C2_CTA_RD)/2)-((fBaseline_CTA_pCR+fBaseline_CTA_RD)/2)) - (((fD1C2_CT_pCR+fD1C2_CT_RD)/2)-((fBaseline_CT_pCR+fBaseline_CT_RD)/2)),
+pCR	scripts/10-SuppFigure3.R	40	((fD1C2_CT_pCR+fD1C2_CT_RD)/2)-((fBaseline_CT_pCR+fBaseline_CT_RD)/2),
+pCR	scripts/10-SuppFigure3.R	41	((fD1C2_CTA_pCR+fD1C2_CTA_RD)/2)-((fBaseline_CTA_pCR+fBaseline_CTA_RD)/2),
+pCR	scripts/10-SuppFigure3.R	64	colnames(fcMat) <- c("CT", "CTA", "CT_RD", "CT_pCR", "CTA_RD", "CTA_pCR")
+pCR	scripts/10-SuppFigure3.R	66	colnames(fdrMat) <- c("CT", "CTA", "CT_RD", "CT_pCR", "CTA_RD", "CTA_pCR")
+pCR	scripts/10-SuppFigure3.R	139	column_labels = c("RD", "pCR"),
+pCR	scripts/10-SuppFigure3.R	160	column_labels = c("RD", "pCR"),
+pCR	scripts/11-SuppFigure4.R	20	df <- pData(scoreSS)[, c("Patient_ID", "Arm", "Timepoint", "TNBCtype", "pCR", "pCR.num")]
+pCR	scripts/11-SuppFigure4.R	23	colnames(df)[2:6] <- c("Arm", "pCR", "pCR.num", "Baseline", "D1C2")
+pCR	scripts/11-SuppFigure4.R	38	t2x2 <- table(df$D1C2[df$Arm == "CT"], df$pCR[df$Arm == "CT"])
+pCR	scripts/11-SuppFigure4.R	42	t2x2.2 <- table(df$D1C2[df$Arm == "CT/A"], df$pCR[df$Arm == "CT/A"])
+pCR	scripts/11-SuppFigure4.R	47	df.perc$Var2 <- factor(df.perc$Var2, levels = c("RD", "pCR"))
+pCR	scripts/11-SuppFigure4.R	50	df.perc <- df.perc[df.perc$Var2 == "pCR", ]
+InstaPrism	scripts/12-SuppFigure5.R	3	library(InstaPrism)
+InstaPrism	scripts/12-SuppFigure5.R	18	# InstaPrism on tpm
+InstaPrism	scripts/12-SuppFigure5.R	28	ref = InstaPrism_reference('BRCA')
+InstaPrism	scripts/12-SuppFigure5.R	29	deconv_tpm = InstaPrism(bulk_Expr = expData, refPhi_cs = ref)
+instaprism	scripts/12-SuppFigure5.R	30	save(deconv_tpm, file=file.path(data_dir, "instaprism_deconvolution.RData"))
+instaprism	scripts/12-SuppFigure5.R	35	load(file.path(data_dir, "instaprism_deconvolution.RData"))
+deconvolution	scripts/12-SuppFigure5.R	30	save(deconv_tpm, file=file.path(data_dir, "instaprism_deconvolution.RData"))
+deconvolution	scripts/12-SuppFigure5.R	35	load(file.path(data_dir, "instaprism_deconvolution.RData"))
+Cancer_Epithelial	scripts/12-SuppFigure5.R	435	rng<-(max(pdata$Cancer_Epithelial/10)-min(pdata$Cancer_Epithelial/10))/20
+Cancer_Epithelial	scripts/12-SuppFigure5.R	436	nsamp$Ypos<-min(pdata$Cancer_Epithelial/10)-rng
+Cancer_Epithelial	scripts/12-SuppFigure5.R	438	signif<-data.frame(Arm=c("CT","CT/A"), Ypos=max(pdata$Cancer_Epithelial/10)+rng,Label=paste0("P=",c(round(res.epcr$P_CT[res.epcr$Variable=="Cancer_Epithelial"],3),round(res.epcr$P_
+Cancer_Epithelial	scripts/12-SuppFigure5.R	439	g3<-ggplot(data=pdata, aes(x=Arm, y=Cancer_Epithelial/10, fill=Early.pCR)) +
+Early.pCR	scripts/12-SuppFigure5.R	352	pdata<-pData(scoreSS)[scoreSS$Timepoint=="Baseline" & !is.na(scoreSS$Early.pCR),]
+Early.pCR	scripts/12-SuppFigure5.R	355	pdata$Early.pCR <- gsub("e-pCR", "early-pCR", pdata$Early.pCR)
+Early.pCR	scripts/12-SuppFigure5.R	356	pdata$Early.pCR <- factor(pdata$Early.pCR, levels = c("Sustained early-pCR", "Transient early-pCR", "pCR", "RD"))
+Early.pCR	scripts/12-SuppFigure5.R	361	df<-data.frame(pCR=pdata$Early.pCR,Arm=pdata$Arm, Variable=pdata[,i])
+Early.pCR	scripts/12-SuppFigure5.R	389	nsamp<-data.frame(table(pdata$Early.pCR,pdata$Arm))
+Early.pCR	scripts/12-SuppFigure5.R	390	colnames(nsamp)<-c("Early.pCR","Arm","N")
+Early.pCR	scripts/12-SuppFigure5.R	395	g1<-ggplot(data=pdata, aes(x=Arm, y=B.cells/10, fill=Early.pCR)) +
+Early.pCR	scripts/12-SuppFigure5.R	411	nsamp<-data.frame(table(pdata$Early.pCR,pdata$Arm))
+Early.pCR	scripts/12-SuppFigure5.R	412	colnames(nsamp)<-c("Early.pCR","Arm","N")
+Early.pCR	scripts/12-SuppFigure5.R	417	g2<-ggplot(data=pdata, aes(x=Arm, y=T.cells/10, fill=Early.pCR)) +
+Early.pCR	scripts/12-SuppFigure5.R	433	nsamp<-data.frame(table(pdata$Early.pCR,pdata$Arm))
+Early.pCR	scripts/12-SuppFigure5.R	434	colnames(nsamp)<-c("Early.pCR","Arm","N")
+Early.pCR	scripts/12-SuppFigure5.R	439	g3<-ggplot(data=pdata, aes(x=Arm, y=Cancer_Epithelial/10, fill=Early.pCR)) +
+pCR	scripts/12-SuppFigure5.R	91	pdata<-pData(scoreSS)[,c("Sample_ID","Arm","pCR","Timepoint")]
+pCR	scripts/12-SuppFigure5.R	95	group_by(Timepoint, Arm, pCR, cellType) %>%
+pCR	scripts/12-SuppFigure5.R	103	gbar<-ggplot(df_summary, aes(x = pCR, y = mean_frac, fill = cellType)) +
+pCR	scripts/12-SuppFigure5.R	113	# association with pCR at baseline
+pCR	scripts/12-SuppFigure5.R	115	pdata<-pData(scoreSS)[scoreSS$Timepoint=="Baseline",c("Arm","pCR","pCR.num","Timepoint")]
+pCR	scripts/12-SuppFigure5.R	124	fit<-glm(pCR.num~tmp[,i], family="binomial", data=tmp)
+pCR	scripts/12-SuppFigure5.R	125	fitCubic<-glm(pCR.num ~ ns(tmp[,i], df = 3), family = "binomial", data=tmp)
+pCR	scripts/12-SuppFigure5.R	133	fit<-glm(pCR.num~tmp[,i], family="binomial", data=tmp)
+pCR	scripts/12-SuppFigure5.R	134	fitCubic<-glm(pCR.num ~ ns(tmp[,i], df = 3), family = "binomial", data=tmp)
+pCR	scripts/12-SuppFigure5.R	141	fit<-glm(pCR.num~pdata[,i]*Arm, family="binomial", data=pdata)
+pCR	scripts/12-SuppFigure5.R	149	# association with pCR at D1C2
+pCR	scripts/12-SuppFigure5.R	151	pdata<-pData(scoreSS)[scoreSS$Timepoint=="D1C2",c("Arm","pCR","pCR.num","Timepoint")]
+pCR	scripts/12-SuppFigure5.R	160	fit<-glm(pCR.num~tmp[,i], family="binomial", data=tmp)
+pCR	scripts/12-SuppFigure5.R	161	fitCubic<-glm(pCR.num ~ ns(tmp[,i], df = 3), family = "binomial", data=tmp)
+pCR	scripts/12-SuppFigure5.R	169	fit<-glm(pCR.num~tmp[,i], family="binomial", data=tmp)
+pCR	scripts/12-SuppFigure5.R	170	fitCubic<-glm(pCR.num ~ ns(tmp[,i], df = 3), family = "binomial", data=tmp)
+pCR	scripts/12-SuppFigure5.R	177	fit<-glm(pCR.num~pdata[,i]*Arm, family="binomial", data=pdata)
+pCR	scripts/12-SuppFigure5.R	185	# association with pCR for delta
+pCR	scripts/12-SuppFigure5.R	187	pdata<-pData(scoreSS)[c("Arm","pCR","pCR.num","Timepoint","Patient_ID")]
+pCR	scripts/12-SuppFigure5.R	206	fit<-glm(pCR.num~tmp[,i], family="binomial", data=tmp)
+pCR	scripts/12-SuppFigure5.R	207	fitCubic<-glm(pCR.num ~ ns(tmp[,i], df = 3), family = "binomial", data=tmp)
+pCR	scripts/12-SuppFigure5.R	215	fit<-glm(pCR.num~tmp[,i], family="binomial", data=tmp)
+pCR	scripts/12-SuppFigure5.R	216	fitCubic<-glm(pCR.num ~ ns(tmp[,i], df = 3), family = "binomial", data=tmp)
+pCR	scripts/12-SuppFigure5.R	223	fit<-glm(pCR.num~pdata[,i]*Arm, family="binomial", data=pdata)
+pCR	scripts/12-SuppFigure5.R	352	pdata<-pData(scoreSS)[scoreSS$Timepoint=="Baseline" & !is.na(scoreSS$Early.pCR),]
+pCR	scripts/12-SuppFigure5.R	355	pdata$Early.pCR <- gsub("e-pCR", "early-pCR", pdata$Early.pCR)
+pCR	scripts/12-SuppFigure5.R	356	pdata$Early.pCR <- factor(pdata$Early.pCR, levels = c("Sustained early-pCR", "Transient early-pCR", "pCR", "RD"))
+pCR	scripts/12-SuppFigure5.R	361	df<-data.frame(pCR=pdata$Early.pCR,Arm=pdata$Arm, Variable=pdata[,i])
+pCR	scripts/12-SuppFigure5.R	364	model<-multinom(pCR ~ Variable, data = df[df$Arm=="CT",], Hess = TRUE)
+pCR	scripts/12-SuppFigure5.R	371	model<-multinom(pCR ~ Variable, data = df[df$Arm=="CT/A",], Hess = TRUE)
+pCR	scripts/12-SuppFigure5.R	378	model<-multinom(pCR ~ Variable*Arm, data = df, Hess = TRUE)
+pCR	scripts/12-SuppFigure5.R	389	nsamp<-data.frame(table(pdata$Early.pCR,pdata$Arm))
+pCR	scripts/12-SuppFigure5.R	390	colnames(nsamp)<-c("Early.pCR","Arm","N")
+pCR	scripts/12-SuppFigure5.R	395	g1<-ggplot(data=pdata, aes(x=Arm, y=B.cells/10, fill=Early.pCR)) +
+pCR	scripts/12-SuppFigure5.R	411	nsamp<-data.frame(table(pdata$Early.pCR,pdata$Arm))
+pCR	scripts/12-SuppFigure5.R	412	colnames(nsamp)<-c("Early.pCR","Arm","N")
+pCR	scripts/12-SuppFigure5.R	417	g2<-ggplot(data=pdata, aes(x=Arm, y=T.cells/10, fill=Early.pCR)) +
+pCR	scripts/12-SuppFigure5.R	433	nsamp<-data.frame(table(pdata$Early.pCR,pdata$Arm))
+pCR	scripts/12-SuppFigure5.R	434	colnames(nsamp)<-c("Early.pCR","Arm","N")
+pCR	scripts/12-SuppFigure5.R	439	g3<-ggplot(data=pdata, aes(x=Arm, y=Cancer_Epithelial/10, fill=Early.pCR)) +
+instaprism	scripts/13-SuppFigure6.R	22	load(file.path(data_dir, "instaprism_deconvolution.RData"))
+deconvolution	scripts/13-SuppFigure6.R	22	load(file.path(data_dir, "instaprism_deconvolution.RData"))
+Tumor_fraction	scripts/13-SuppFigure6.R	28	scoreSS$Tumor_fraction <- scoreSS$Cancer_Epithelial
+Cancer_Epithelial	scripts/13-SuppFigure6.R	27	colnames(pData(scoreSS))[17] <- "Cancer_Epithelial"
+Cancer_Epithelial	scripts/13-SuppFigure6.R	28	scoreSS$Tumor_fraction <- scoreSS$Cancer_Epithelial
+Stromal_fraction	scripts/13-SuppFigure6.R	29	scoreSS$Stromal_fraction <- rowSums(pData(scoreSS)[, c(10:12)])
+Stromal_fraction	scripts/13-SuppFigure6.R	304	stromalfrac <- scoreSSp$Stromal_fraction
+Immune_fraction	scripts/13-SuppFigure6.R	30	scoreSS$Immune_fraction <- rowSums(pData(scoreSS)[, c(13:15)])
+Immune_fraction	scripts/13-SuppFigure6.R	305	immunefrac <- scoreSSp$Immune_fraction
+pCR	scripts/13-SuppFigure6.R	33	res.ct.bl <- logistic_regression(response = "pCR.num",
+pCR	scripts/13-SuppFigure6.R	36	res.cta.bl <- logistic_regression(response = "pCR.num",
+pCR	scripts/13-SuppFigure6.R	39	res.int.bl <- interaction_logistic_regression(response = "pCR.num",
+pCR	scripts/13-SuppFigure6.R	44	res.ct.d1c2 <- logistic_regression(response = "pCR.num",
+pCR	scripts/13-SuppFigure6.R	47	res.cta.d1c2 <- logistic_regression(response = "pCR.num",
+pCR	scripts/13-SuppFigure6.R	50	res.int.d1c2 <- interaction_logistic_regression(response = "pCR.num",
+pCR	scripts/13-SuppFigure6.R	58	res.ct.bl2 <- logistic_regression(response = "pCR.num",
+pCR	scripts/13-SuppFigure6.R	62	res.cta.bl2 <- logistic_regression(response = "pCR.num",
+pCR	scripts/13-SuppFigure6.R	66	res.int.bl2 <- interaction_logistic_regression(response = "pCR.num",
+pCR	scripts/13-SuppFigure6.R	72	res.ct.d1c22 <- logistic_regression(response = "pCR.num",
+pCR	scripts/13-SuppFigure6.R	76	res.cta.d1c22 <- logistic_regression(response = "pCR.num",
+pCR	scripts/13-SuppFigure6.R	80	res.int.d1c22 <- interaction_logistic_regression(response = "pCR.num",
+pCR	scripts/13-SuppFigure6.R	302	f <- factor(paste(scoreSSp$Timepoint, gsub("\\/", "", scoreSSp$Arm), scoreSSp$pCR, sep = "_"))
+pCR	scripts/13-SuppFigure6.R	310	contrast.matrix <- makeContrasts(((fD1C2_CT_pCR+fD1C2_CT_RD)/2)-((fBaseline_CT_pCR+fBaseline_CT_RD)/2),
+pCR	scripts/13-SuppFigure6.R	311	((fD1C2_CTA_pCR+fD1C2_CTA_RD)/2)-((fBaseline_CTA_pCR+fBaseline_CTA_RD)/2),
+pCR	scripts/13-SuppFigure6.R	312	(((fD1C2_CTA_pCR+fD1C2_CTA_RD)/2)-((fBaseline_CTA_pCR+fBaseline_CTA_RD)/2)) - (((fD1C2_CT_pCR+fD1C2_CT_RD)/2)-((fBaseline_CT_pCR+fBaseline_CT_RD)/2)),
+pCR	scripts/13-SuppFigure6.R	378	contrast.matrix <- makeContrasts(((fD1C2_CT_pCR+fD1C2_CT_RD)/2)-((fBaseline_CT_pCR+fBaseline_CT_RD)/2),
+pCR	scripts/13-SuppFigure6.R	379	((fD1C2_CTA_pCR+fD1C2_CTA_RD)/2)-((fBaseline_CTA_pCR+fBaseline_CTA_RD)/2),
+pCR	scripts/13-SuppFigure6.R	380	(((fD1C2_CTA_pCR+fD1C2_CTA_RD)/2)-((fBaseline_CTA_pCR+fBaseline_CTA_RD)/2)) - (((fD1C2_CT_pCR+fD1C2_CT_RD)/2)-((fBaseline_CT_pCR+fBaseline_CT_RD)/2)),
+pCR	scripts/14-SuppFigure7.R	26	pCR = factor(scoreSSp$pCR, levels = c("pCR", "RD")),
+pCR	scripts/14-SuppFigure7.R	28	df$Group <- paste(df$Arm, df$pCR, sep = " - ")
+pCR	scripts/14-SuppFigure7.R	37	geom_line(aes(group = Patient, color = pCR)) +
+pCR	scripts/14-SuppFigure7.R	51	geom_line(aes(group = Patient, color = pCR)) +
+pCR	scripts/14-SuppFigure7.R	65	geom_line(aes(group = Patient, color = pCR)) +

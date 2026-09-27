@@ -1,0 +1,11 @@
+{
+  "stage": 5,
+  "decision": "MODIFY_REVIEW",
+  "patients": 150,
+  "three_component_failures": 150,
+  "fourth_component": "Normal_Epithelial",
+  "four_component_balance_failures": 0,
+  "conclusion": "The three requested aggregates exclude Normal_Epithelial. Their paired changes do not sum to zero; adding the omitted normal-epithelial change verifies the original complete composition. This is a constraint diagnosis only; no reparameterization or renormalization was applied.",
+  "source_units": "Stage 2 pair changes: percentage points; full cell-type fractions: 0-1",
+  "model_action": "No logistic models fitted; explicit methodology review required"
+}

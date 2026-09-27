@@ -1,0 +1,5 @@
+accession	role	status	clinical_validation	evidence
+GSE319641	primary	COMPLETED	NOT_EXTERNAL_VALIDATION	results/stage01_manifest/stage01_status.json
+GSE122630	transportability planned but skipped by eligibility gate	SKIPPED	NOT_PERFORMED	results/stage08_final_gate/transportability_decision.json
+GSE263995	orthogonal descriptive cell-type interpretation	COMPLETED	NOT_PERFORMED	results/stage09_final/single_cell_completion.tsv
+GSE289825	targeted-panel coverage audit	OMIT_TECHNICAL	NOT_PERFORMED	results/stage09_final/single_cell_gene_coverage.tsv

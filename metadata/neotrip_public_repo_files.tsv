@@ -1,0 +1,27 @@
+relative_path	size_bytes	sha256	file_type	contains_instaprism	contains_tumor_fraction	contains_pathology	contains_pcr	notes
+.Rprofile	27	08654ee73bbfa9d016a10709f3589fea6a343a19b6539206ed2eabbac69001f6	Rprofile	FALSE	FALSE	FALSE	FALSE	Text occurrence flags only; variable availability requires content review.
+.gitignore	170	1e572eb3915b0845423a0c7f445ee87b529ec2431bd313b17630ecc634041067	gitignore	FALSE	FALSE	FALSE	FALSE	Text occurrence flags only; variable availability requires content review.
+README.md	1979	70d904b1140c3626f6846dc8270e9f92feb916c4da6dd9e36528e12566a84629	md	FALSE	FALSE	FALSE	FALSE	Text occurrence flags only; variable availability requires content review.
+data/NeoTRIP_baseline_D1C2_pheno_and_clinical.txt	24845	a37a54a45256a4cc4973a1216e45bde94da277a52af6301634cb48b2c8f3fdc0	txt	FALSE	FALSE	FALSE	TRUE	Text occurrence flags only; variable availability requires content review.
+data/geneSets_Supplementary_Table1.txt	64269	c4154db3cb5a1fac690724a2f9630e6862e489eca7e47e714253293d99ca8934	txt	FALSE	FALSE	FALSE	FALSE	Text occurrence flags only; variable availability requires content review.
+early_GEP_NeoTRIP.Rproj	218	aa1bb6b4e0ed0325d1e781f5b6eacf7549b809566866accf8ca605331d136816	Rproj	FALSE	FALSE	FALSE	FALSE	Text occurrence flags only; variable availability requires content review.
+renv.lock	529801	63e01ca89aa58d0c232b4f9c316febe9dcfddf8a513e9234ca1c9dfdf22615ae	lock	TRUE	FALSE	FALSE	FALSE	Text occurrence flags only; variable availability requires content review.
+renv/.gitignore	63	9b21f810728401a29675d989e533d4ed4626be7e18479cbce7e48f1cfe91747b	gitignore	FALSE	FALSE	FALSE	FALSE	Text occurrence flags only; variable availability requires content review.
+renv/activate.R	41384	1a9f2f8ca9226290e3e1d61045d39ceb9218e2761732d57972518e5880db3434	R	FALSE	FALSE	FALSE	FALSE	Text occurrence flags only; variable availability requires content review.
+renv/settings.json	487	e9a3f038fdc32dd9827c335410a1f9b32831dc35bf36c92ce7863546b5ecb7d9	json	FALSE	FALSE	FALSE	FALSE	Text occurrence flags only; variable availability requires content review.
+scripts/00a-helper_functions.R	12588	fb800f897cffe6ff0ad9af74a877feb62ea839c762bfce7dccfbaa3749ef48df	R	FALSE	FALSE	FALSE	FALSE	Text occurrence flags only; variable availability requires content review.
+scripts/00b-project_setup.R	256	8401cc626573b97fa0f9d9640826ebbd6556517540b5ab330f81b3ddb51edc26	R	FALSE	FALSE	FALSE	FALSE	Text occurrence flags only; variable availability requires content review.
+scripts/01-data_download_and_singscore.R	3240	4bc05c1d250f1db51701bfd11bfd1db42c0814f158761721904839d58c7161b8	R	FALSE	FALSE	FALSE	TRUE	Text occurrence flags only; variable availability requires content review.
+scripts/02-Figure1.R	6711	099a39b3c345ad39912dbd33554bce07deb815d7d02eeafd18e430a0c11483ab	R	FALSE	FALSE	FALSE	TRUE	Text occurrence flags only; variable availability requires content review.
+scripts/03-Figure2.R	9715	9be64be8a8a12652f3104d6c43c5cad11f812360421b9e28da89a59a81b35e9d	R	FALSE	FALSE	FALSE	TRUE	Text occurrence flags only; variable availability requires content review.
+scripts/04-Figure3.R	14176	ad7d5af8f2c12de243146f6da162336c40deb7dc99ba435529eddef880da0dda	R	FALSE	FALSE	FALSE	TRUE	Text occurrence flags only; variable availability requires content review.
+scripts/05-Figure4.R	9260	5aef10344dfe581210a8cf21b19b69ae57fb8a53a11b1f80435fd3cc60d076b1	R	FALSE	FALSE	FALSE	TRUE	Text occurrence flags only; variable availability requires content review.
+scripts/06-Figure5.R	10181	d5d90f06931679c7f802c8723373f368f49a6bfe1b2b07284c2cd5bff8ef0efb	R	FALSE	FALSE	FALSE	TRUE	Text occurrence flags only; variable availability requires content review.
+scripts/07-Figure6.R	20436	e6eb07960c254dd62ca7b30783e32aac2b48744a90d7bf3ec4f226a29981398d	R	FALSE	FALSE	FALSE	TRUE	Text occurrence flags only; variable availability requires content review.
+scripts/08-SuppFigure1.R	2776	769ff66e76b66b9408af84d8836952158a654ae8767985acfd30f5a0d6f224c9	R	FALSE	FALSE	FALSE	FALSE	Text occurrence flags only; variable availability requires content review.
+scripts/09-SuppFigure2.R	2163	d57d597ab5ba9e1ecdc2a5ac00f2a20ce84696255d00e66041b060bf0f66d5fa	R	FALSE	FALSE	FALSE	FALSE	Text occurrence flags only; variable availability requires content review.
+scripts/10-SuppFigure3.R	8770	5691e615ed11b7957c8376242bc62b36d55d89ae291a1bea2878766cdd4c3801	R	FALSE	FALSE	FALSE	TRUE	Text occurrence flags only; variable availability requires content review.
+scripts/11-SuppFigure4.R	3815	ba490750d00b4efd3988a11c5755c107b8717e71654d5e52542008f4f30a4826	R	FALSE	FALSE	FALSE	TRUE	Text occurrence flags only; variable availability requires content review.
+scripts/12-SuppFigure5.R	21857	85102a1e1fd569436ead74293d9bc30e5382f19205e6af5350344a2cce0e7433	R	TRUE	TRUE	FALSE	TRUE	Text occurrence flags only; variable availability requires content review.
+scripts/13-SuppFigure6.R	19393	5386292304cf48da9d9cd59e4727b8d7107db6e83f19a0d9fd5a7028ff26d950	R	TRUE	TRUE	FALSE	TRUE	Text occurrence flags only; variable availability requires content review.
+scripts/14-SuppFigure7.R	3949	e803345bbac4b942436a42cf8d734434e2e1dcf1267cedf408480756e8013883	R	FALSE	FALSE	FALSE	TRUE	Text occurrence flags only; variable availability requires content review.

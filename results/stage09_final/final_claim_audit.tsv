@@ -1,0 +1,14 @@
+claim	status	boundary_check	qualification
+Cross-fitted residual response technically measurable	SUPPORTED	PASS	Technical measurement only
+Residual associations after composition adjustment	HYPOTHESIS_GENERATING_ONLY	PASS	Single cohort; no multiplicity-confirmed pathway
+Multiplicity-confirmed residual pathway	NOT_SUPPORTED	PASS	Zero of six pass frozen multiplicity rule
+Independent replication	NOT_SUPPORTED	PASS	No independent validation cohort
+GSE122630 transportability	NOT_PERFORMED	PASS	Skipped by eligibility gate
+Incremental predictive improvement	NOT_SUPPORTED	PASS	No consistent mean improvement
+Clinical utility	NOT_SUPPORTED	PASS	DCA not run
+Orthogonal cell-type interpretation	SUPPORTED_DESCRIPTIVELY	PASS	Three patients; no clinical outcome analysis or cell-level inference
+Mechanistic proof	NOT_SUPPORTED	PASS	Descriptive associations only
+Tumour-intrinsic residual biology	NOT_SUPPORTED_WITHOUT_QUALIFICATION	PASS	Bulk expression and composition dependence
+Residuals contain structured biological variation	HYPOTHESIS_GENERATING_ONLY	PASS	Structured residual variation is descriptive; cell-type scores are not residual replication or mechanistic proof
+Composition adjustment materially affects residual associations	SUPPORTED_DESCRIPTIVELY	PASS	Frozen adjusted versus base-model coefficients differ; no new hypothesis test
+Findings are single-cohort and require independent validation	SUPPORTED	PASS	Only NeoTRIP supplies clinical residual inference; single-cell support is orthogonal and descriptive

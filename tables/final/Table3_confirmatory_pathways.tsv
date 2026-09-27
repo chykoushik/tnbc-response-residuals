@@ -1,0 +1,7 @@
+axis	gene_set	frozen_genes	prespecified_direction	version	source
+immune_interferon	HALLMARK_INTERFERON_GAMMA_RESPONSE	200	positive	2026.1.Hs	msigdbr 26.1.1; MSigDB human 2026.1; collection H
+proliferation	HALLMARK_E2F_TARGETS	200	negative	2026.1.Hs	msigdbr 26.1.1; MSigDB human 2026.1; collection H
+stromal_emt	HALLMARK_EPITHELIAL_MESENCHYMAL_TRANSITION	200	negative	2026.1.Hs	msigdbr 26.1.1; MSigDB human 2026.1; collection H
+dna_repair	HALLMARK_DNA_REPAIR	150	negative	2026.1.Hs	msigdbr 26.1.1; MSigDB human 2026.1; collection H
+hypoxia_stress	HALLMARK_HYPOXIA	200	negative	2026.1.Hs	msigdbr 26.1.1; MSigDB human 2026.1; collection H
+apoptosis	HALLMARK_APOPTOSIS	161	positive	2026.1.Hs	msigdbr 26.1.1; MSigDB human 2026.1; collection H

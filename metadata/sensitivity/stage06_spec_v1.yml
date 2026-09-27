@@ -1,0 +1,70 @@
+version: v1
+freeze_timestamp: '2026-09-25T18:45:55Z'
+primary_stage5_version: v2
+primary_residual_version: v1
+master_seed: 319641
+permutation_seed: 319642
+random_gene_seed: 319643
+permutations: 10000
+random_gene_sets_per_axis: 100
+primary_robustness_variants:
+- S1_ssgsea
+- S2_no_baseline_composition
+- S3_lambda_min
+- S4_arm_baseline_interaction
+- S5_ilr_composition
+additional_analyses:
+- arm_specific_residuals
+- outcome_arm_interaction
+- leave_one_out_influence
+- permutation_test
+- random_matched_gene_sets
+- complete_case_check
+axes:
+- immune_interferon
+- proliferation
+- stromal_emt
+- dna_repair
+- hypoxia_stress
+- apoptosis
+ridge_alpha: 0.0
+standardize: yes
+intercept: yes
+nlambda: 100
+lambda_min_ratio: 0.0001
+outer_folds: 10
+inner_folds: 10
+arm_specific_inner_folds: 5
+arm_inner_seed_rule: 319641 + 100 * arm_index + outer_fold; CT=1, CT/A=2
+random_matching: 20 type-7 quantile bins on eligible mean expression; outer limits
+  infinite; cut right=TRUE; confirmatory genes excluded; exact within-bin counts without
+  replacement
+rng_kind:
+- Mersenne-Twister
+- Inversion
+- Rejection
+null_baseline_adjustment: Corresponding null baseline z, consistent with replacing
+  only the target pathway
+ssgsea:
+  alpha: 0.25
+  normalize: yes
+  minSize: 1.0
+  maxSize: Inf
+ilr_component_order:
+- cancer_epithelial
+- normal_epithelial
+- immune
+- stromal
+ilr_basis: stats::contr.helmert(4), columns divided by their Euclidean norms
+stability: Same beta sign as primary AND beta within primary ordinary log-odds 95%
+  CI
+permutation_quantile_type: 7
+permutation_statistic: Frozen directional residual beta
+random_percentile: 100 * mean(abs(null beta) <= abs(primary beta))
+influence_zero_tolerance: 1.0e-08
+influence_gate: 0.25
+GSVA_version: 2.4.9
+glmnet_version: '5.1'
+scoring_documentation: https://bioconductor.posit.co/packages/3.22/bioc/manuals/GSVA/man/GSVA.pdf
+external_data_access: PROHIBITED
+exploratory_pathways: PROHIBITED

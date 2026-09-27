@@ -1,0 +1,4 @@
+variable	source_units	analysis_units	source_to_fraction_divisor	modelling_divisor	coefficient_units
+delta_cancer_epithelial	percentage_points	fraction_change	100	0.1	10 percentage points
+delta_immune_fraction	percentage_points	fraction_change	100	0.1	10 percentage points
+delta_stromal_fraction	percentage_points	fraction_change	100	0.1	10 percentage points

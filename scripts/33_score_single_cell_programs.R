@@ -1,0 +1,7 @@
+source("R/paths.R")
+source("R/checksums.R")
+source("R/prediction_folds.R")
+source("R/sc_source_audit.R")
+source("R/sc_annotation.R")
+source("R/sc_pathway_scoring.R")
+run_stage("33_score_single_cell_programs", score09())

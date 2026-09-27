@@ -1,0 +1,402 @@
+gsm	sample_title	geo_library_name	geo_patient_id	geo_timepoint	geo_batch	organism	platform
+GSM9521946	Tumor sample of patient TNBC00001 at baseline	TNBC00001_Baseline	TNBC00001	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9521947	Tumor sample of patient TNBC00001 at day 1 of cycle 2	TNBC00001_D1C2	TNBC00001	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9521948	Tumor sample of patient TNBC00988 at baseline	TNBC00988_Baseline	TNBC00988	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9521949	Tumor sample of patient TNBC01436 at baseline	TNBC01436_Baseline	TNBC01436	Baseline	Batch 2	Homo sapiens	GPL18573
+GSM9521950	Tumor sample of patient TNBC01436 at day 1 of cycle 2	TNBC01436_D1C2	TNBC01436	D1C2	Batch 2	Homo sapiens	GPL18573
+GSM9521951	Tumor sample of patient TNBC01926 at baseline	TNBC01926_Baseline	TNBC01926	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9521952	Tumor sample of patient TNBC03683 at baseline	TNBC03683_Baseline	TNBC03683	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9521953	Tumor sample of patient TNBC03683 at day 1 of cycle 2	TNBC03683_D1C2	TNBC03683	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9521954	Tumor sample of patient TNBC03920 at baseline	TNBC03920_Baseline	TNBC03920	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9521955	Tumor sample of patient TNBC03920 at day 1 of cycle 2	TNBC03920_D1C2	TNBC03920	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9521956	Tumor sample of patient TNBC04100 at baseline	TNBC04100_Baseline	TNBC04100	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9521957	Tumor sample of patient TNBC04687 at baseline	TNBC04687_Baseline	TNBC04687	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9521958	Tumor sample of patient TNBC05791 at baseline	TNBC05791_Baseline	TNBC05791	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9521959	Tumor sample of patient TNBC05791 at day 1 of cycle 2	TNBC05791_D1C2	TNBC05791	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9521960	Tumor sample of patient TNBC06123 at baseline	TNBC06123_Baseline	TNBC06123	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9521961	Tumor sample of patient TNBC06135 at baseline	TNBC06135_Baseline	TNBC06135	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9521962	Tumor sample of patient TNBC06135 at day 1 of cycle 2	TNBC06135_D1C2	TNBC06135	D1C2	Batch 1	Homo sapiens	GPL18573
+GSM9521963	Tumor sample of patient TNBC06324 at baseline	TNBC06324_Baseline	TNBC06324	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9521964	Tumor sample of patient TNBC06324 at day 1 of cycle 2	TNBC06324_D1C2	TNBC06324	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9521965	Tumor sample of patient TNBC06653 at baseline	TNBC06653_Baseline	TNBC06653	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9521966	Tumor sample of patient TNBC06653 at day 1 of cycle 2	TNBC06653_D1C2	TNBC06653	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9521967	Tumor sample of patient TNBC06775 at baseline	TNBC06775_Baseline	TNBC06775	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9521968	Tumor sample of patient TNBC07076 at day 1 of cycle 2	TNBC07076_D1C2	TNBC07076	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9521969	Tumor sample of patient TNBC07174 at baseline	TNBC07174_Baseline	TNBC07174	Baseline	Batch 2	Homo sapiens	GPL18573
+GSM9521970	Tumor sample of patient TNBC07348 at baseline	TNBC07348_Baseline	TNBC07348	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9521971	Tumor sample of patient TNBC07550 at baseline	TNBC07550_Baseline	TNBC07550	Baseline	Batch 1	Homo sapiens	GPL18573
+GSM9521972	Tumor sample of patient TNBC07550 at day 1 of cycle 2	TNBC07550_D1C2	TNBC07550	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9521973	Tumor sample of patient TNBC07711 at baseline	TNBC07711_Baseline	TNBC07711	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9521974	Tumor sample of patient TNBC07895 at baseline	TNBC07895_Baseline	TNBC07895	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9521975	Tumor sample of patient TNBC07895 at day 1 of cycle 2	TNBC07895_D1C2	TNBC07895	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9521976	Tumor sample of patient TNBC08166 at baseline	TNBC08166_Baseline	TNBC08166	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9521977	Tumor sample of patient TNBC08166 at day 1 of cycle 2	TNBC08166_D1C2	TNBC08166	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9521978	Tumor sample of patient TNBC08172 at baseline	TNBC08172_Baseline	TNBC08172	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9521979	Tumor sample of patient TNBC08670 at baseline	TNBC08670_Baseline	TNBC08670	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9521980	Tumor sample of patient TNBC09613 at baseline	TNBC09613_Baseline	TNBC09613	Baseline	Batch 2	Homo sapiens	GPL18573
+GSM9521981	Tumor sample of patient TNBC10344 at baseline	TNBC10344_Baseline	TNBC10344	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9521982	Tumor sample of patient TNBC10344 at day 1 of cycle 2	TNBC10344_D1C2	TNBC10344	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9521983	Tumor sample of patient TNBC10463 at baseline	TNBC10463_Baseline	TNBC10463	Baseline	Batch 1	Homo sapiens	GPL18573
+GSM9521984	Tumor sample of patient TNBC10463 at day 1 of cycle 2	TNBC10463_D1C2	TNBC10463	D1C2	Batch 1	Homo sapiens	GPL18573
+GSM9521985	Tumor sample of patient TNBC10855 at baseline	TNBC10855_Baseline	TNBC10855	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9521986	Tumor sample of patient TNBC10855 at day 1 of cycle 2	TNBC10855_D1C2	TNBC10855	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9521987	Tumor sample of patient TNBC11045 at baseline	TNBC11045_Baseline	TNBC11045	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9521988	Tumor sample of patient TNBC11361 at baseline	TNBC11361_Baseline	TNBC11361	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9521989	Tumor sample of patient TNBC11579 at baseline	TNBC11579_Baseline	TNBC11579	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9521990	Tumor sample of patient TNBC11579 at day 1 of cycle 2	TNBC11579_D1C2	TNBC11579	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9521991	Tumor sample of patient TNBC12291 at baseline	TNBC12291_Baseline	TNBC12291	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9521992	Tumor sample of patient TNBC12291 at day 1 of cycle 2	TNBC12291_D1C2	TNBC12291	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9521993	Tumor sample of patient TNBC12534 at baseline	TNBC12534_Baseline	TNBC12534	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9521994	Tumor sample of patient TNBC12534 at day 1 of cycle 2	TNBC12534_D1C2	TNBC12534	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9521995	Tumor sample of patient TNBC12644 at baseline	TNBC12644_Baseline	TNBC12644	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9521996	Tumor sample of patient TNBC12644 at day 1 of cycle 2	TNBC12644_D1C2	TNBC12644	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9521997	Tumor sample of patient TNBC13431 at baseline	TNBC13431_Baseline	TNBC13431	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9521998	Tumor sample of patient TNBC13431 at day 1 of cycle 2	TNBC13431_D1C2	TNBC13431	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9521999	Tumor sample of patient TNBC13721 at baseline	TNBC13721_Baseline	TNBC13721	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522000	Tumor sample of patient TNBC13806 at baseline	TNBC13806_Baseline	TNBC13806	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522001	Tumor sample of patient TNBC13806 at day 1 of cycle 2	TNBC13806_D1C2	TNBC13806	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522002	Tumor sample of patient TNBC13954 at baseline	TNBC13954_Baseline	TNBC13954	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522003	Tumor sample of patient TNBC13988 at baseline	TNBC13988_Baseline	TNBC13988	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522004	Tumor sample of patient TNBC13988 at day 1 of cycle 2	TNBC13988_D1C2	TNBC13988	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522005	Tumor sample of patient TNBC13995 at baseline	TNBC13995_Baseline	TNBC13995	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522006	Tumor sample of patient TNBC13995 at day 1 of cycle 2	TNBC13995_D1C2	TNBC13995	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522007	Tumor sample of patient TNBC14014 at baseline	TNBC14014_Baseline	TNBC14014	Baseline	Batch 1	Homo sapiens	GPL18573
+GSM9522008	Tumor sample of patient TNBC14014 at day 1 of cycle 2	TNBC14014_D1C2	TNBC14014	D1C2	Batch 1	Homo sapiens	GPL18573
+GSM9522009	Tumor sample of patient TNBC14100 at baseline	TNBC14100_Baseline	TNBC14100	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522010	Tumor sample of patient TNBC14131 at baseline	TNBC14131_Baseline	TNBC14131	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522011	Tumor sample of patient TNBC14131 at day 1 of cycle 2	TNBC14131_D1C2	TNBC14131	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522012	Tumor sample of patient TNBC14163 at baseline	TNBC14163_Baseline	TNBC14163	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522013	Tumor sample of patient TNBC14419 at baseline	TNBC14419_Baseline	TNBC14419	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522014	Tumor sample of patient TNBC14562 at baseline	TNBC14562_Baseline	TNBC14562	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522015	Tumor sample of patient TNBC14562 at day 1 of cycle 2	TNBC14562_D1C2	TNBC14562	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522016	Tumor sample of patient TNBC14898 at baseline	TNBC14898_Baseline	TNBC14898	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522017	Tumor sample of patient TNBC14898 at day 1 of cycle 2	TNBC14898_D1C2	TNBC14898	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522018	Tumor sample of patient TNBC15520 at baseline	TNBC15520_Baseline	TNBC15520	Baseline	Batch 1	Homo sapiens	GPL18573
+GSM9522019	Tumor sample of patient TNBC15520 at day 1 of cycle 2	TNBC15520_D1C2	TNBC15520	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522020	Tumor sample of patient TNBC16405 at baseline	TNBC16405_Baseline	TNBC16405	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522021	Tumor sample of patient TNBC16405 at day 1 of cycle 2	TNBC16405_D1C2	TNBC16405	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522022	Tumor sample of patient TNBC16427 at baseline	TNBC16427_Baseline	TNBC16427	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522023	Tumor sample of patient TNBC16427 at day 1 of cycle 2	TNBC16427_D1C2	TNBC16427	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522024	Tumor sample of patient TNBC16434 at baseline	TNBC16434_Baseline	TNBC16434	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522025	Tumor sample of patient TNBC16434 at day 1 of cycle 2	TNBC16434_D1C2	TNBC16434	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522026	Tumor sample of patient TNBC16597 at baseline	TNBC16597_Baseline	TNBC16597	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522027	Tumor sample of patient TNBC16597 at day 1 of cycle 2	TNBC16597_D1C2	TNBC16597	D1C2	Batch 1	Homo sapiens	GPL18573
+GSM9522028	Tumor sample of patient TNBC16653 at baseline	TNBC16653_Baseline	TNBC16653	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522029	Tumor sample of patient TNBC16653 at day 1 of cycle 2	TNBC16653_D1C2	TNBC16653	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522030	Tumor sample of patient TNBC16918 at baseline	TNBC16918_Baseline	TNBC16918	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522031	Tumor sample of patient TNBC17121 at baseline	TNBC17121_Baseline	TNBC17121	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522032	Tumor sample of patient TNBC17121 at day 1 of cycle 2	TNBC17121_D1C2	TNBC17121	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522033	Tumor sample of patient TNBC17157 at baseline	TNBC17157_Baseline	TNBC17157	Baseline	Batch 2	Homo sapiens	GPL18573
+GSM9522034	Tumor sample of patient TNBC17157 at day 1 of cycle 2	TNBC17157_D1C2	TNBC17157	D1C2	Batch 2	Homo sapiens	GPL18573
+GSM9522035	Tumor sample of patient TNBC17233 at baseline	TNBC17233_Baseline	TNBC17233	Baseline	Batch 1	Homo sapiens	GPL18573
+GSM9522036	Tumor sample of patient TNBC17233 at day 1 of cycle 2	TNBC17233_D1C2	TNBC17233	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522037	Tumor sample of patient TNBC18095 at baseline	TNBC18095_Baseline	TNBC18095	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522038	Tumor sample of patient TNBC18242 at baseline	TNBC18242_Baseline	TNBC18242	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522039	Tumor sample of patient TNBC18242 at day 1 of cycle 2	TNBC18242_D1C2	TNBC18242	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522040	Tumor sample of patient TNBC18702 at baseline	TNBC18702_Baseline	TNBC18702	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522041	Tumor sample of patient TNBC18702 at day 1 of cycle 2	TNBC18702_D1C2	TNBC18702	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522042	Tumor sample of patient TNBC19417 at baseline	TNBC19417_Baseline	TNBC19417	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522043	Tumor sample of patient TNBC19822 at baseline	TNBC19822_Baseline	TNBC19822	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522044	Tumor sample of patient TNBC19822 at day 1 of cycle 2	TNBC19822_D1C2	TNBC19822	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522045	Tumor sample of patient TNBC20188 at baseline	TNBC20188_Baseline	TNBC20188	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522046	Tumor sample of patient TNBC20188 at day 1 of cycle 2	TNBC20188_D1C2	TNBC20188	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522047	Tumor sample of patient TNBC20338 at baseline	TNBC20338_Baseline	TNBC20338	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522048	Tumor sample of patient TNBC20338 at day 1 of cycle 2	TNBC20338_D1C2	TNBC20338	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522049	Tumor sample of patient TNBC20660 at baseline	TNBC20660_Baseline	TNBC20660	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522050	Tumor sample of patient TNBC20660 at day 1 of cycle 2	TNBC20660_D1C2	TNBC20660	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522051	Tumor sample of patient TNBC20911 at baseline	TNBC20911_Baseline	TNBC20911	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522052	Tumor sample of patient TNBC20977 at baseline	TNBC20977_Baseline	TNBC20977	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522053	Tumor sample of patient TNBC20977 at day 1 of cycle 2	TNBC20977_D1C2	TNBC20977	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522054	Tumor sample of patient TNBC21069 at baseline	TNBC21069_Baseline	TNBC21069	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522055	Tumor sample of patient TNBC21069 at day 1 of cycle 2	TNBC21069_D1C2	TNBC21069	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522056	Tumor sample of patient TNBC21253 at baseline	TNBC21253_Baseline	TNBC21253	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522057	Tumor sample of patient TNBC21253 at day 1 of cycle 2	TNBC21253_D1C2	TNBC21253	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522058	Tumor sample of patient TNBC21538 at baseline	TNBC21538_Baseline	TNBC21538	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522059	Tumor sample of patient TNBC22219 at baseline	TNBC22219_Baseline	TNBC22219	Baseline	Batch 1	Homo sapiens	GPL18573
+GSM9522060	Tumor sample of patient TNBC22557 at baseline	TNBC22557_Baseline	TNBC22557	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522061	Tumor sample of patient TNBC23635 at baseline	TNBC23635_Baseline	TNBC23635	Baseline	Batch 2	Homo sapiens	GPL18573
+GSM9522062	Tumor sample of patient TNBC23988 at baseline	TNBC23988_Baseline	TNBC23988	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522063	Tumor sample of patient TNBC24087 at baseline	TNBC24087_Baseline	TNBC24087	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522064	Tumor sample of patient TNBC24087 at day 1 of cycle 2	TNBC24087_D1C2	TNBC24087	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522065	Tumor sample of patient TNBC25207 at baseline	TNBC25207_Baseline	TNBC25207	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522066	Tumor sample of patient TNBC25207 at day 1 of cycle 2	TNBC25207_D1C2	TNBC25207	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522067	Tumor sample of patient TNBC25323 at baseline	TNBC25323_Baseline	TNBC25323	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522068	Tumor sample of patient TNBC25323 at day 1 of cycle 2	TNBC25323_D1C2	TNBC25323	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522069	Tumor sample of patient TNBC25372 at baseline	TNBC25372_Baseline	TNBC25372	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522070	Tumor sample of patient TNBC25372 at day 1 of cycle 2	TNBC25372_D1C2	TNBC25372	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522071	Tumor sample of patient TNBC25694 at baseline	TNBC25694_Baseline	TNBC25694	Baseline	Batch 2	Homo sapiens	GPL18573
+GSM9522072	Tumor sample of patient TNBC25694 at day 1 of cycle 2	TNBC25694_D1C2	TNBC25694	D1C2	Batch 2	Homo sapiens	GPL18573
+GSM9522073	Tumor sample of patient TNBC26224 at baseline	TNBC26224_Baseline	TNBC26224	Baseline	Batch 2	Homo sapiens	GPL18573
+GSM9522074	Tumor sample of patient TNBC26224 at day 1 of cycle 2	TNBC26224_D1C2	TNBC26224	D1C2	Batch 2	Homo sapiens	GPL18573
+GSM9522075	Tumor sample of patient TNBC26226 at baseline	TNBC26226_Baseline	TNBC26226	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522076	Tumor sample of patient TNBC26226 at day 1 of cycle 2	TNBC26226_D1C2	TNBC26226	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522077	Tumor sample of patient TNBC26502 at baseline	TNBC26502_Baseline	TNBC26502	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522078	Tumor sample of patient TNBC26502 at day 1 of cycle 2	TNBC26502_D1C2	TNBC26502	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522079	Tumor sample of patient TNBC26782 at baseline	TNBC26782_Baseline	TNBC26782	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522080	Tumor sample of patient TNBC26782 at day 1 of cycle 2	TNBC26782_D1C2	TNBC26782	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522081	Tumor sample of patient TNBC27051 at baseline	TNBC27051_Baseline	TNBC27051	Baseline	Batch 1	Homo sapiens	GPL18573
+GSM9522082	Tumor sample of patient TNBC27051 at day 1 of cycle 2	TNBC27051_D1C2	TNBC27051	D1C2	Batch 1	Homo sapiens	GPL18573
+GSM9522083	Tumor sample of patient TNBC27292 at baseline	TNBC27292_Baseline	TNBC27292	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522084	Tumor sample of patient TNBC27292 at day 1 of cycle 2	TNBC27292_D1C2	TNBC27292	D1C2	Batch 1	Homo sapiens	GPL18573
+GSM9522085	Tumor sample of patient TNBC27308 at baseline	TNBC27308_Baseline	TNBC27308	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522086	Tumor sample of patient TNBC27308 at day 1 of cycle 2	TNBC27308_D1C2	TNBC27308	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522087	Tumor sample of patient TNBC27408 at baseline	TNBC27408_Baseline	TNBC27408	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522088	Tumor sample of patient TNBC27672 at baseline	TNBC27672_Baseline	TNBC27672	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522089	Tumor sample of patient TNBC27672 at day 1 of cycle 2	TNBC27672_D1C2	TNBC27672	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522090	Tumor sample of patient TNBC28250 at baseline	TNBC28250_Baseline	TNBC28250	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522091	Tumor sample of patient TNBC28485 at baseline	TNBC28485_Baseline	TNBC28485	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522092	Tumor sample of patient TNBC28485 at day 1 of cycle 2	TNBC28485_D1C2	TNBC28485	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522093	Tumor sample of patient TNBC28574 at baseline	TNBC28574_Baseline	TNBC28574	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522094	Tumor sample of patient TNBC28574 at day 1 of cycle 2	TNBC28574_D1C2	TNBC28574	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522095	Tumor sample of patient TNBC29782 at baseline	TNBC29782_Baseline	TNBC29782	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522096	Tumor sample of patient TNBC30044 at baseline	TNBC30044_Baseline	TNBC30044	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522097	Tumor sample of patient TNBC30174 at baseline	TNBC30174_Baseline	TNBC30174	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522098	Tumor sample of patient TNBC30174 at day 1 of cycle 2	TNBC30174_D1C2	TNBC30174	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522099	Tumor sample of patient TNBC30276 at baseline	TNBC30276_Baseline	TNBC30276	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522100	Tumor sample of patient TNBC30276 at day 1 of cycle 2	TNBC30276_D1C2	TNBC30276	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522101	Tumor sample of patient TNBC30391 at baseline	TNBC30391_Baseline	TNBC30391	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522102	Tumor sample of patient TNBC30391 at day 1 of cycle 2	TNBC30391_D1C2	TNBC30391	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522103	Tumor sample of patient TNBC30690 at baseline	TNBC30690_Baseline	TNBC30690	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522104	Tumor sample of patient TNBC30690 at day 1 of cycle 2	TNBC30690_D1C2	TNBC30690	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522105	Tumor sample of patient TNBC32009 at baseline	TNBC32009_Baseline	TNBC32009	Baseline	Batch 1	Homo sapiens	GPL18573
+GSM9522106	Tumor sample of patient TNBC32009 at day 1 of cycle 2	TNBC32009_D1C2	TNBC32009	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522107	Tumor sample of patient TNBC33632 at day 1 of cycle 2	TNBC33632_D1C2	TNBC33632	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522108	Tumor sample of patient TNBC33936 at baseline	TNBC33936_Baseline	TNBC33936	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522109	Tumor sample of patient TNBC34345 at day 1 of cycle 2	TNBC34345_D1C2	TNBC34345	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522110	Tumor sample of patient TNBC34652 at baseline	TNBC34652_Baseline	TNBC34652	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522111	Tumor sample of patient TNBC34981 at baseline	TNBC34981_Baseline	TNBC34981	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522112	Tumor sample of patient TNBC35810 at baseline	TNBC35810_Baseline	TNBC35810	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522113	Tumor sample of patient TNBC36617 at baseline	TNBC36617_Baseline	TNBC36617	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522114	Tumor sample of patient TNBC37020 at baseline	TNBC37020_Baseline	TNBC37020	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522115	Tumor sample of patient TNBC37020 at day 1 of cycle 2	TNBC37020_D1C2	TNBC37020	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522116	Tumor sample of patient TNBC37606 at baseline	TNBC37606_Baseline	TNBC37606	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522117	Tumor sample of patient TNBC37723 at baseline	TNBC37723_Baseline	TNBC37723	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522118	Tumor sample of patient TNBC37814 at baseline	TNBC37814_Baseline	TNBC37814	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522119	Tumor sample of patient TNBC37814 at day 1 of cycle 2	TNBC37814_D1C2	TNBC37814	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522120	Tumor sample of patient TNBC37865 at baseline	TNBC37865_Baseline	TNBC37865	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522121	Tumor sample of patient TNBC37865 at day 1 of cycle 2	TNBC37865_D1C2	TNBC37865	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522122	Tumor sample of patient TNBC38588 at baseline	TNBC38588_Baseline	TNBC38588	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522123	Tumor sample of patient TNBC38588 at day 1 of cycle 2	TNBC38588_D1C2	TNBC38588	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522124	Tumor sample of patient TNBC38928 at baseline	TNBC38928_Baseline	TNBC38928	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522125	Tumor sample of patient TNBC39361 at baseline	TNBC39361_Baseline	TNBC39361	Baseline	Batch 1	Homo sapiens	GPL18573
+GSM9522126	Tumor sample of patient TNBC40695 at day 1 of cycle 2	TNBC40695_D1C2	TNBC40695	D1C2	Batch 2	Homo sapiens	GPL18573
+GSM9522127	Tumor sample of patient TNBC41174 at baseline	TNBC41174_Baseline	TNBC41174	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522128	Tumor sample of patient TNBC41186 at baseline	TNBC41186_Baseline	TNBC41186	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522129	Tumor sample of patient TNBC41186 at day 1 of cycle 2	TNBC41186_D1C2	TNBC41186	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522130	Tumor sample of patient TNBC41495 at baseline	TNBC41495_Baseline	TNBC41495	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522131	Tumor sample of patient TNBC41495 at day 1 of cycle 2	TNBC41495_D1C2	TNBC41495	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522132	Tumor sample of patient TNBC41719 at baseline	TNBC41719_Baseline	TNBC41719	Baseline	Batch 1	Homo sapiens	GPL18573
+GSM9522133	Tumor sample of patient TNBC41719 at day 1 of cycle 2	TNBC41719_D1C2	TNBC41719	D1C2	Batch 1	Homo sapiens	GPL18573
+GSM9522134	Tumor sample of patient TNBC41807 at baseline	TNBC41807_Baseline	TNBC41807	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522135	Tumor sample of patient TNBC41842 at day 1 of cycle 2	TNBC41842_D1C2	TNBC41842	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522136	Tumor sample of patient TNBC41956 at baseline	TNBC41956_Baseline	TNBC41956	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522137	Tumor sample of patient TNBC41956 at day 1 of cycle 2	TNBC41956_D1C2	TNBC41956	D1C2	Batch 2	Homo sapiens	GPL18573
+GSM9522138	Tumor sample of patient TNBC42731 at baseline	TNBC42731_Baseline	TNBC42731	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522139	Tumor sample of patient TNBC42731 at day 1 of cycle 2	TNBC42731_D1C2	TNBC42731	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522140	Tumor sample of patient TNBC42925 at baseline	TNBC42925_Baseline	TNBC42925	Baseline	Batch 2	Homo sapiens	GPL18573
+GSM9522141	Tumor sample of patient TNBC43171 at baseline	TNBC43171_Baseline	TNBC43171	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522142	Tumor sample of patient TNBC43171 at day 1 of cycle 2	TNBC43171_D1C2	TNBC43171	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522143	Tumor sample of patient TNBC43866 at baseline	TNBC43866_Baseline	TNBC43866	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522144	Tumor sample of patient TNBC43866 at day 1 of cycle 2	TNBC43866_D1C2	TNBC43866	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522145	Tumor sample of patient TNBC43892 at day 1 of cycle 2	TNBC43892_D1C2	TNBC43892	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522146	Tumor sample of patient TNBC44181 at baseline	TNBC44181_Baseline	TNBC44181	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522147	Tumor sample of patient TNBC44181 at day 1 of cycle 2	TNBC44181_D1C2	TNBC44181	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522148	Tumor sample of patient TNBC44613 at baseline	TNBC44613_Baseline	TNBC44613	Baseline	Batch 1	Homo sapiens	GPL18573
+GSM9522149	Tumor sample of patient TNBC44613 at day 1 of cycle 2	TNBC44613_D1C2	TNBC44613	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522150	Tumor sample of patient TNBC45761 at baseline	TNBC45761_Baseline	TNBC45761	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522151	Tumor sample of patient TNBC45761 at day 1 of cycle 2	TNBC45761_D1C2	TNBC45761	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522152	Tumor sample of patient TNBC46193 at baseline	TNBC46193_Baseline	TNBC46193	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522153	Tumor sample of patient TNBC46193 at day 1 of cycle 2	TNBC46193_D1C2	TNBC46193	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522154	Tumor sample of patient TNBC46266 at baseline	TNBC46266_Baseline	TNBC46266	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522155	Tumor sample of patient TNBC46376 at baseline	TNBC46376_Baseline	TNBC46376	Baseline	Batch 2	Homo sapiens	GPL18573
+GSM9522156	Tumor sample of patient TNBC46376 at day 1 of cycle 2	TNBC46376_D1C2	TNBC46376	D1C2	Batch 2	Homo sapiens	GPL18573
+GSM9522157	Tumor sample of patient TNBC47153 at baseline	TNBC47153_Baseline	TNBC47153	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522158	Tumor sample of patient TNBC47179 at baseline	TNBC47179_Baseline	TNBC47179	Baseline	Batch 1	Homo sapiens	GPL18573
+GSM9522159	Tumor sample of patient TNBC47179 at day 1 of cycle 2	TNBC47179_D1C2	TNBC47179	D1C2	Batch 1	Homo sapiens	GPL18573
+GSM9522160	Tumor sample of patient TNBC47289 at day 1 of cycle 2	TNBC47289_D1C2	TNBC47289	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522161	Tumor sample of patient TNBC47474 at baseline	TNBC47474_Baseline	TNBC47474	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522162	Tumor sample of patient TNBC47474 at day 1 of cycle 2	TNBC47474_D1C2	TNBC47474	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522163	Tumor sample of patient TNBC47688 at baseline	TNBC47688_Baseline	TNBC47688	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522164	Tumor sample of patient TNBC48771 at baseline	TNBC48771_Baseline	TNBC48771	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522165	Tumor sample of patient TNBC48771 at day 1 of cycle 2	TNBC48771_D1C2	TNBC48771	D1C2	Batch 1	Homo sapiens	GPL18573
+GSM9522166	Tumor sample of patient TNBC49181 at baseline	TNBC49181_Baseline	TNBC49181	Baseline	Batch 2	Homo sapiens	GPL18573
+GSM9522167	Tumor sample of patient TNBC49181 at day 1 of cycle 2	TNBC49181_D1C2	TNBC49181	D1C2	Batch 2	Homo sapiens	GPL18573
+GSM9522168	Tumor sample of patient TNBC49260 at baseline	TNBC49260_Baseline	TNBC49260	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522169	Tumor sample of patient TNBC49260 at day 1 of cycle 2	TNBC49260_D1C2	TNBC49260	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522170	Tumor sample of patient TNBC49462 at baseline	TNBC49462_Baseline	TNBC49462	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522171	Tumor sample of patient TNBC49632 at baseline	TNBC49632_Baseline	TNBC49632	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522172	Tumor sample of patient TNBC49681 at baseline	TNBC49681_Baseline	TNBC49681	Baseline	Batch 1	Homo sapiens	GPL18573
+GSM9522173	Tumor sample of patient TNBC49681 at day 1 of cycle 2	TNBC49681_D1C2	TNBC49681	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522174	Tumor sample of patient TNBC50471 at baseline	TNBC50471_Baseline	TNBC50471	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522175	Tumor sample of patient TNBC50682 at baseline	TNBC50682_Baseline	TNBC50682	Baseline	Batch 2	Homo sapiens	GPL18573
+GSM9522176	Tumor sample of patient TNBC50682 at day 1 of cycle 2	TNBC50682_D1C2	TNBC50682	D1C2	Batch 2	Homo sapiens	GPL18573
+GSM9522177	Tumor sample of patient TNBC50721 at baseline	TNBC50721_Baseline	TNBC50721	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522178	Tumor sample of patient TNBC50721 at day 1 of cycle 2	TNBC50721_D1C2	TNBC50721	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522179	Tumor sample of patient TNBC50918 at day 1 of cycle 2	TNBC50918_D1C2	TNBC50918	D1C2	Batch 1	Homo sapiens	GPL18573
+GSM9522180	Tumor sample of patient TNBC51337 at baseline	TNBC51337_Baseline	TNBC51337	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522181	Tumor sample of patient TNBC51337 at day 1 of cycle 2	TNBC51337_D1C2	TNBC51337	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522182	Tumor sample of patient TNBC51354 at baseline	TNBC51354_Baseline	TNBC51354	Baseline	Batch 1	Homo sapiens	GPL18573
+GSM9522183	Tumor sample of patient TNBC51621 at baseline	TNBC51621_Baseline	TNBC51621	Baseline	Batch 2	Homo sapiens	GPL18573
+GSM9522184	Tumor sample of patient TNBC51621 at day 1 of cycle 2	TNBC51621_D1C2	TNBC51621	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522185	Tumor sample of patient TNBC52365 at baseline	TNBC52365_Baseline	TNBC52365	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522186	Tumor sample of patient TNBC52707 at baseline	TNBC52707_Baseline	TNBC52707	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522187	Tumor sample of patient TNBC52707 at day 1 of cycle 2	TNBC52707_D1C2	TNBC52707	D1C2	Batch 1	Homo sapiens	GPL18573
+GSM9522188	Tumor sample of patient TNBC52792 at baseline	TNBC52792_Baseline	TNBC52792	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522189	Tumor sample of patient TNBC52792 at day 1 of cycle 2	TNBC52792_D1C2	TNBC52792	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522190	Tumor sample of patient TNBC53069 at baseline	TNBC53069_Baseline	TNBC53069	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522191	Tumor sample of patient TNBC53069 at day 1 of cycle 2	TNBC53069_D1C2	TNBC53069	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522192	Tumor sample of patient TNBC53452 at baseline	TNBC53452_Baseline	TNBC53452	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522193	Tumor sample of patient TNBC53452 at day 1 of cycle 2	TNBC53452_D1C2	TNBC53452	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522194	Tumor sample of patient TNBC53593 at baseline	TNBC53593_Baseline	TNBC53593	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522195	Tumor sample of patient TNBC53593 at day 1 of cycle 2	TNBC53593_D1C2	TNBC53593	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522196	Tumor sample of patient TNBC54583 at baseline	TNBC54583_Baseline	TNBC54583	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522197	Tumor sample of patient TNBC54601 at baseline	TNBC54601_Baseline	TNBC54601	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522198	Tumor sample of patient TNBC54601 at day 1 of cycle 2	TNBC54601_D1C2	TNBC54601	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522199	Tumor sample of patient TNBC54673 at baseline	TNBC54673_Baseline	TNBC54673	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522200	Tumor sample of patient TNBC54673 at day 1 of cycle 2	TNBC54673_D1C2	TNBC54673	D1C2	Batch 1	Homo sapiens	GPL18573
+GSM9522201	Tumor sample of patient TNBC54691 at baseline	TNBC54691_Baseline	TNBC54691	Baseline	Batch 1	Homo sapiens	GPL18573
+GSM9522202	Tumor sample of patient TNBC54732 at baseline	TNBC54732_Baseline	TNBC54732	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522203	Tumor sample of patient TNBC54732 at day 1 of cycle 2	TNBC54732_D1C2	TNBC54732	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522204	Tumor sample of patient TNBC54891 at baseline	TNBC54891_Baseline	TNBC54891	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522205	Tumor sample of patient TNBC54891 at day 1 of cycle 2	TNBC54891_D1C2	TNBC54891	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522206	Tumor sample of patient TNBC55271 at baseline	TNBC55271_Baseline	TNBC55271	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522207	Tumor sample of patient TNBC55371 at baseline	TNBC55371_Baseline	TNBC55371	Baseline	Batch 1	Homo sapiens	GPL18573
+GSM9522208	Tumor sample of patient TNBC56285 at baseline	TNBC56285_Baseline	TNBC56285	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522209	Tumor sample of patient TNBC56285 at day 1 of cycle 2	TNBC56285_D1C2	TNBC56285	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522210	Tumor sample of patient TNBC56879 at baseline	TNBC56879_Baseline	TNBC56879	Baseline	Batch 2	Homo sapiens	GPL18573
+GSM9522211	Tumor sample of patient TNBC56985 at baseline	TNBC56985_Baseline	TNBC56985	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522212	Tumor sample of patient TNBC57567 at baseline	TNBC57567_Baseline	TNBC57567	Baseline	Batch 1	Homo sapiens	GPL18573
+GSM9522213	Tumor sample of patient TNBC57647 at baseline	TNBC57647_Baseline	TNBC57647	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522214	Tumor sample of patient TNBC57647 at day 1 of cycle 2	TNBC57647_D1C2	TNBC57647	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522215	Tumor sample of patient TNBC58016 at baseline	TNBC58016_Baseline	TNBC58016	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522216	Tumor sample of patient TNBC58016 at day 1 of cycle 2	TNBC58016_D1C2	TNBC58016	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522217	Tumor sample of patient TNBC58148 at day 1 of cycle 2	TNBC58148_D1C2	TNBC58148	D1C2	Batch 1	Homo sapiens	GPL18573
+GSM9522218	Tumor sample of patient TNBC58336 at baseline	TNBC58336_Baseline	TNBC58336	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522219	Tumor sample of patient TNBC58336 at day 1 of cycle 2	TNBC58336_D1C2	TNBC58336	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522220	Tumor sample of patient TNBC58386 at baseline	TNBC58386_Baseline	TNBC58386	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522221	Tumor sample of patient TNBC58860 at baseline	TNBC58860_Baseline	TNBC58860	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522222	Tumor sample of patient TNBC58928 at baseline	TNBC58928_Baseline	TNBC58928	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522223	Tumor sample of patient TNBC58928 at day 1 of cycle 2	TNBC58928_D1C2	TNBC58928	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522224	Tumor sample of patient TNBC59511 at baseline	TNBC59511_Baseline	TNBC59511	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522225	Tumor sample of patient TNBC59655 at baseline	TNBC59655_Baseline	TNBC59655	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522226	Tumor sample of patient TNBC59655 at day 1 of cycle 2	TNBC59655_D1C2	TNBC59655	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522227	Tumor sample of patient TNBC59891 at baseline	TNBC59891_Baseline	TNBC59891	Baseline	Batch 1	Homo sapiens	GPL18573
+GSM9522228	Tumor sample of patient TNBC60028 at baseline	TNBC60028_Baseline	TNBC60028	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522229	Tumor sample of patient TNBC60028 at day 1 of cycle 2	TNBC60028_D1C2	TNBC60028	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522230	Tumor sample of patient TNBC60065 at baseline	TNBC60065_Baseline	TNBC60065	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522231	Tumor sample of patient TNBC60065 at day 1 of cycle 2	TNBC60065_D1C2	TNBC60065	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522232	Tumor sample of patient TNBC60964 at baseline	TNBC60964_Baseline	TNBC60964	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522233	Tumor sample of patient TNBC60964 at day 1 of cycle 2	TNBC60964_D1C2	TNBC60964	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522234	Tumor sample of patient TNBC61164 at baseline	TNBC61164_Baseline	TNBC61164	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522235	Tumor sample of patient TNBC61164 at day 1 of cycle 2	TNBC61164_D1C2	TNBC61164	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522236	Tumor sample of patient TNBC61772 at baseline	TNBC61772_Baseline	TNBC61772	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522237	Tumor sample of patient TNBC61772 at day 1 of cycle 2	TNBC61772_D1C2	TNBC61772	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522238	Tumor sample of patient TNBC61774 at baseline	TNBC61774_Baseline	TNBC61774	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522239	Tumor sample of patient TNBC61994 at day 1 of cycle 2	TNBC61994_D1C2	TNBC61994	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522240	Tumor sample of patient TNBC62111 at baseline	TNBC62111_Baseline	TNBC62111	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522241	Tumor sample of patient TNBC62111 at day 1 of cycle 2	TNBC62111_D1C2	TNBC62111	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522242	Tumor sample of patient TNBC62333 at baseline	TNBC62333_Baseline	TNBC62333	Baseline	Batch 2	Homo sapiens	GPL18573
+GSM9522243	Tumor sample of patient TNBC62858 at baseline	TNBC62858_Baseline	TNBC62858	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522244	Tumor sample of patient TNBC62877 at baseline	TNBC62877_Baseline	TNBC62877	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522245	Tumor sample of patient TNBC62923 at baseline	TNBC62923_Baseline	TNBC62923	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522246	Tumor sample of patient TNBC62923 at day 1 of cycle 2	TNBC62923_D1C2	TNBC62923	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522247	Tumor sample of patient TNBC63353 at baseline	TNBC63353_Baseline	TNBC63353	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522248	Tumor sample of patient TNBC63625 at baseline	TNBC63625_Baseline	TNBC63625	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522249	Tumor sample of patient TNBC63962 at baseline	TNBC63962_Baseline	TNBC63962	Baseline	Batch 2	Homo sapiens	GPL18573
+GSM9522250	Tumor sample of patient TNBC64010 at baseline	TNBC64010_Baseline	TNBC64010	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522251	Tumor sample of patient TNBC64010 at day 1 of cycle 2	TNBC64010_D1C2	TNBC64010	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522252	Tumor sample of patient TNBC64125 at baseline	TNBC64125_Baseline	TNBC64125	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522253	Tumor sample of patient TNBC64125 at day 1 of cycle 2	TNBC64125_D1C2	TNBC64125	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522254	Tumor sample of patient TNBC64231 at baseline	TNBC64231_Baseline	TNBC64231	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522255	Tumor sample of patient TNBC64611 at baseline	TNBC64611_Baseline	TNBC64611	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522256	Tumor sample of patient TNBC64611 at day 1 of cycle 2	TNBC64611_D1C2	TNBC64611	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522257	Tumor sample of patient TNBC65096 at baseline	TNBC65096_Baseline	TNBC65096	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522258	Tumor sample of patient TNBC65096 at day 1 of cycle 2	TNBC65096_D1C2	TNBC65096	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522259	Tumor sample of patient TNBC65129 at baseline	TNBC65129_Baseline	TNBC65129	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522260	Tumor sample of patient TNBC65129 at day 1 of cycle 2	TNBC65129_D1C2	TNBC65129	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522261	Tumor sample of patient TNBC65587 at baseline	TNBC65587_Baseline	TNBC65587	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522262	Tumor sample of patient TNBC66282 at baseline	TNBC66282_Baseline	TNBC66282	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522263	Tumor sample of patient TNBC66282 at day 1 of cycle 2	TNBC66282_D1C2	TNBC66282	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522264	Tumor sample of patient TNBC66417 at baseline	TNBC66417_Baseline	TNBC66417	Baseline	Batch 2	Homo sapiens	GPL18573
+GSM9522265	Tumor sample of patient TNBC66516 at baseline	TNBC66516_Baseline	TNBC66516	Baseline	Batch 2	Homo sapiens	GPL18573
+GSM9522266	Tumor sample of patient TNBC66872 at baseline	TNBC66872_Baseline	TNBC66872	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522267	Tumor sample of patient TNBC66872 at day 1 of cycle 2	TNBC66872_D1C2	TNBC66872	D1C2	Batch 1	Homo sapiens	GPL18573
+GSM9522268	Tumor sample of patient TNBC67091 at baseline	TNBC67091_Baseline	TNBC67091	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522269	Tumor sample of patient TNBC67091 at day 1 of cycle 2	TNBC67091_D1C2	TNBC67091	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522270	Tumor sample of patient TNBC67961 at baseline	TNBC67961_Baseline	TNBC67961	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522271	Tumor sample of patient TNBC67961 at day 1 of cycle 2	TNBC67961_D1C2	TNBC67961	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522272	Tumor sample of patient TNBC70484 at baseline	TNBC70484_Baseline	TNBC70484	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522273	Tumor sample of patient TNBC70708 at baseline	TNBC70708_Baseline	TNBC70708	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522274	Tumor sample of patient TNBC70708 at day 1 of cycle 2	TNBC70708_D1C2	TNBC70708	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522275	Tumor sample of patient TNBC70897 at baseline	TNBC70897_Baseline	TNBC70897	Baseline	Batch 1	Homo sapiens	GPL18573
+GSM9522276	Tumor sample of patient TNBC70897 at day 1 of cycle 2	TNBC70897_D1C2	TNBC70897	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522277	Tumor sample of patient TNBC71761 at baseline	TNBC71761_Baseline	TNBC71761	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522278	Tumor sample of patient TNBC71761 at day 1 of cycle 2	TNBC71761_D1C2	TNBC71761	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522279	Tumor sample of patient TNBC72297 at baseline	TNBC72297_Baseline	TNBC72297	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522280	Tumor sample of patient TNBC72484 at baseline	TNBC72484_Baseline	TNBC72484	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522281	Tumor sample of patient TNBC72484 at day 1 of cycle 2	TNBC72484_D1C2	TNBC72484	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522282	Tumor sample of patient TNBC73186 at baseline	TNBC73186_Baseline	TNBC73186	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522283	Tumor sample of patient TNBC73186 at day 1 of cycle 2	TNBC73186_D1C2	TNBC73186	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522284	Tumor sample of patient TNBC73192 at baseline	TNBC73192_Baseline	TNBC73192	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522285	Tumor sample of patient TNBC74125 at baseline	TNBC74125_Baseline	TNBC74125	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522286	Tumor sample of patient TNBC75171 at baseline	TNBC75171_Baseline	TNBC75171	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522287	Tumor sample of patient TNBC75398 at baseline	TNBC75398_Baseline	TNBC75398	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522288	Tumor sample of patient TNBC75408 at baseline	TNBC75408_Baseline	TNBC75408	Baseline	Batch 1	Homo sapiens	GPL18573
+GSM9522289	Tumor sample of patient TNBC75408 at day 1 of cycle 2	TNBC75408_D1C2	TNBC75408	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522290	Tumor sample of patient TNBC75966 at baseline	TNBC75966_Baseline	TNBC75966	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522291	Tumor sample of patient TNBC76307 at baseline	TNBC76307_Baseline	TNBC76307	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522292	Tumor sample of patient TNBC76307 at day 1 of cycle 2	TNBC76307_D1C2	TNBC76307	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522293	Tumor sample of patient TNBC76481 at baseline	TNBC76481_Baseline	TNBC76481	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522294	Tumor sample of patient TNBC76481 at day 1 of cycle 2	TNBC76481_D1C2	TNBC76481	D1C2	Batch 1	Homo sapiens	GPL18573
+GSM9522295	Tumor sample of patient TNBC76661 at baseline	TNBC76661_Baseline	TNBC76661	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522296	Tumor sample of patient TNBC76776 at baseline	TNBC76776_Baseline	TNBC76776	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522297	Tumor sample of patient TNBC76776 at day 1 of cycle 2	TNBC76776_D1C2	TNBC76776	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522298	Tumor sample of patient TNBC78152 at baseline	TNBC78152_Baseline	TNBC78152	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522299	Tumor sample of patient TNBC78152 at day 1 of cycle 2	TNBC78152_D1C2	TNBC78152	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522300	Tumor sample of patient TNBC78358 at baseline	TNBC78358_Baseline	TNBC78358	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522301	Tumor sample of patient TNBC78358 at day 1 of cycle 2	TNBC78358_D1C2	TNBC78358	D1C2	Batch 1	Homo sapiens	GPL18573
+GSM9522302	Tumor sample of patient TNBC79502 at baseline	TNBC79502_Baseline	TNBC79502	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522303	Tumor sample of patient TNBC79502 at day 1 of cycle 2	TNBC79502_D1C2	TNBC79502	D1C2	Batch 2	Homo sapiens	GPL18573
+GSM9522304	Tumor sample of patient TNBC80198 at baseline	TNBC80198_Baseline	TNBC80198	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522305	Tumor sample of patient TNBC80907 at baseline	TNBC80907_Baseline	TNBC80907	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522306	Tumor sample of patient TNBC80907 at day 1 of cycle 2	TNBC80907_D1C2	TNBC80907	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522307	Tumor sample of patient TNBC81216 at baseline	TNBC81216_Baseline	TNBC81216	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522308	Tumor sample of patient TNBC81216 at day 1 of cycle 2	TNBC81216_D1C2	TNBC81216	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522309	Tumor sample of patient TNBC81611 at baseline	TNBC81611_Baseline	TNBC81611	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522310	Tumor sample of patient TNBC81611 at day 1 of cycle 2	TNBC81611_D1C2	TNBC81611	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522311	Tumor sample of patient TNBC81683 at baseline	TNBC81683_Baseline	TNBC81683	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522312	Tumor sample of patient TNBC81683 at day 1 of cycle 2	TNBC81683_D1C2	TNBC81683	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522313	Tumor sample of patient TNBC81728 at baseline	TNBC81728_Baseline	TNBC81728	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522314	Tumor sample of patient TNBC81728 at day 1 of cycle 2	TNBC81728_D1C2	TNBC81728	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522315	Tumor sample of patient TNBC81824 at baseline	TNBC81824_Baseline	TNBC81824	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522316	Tumor sample of patient TNBC81824 at day 1 of cycle 2	TNBC81824_D1C2	TNBC81824	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522317	Tumor sample of patient TNBC82367 at baseline	TNBC82367_Baseline	TNBC82367	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522318	Tumor sample of patient TNBC82367 at day 1 of cycle 2	TNBC82367_D1C2	TNBC82367	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522319	Tumor sample of patient TNBC83483 at baseline	TNBC83483_Baseline	TNBC83483	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522320	Tumor sample of patient TNBC84591 at baseline	TNBC84591_Baseline	TNBC84591	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522321	Tumor sample of patient TNBC84602 at baseline	TNBC84602_Baseline	TNBC84602	Baseline	Batch 2	Homo sapiens	GPL18573
+GSM9522322	Tumor sample of patient TNBC84602 at day 1 of cycle 2	TNBC84602_D1C2	TNBC84602	D1C2	Batch 2	Homo sapiens	GPL18573
+GSM9522323	Tumor sample of patient TNBC84827 at baseline	TNBC84827_Baseline	TNBC84827	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522324	Tumor sample of patient TNBC84827 at day 1 of cycle 2	TNBC84827_D1C2	TNBC84827	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522325	Tumor sample of patient TNBC85532 at baseline	TNBC85532_Baseline	TNBC85532	Baseline	Batch 1	Homo sapiens	GPL18573
+GSM9522326	Tumor sample of patient TNBC85532 at day 1 of cycle 2	TNBC85532_D1C2	TNBC85532	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522327	Tumor sample of patient TNBC85632 at baseline	TNBC85632_Baseline	TNBC85632	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522328	Tumor sample of patient TNBC86067 at baseline	TNBC86067_Baseline	TNBC86067	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522329	Tumor sample of patient TNBC86185 at baseline	TNBC86185_Baseline	TNBC86185	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522330	Tumor sample of patient TNBC86186 at baseline	TNBC86186_Baseline	TNBC86186	Baseline	Batch 1	Homo sapiens	GPL18573
+GSM9522331	Tumor sample of patient TNBC86186 at day 1 of cycle 2	TNBC86186_D1C2	TNBC86186	D1C2	Batch 1	Homo sapiens	GPL18573
+GSM9522332	Tumor sample of patient TNBC86561 at baseline	TNBC86561_Baseline	TNBC86561	Baseline	Batch 1	Homo sapiens	GPL18573
+GSM9522333	Tumor sample of patient TNBC86561 at day 1 of cycle 2	TNBC86561_D1C2	TNBC86561	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522334	Tumor sample of patient TNBC87172 at baseline	TNBC87172_Baseline	TNBC87172	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522335	Tumor sample of patient TNBC87172 at day 1 of cycle 2	TNBC87172_D1C2	TNBC87172	D1C2	Batch 1	Homo sapiens	GPL18573
+GSM9522336	Tumor sample of patient TNBC87556 at baseline	TNBC87556_Baseline	TNBC87556	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522337	Tumor sample of patient TNBC87556 at day 1 of cycle 2	TNBC87556_D1C2	TNBC87556	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522338	Tumor sample of patient TNBC87688 at baseline	TNBC87688_Baseline	TNBC87688	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522339	Tumor sample of patient TNBC87969 at baseline	TNBC87969_Baseline	TNBC87969	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522340	Tumor sample of patient TNBC88201 at baseline	TNBC88201_Baseline	TNBC88201	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522341	Tumor sample of patient TNBC88201 at day 1 of cycle 2	TNBC88201_D1C2	TNBC88201	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522342	Tumor sample of patient TNBC88367 at baseline	TNBC88367_Baseline	TNBC88367	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522343	Tumor sample of patient TNBC88958 at baseline	TNBC88958_Baseline	TNBC88958	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522344	Tumor sample of patient TNBC88958 at day 1 of cycle 2	TNBC88958_D1C2	TNBC88958	D1C2	Batch 3	Homo sapiens	GPL18573
+GSM9522345	Tumor sample of patient TNBC89008 at baseline	TNBC89008_Baseline	TNBC89008	Baseline	Batch 3	Homo sapiens	GPL18573
+GSM9522346	Tumor sample of patient TNBC89008 at day 1 of cycle 2	TNBC89008_D1C2	TNBC89008	D1C2	Batch 3	Homo sapiens	GPL18573

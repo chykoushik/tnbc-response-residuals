@@ -1,0 +1,2 @@
+path	historical_copy	historical_sha256	final_sha256	authorization
+renv.lock	metadata/single_cell/pre_stage09_renv.lock	6186dae2f6c2dbd1174aca4144e01caff5ef1b80f5d6815c44a422b138140a2b	3e3f302d01537578d6d19d78a84af65d7188bb2ad59932b8ecf47ae08cd1730d	Stage 9 explicitly requires final renv snapshot; earlier checksum remains applicable to preserved historical bytes

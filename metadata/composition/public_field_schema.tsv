@@ -1,0 +1,15 @@
+source	field	review
+GEO characteristics	tissue	Public field schema inspected directly; no unlisted pathology measurement inferred.
+GEO characteristics	patient id	Public field schema inspected directly; no unlisted pathology measurement inferred.
+GEO characteristics	timepoint	Public field schema inspected directly; no unlisted pathology measurement inferred.
+GEO characteristics	batch	Public field schema inspected directly; no unlisted pathology measurement inferred.
+GEO description	Library name	Public field schema inspected directly; no unlisted pathology measurement inferred.
+Author phenotype	Sample_ID	Public field schema inspected directly; no unlisted pathology measurement inferred.
+Author phenotype	Patient_ID	Public field schema inspected directly; no unlisted pathology measurement inferred.
+Author phenotype	Timepoint	Public field schema inspected directly; no unlisted pathology measurement inferred.
+Author phenotype	Arm	Public field schema inspected directly; no unlisted pathology measurement inferred.
+Author phenotype	pCR	Public field schema inspected directly; no unlisted pathology measurement inferred.
+Author phenotype	pCR.num	Public field schema inspected directly; no unlisted pathology measurement inferred.
+Author phenotype	Early.pCR	Public field schema inspected directly; no unlisted pathology measurement inferred.
+Author phenotype	TNBCtype	Public field schema inspected directly; no unlisted pathology measurement inferred.
+Author phenotype	Batch_correlation	Public field schema inspected directly; no unlisted pathology measurement inferred.

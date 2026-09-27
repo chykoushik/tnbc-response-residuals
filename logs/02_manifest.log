@@ -1,0 +1,13 @@
+The following package(s) will be updated in the lockfile:
+
+# CRAN -----------------------------------------------------------------------
+- digest     [* -> 0.6.39]
+- jsonlite   [* -> 2.0.0]
+- renv       [* -> 1.2.4]
+- yaml       [* -> 2.3.12]
+
+The version of R recorded in the lockfile will be updated:
+- R          [* -> 4.5.2]
+
+- Lockfile written to "D:/TNBC-ResponseResiduals/renv.lock".
+- The lockfile is already up to date.

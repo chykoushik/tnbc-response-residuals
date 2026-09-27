@@ -1,0 +1,14 @@
+claim	status	reason
+independent TNBC replication	NOT_SUPPORTED	No independent cohort analysed.
+external validation of residual phenotype	NOT_SUPPORTED	External transportability eligibility failed.
+validated clinical predictor	NOT_SUPPORTED	No external validation or consistent incremental gain.
+clinically useful classifier	NOT_SUPPORTED	Clinical utility not established; DCA not run.
+significant confirmatory residual pathway	NOT_SUPPORTED	Zero pathways pass mandatory multiplicity correction.
+causal treatment mechanism	NOT_SUPPORTED	Observational associations do not establish causality.
+tumour-intrinsic interpretation without qualification	NOT_SUPPORTED	Bulk transcriptomic residuals remain composition-sensitive.
+cross-fitted residual molecular response is technically measurable	DEFER_STAGE09	Potentially supportable only with qualification and after the final Stage 9 audit; not a manuscript claim.
+residuals contain structured biological variation	DEFER_STAGE09	Potentially supportable only with qualification and after the final Stage 9 audit; not a manuscript claim.
+some prespecified residual pathways show directionally stable hypothesis-generating pCR associations	DEFER_STAGE09	Potentially supportable only with qualification and after the final Stage 9 audit; not a manuscript claim.
+composition adjustment materially affects residual associations	DEFER_STAGE09	Potentially supportable only with qualification and after the final Stage 9 audit; not a manuscript claim.
+residual features do not show consistent incremental predictive improvement	DEFER_STAGE09	Potentially supportable only with qualification and after the final Stage 9 audit; not a manuscript claim.
+findings are single-cohort and require independent validation	DEFER_STAGE09	Potentially supportable only with qualification and after the final Stage 9 audit; not a manuscript claim.

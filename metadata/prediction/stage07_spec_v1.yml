@@ -1,0 +1,168 @@
+version: v1
+freeze_timestamp: '2026-09-25T19:18:59Z'
+master_seed: 319650
+outer_folds: 5
+outer_repeats: 10
+prediction_inner_folds: 5
+expected_response_crossfit_folds: 5
+expected_response_tuning_folds: 5
+classifier:
+  method: ridge_logistic
+  alpha: 0.0
+  lambda_rule: lambda.1se
+  standardize: yes
+  intercept: yes
+  nlambda: 100
+  lambda_min_ratio: 0.0001
+expected_response:
+  method: gaussian_ridge
+  alpha: 0.0
+  lambda_rule: lambda.1se
+  standardize: yes
+  intercept: yes
+  nlambda: 100
+  lambda_min_ratio: 0.0001
+primary_metrics:
+- roc_auc
+- brier_score
+- log_loss
+- calibration_intercept
+- calibration_slope
+decision_curve_analysis: SKIP
+decision_curve_reason: no external transportability and clinical utility remains hypothesis-generating
+axes:
+- immune_interferon
+- proliferation
+- stromal_emt
+- dna_repair
+- hypoxia_stress
+- apoptosis
+features:
+  P0:
+  - arm
+  - baseline_cancer_epithelial
+  - baseline_immune_fraction
+  - baseline_stromal_fraction
+  - delta_cancer_epithelial
+  - delta_immune_fraction
+  - delta_stromal_fraction
+  P1:
+  - arm
+  - baseline_cancer_epithelial
+  - baseline_immune_fraction
+  - baseline_stromal_fraction
+  - delta_cancer_epithelial
+  - delta_immune_fraction
+  - delta_stromal_fraction
+  - baseline_immune_interferon
+  - baseline_proliferation
+  - baseline_stromal_emt
+  - baseline_dna_repair
+  - baseline_hypoxia_stress
+  - baseline_apoptosis
+  P2:
+  - arm
+  - baseline_cancer_epithelial
+  - baseline_immune_fraction
+  - baseline_stromal_fraction
+  - delta_cancer_epithelial
+  - delta_immune_fraction
+  - delta_stromal_fraction
+  - baseline_immune_interferon
+  - baseline_proliferation
+  - baseline_stromal_emt
+  - baseline_dna_repair
+  - baseline_hypoxia_stress
+  - baseline_apoptosis
+  - delta_immune_interferon
+  - delta_proliferation
+  - delta_stromal_emt
+  - delta_dna_repair
+  - delta_hypoxia_stress
+  - delta_apoptosis
+  P3:
+  - arm
+  - baseline_cancer_epithelial
+  - baseline_immune_fraction
+  - baseline_stromal_fraction
+  - delta_cancer_epithelial
+  - delta_immune_fraction
+  - delta_stromal_fraction
+  - baseline_immune_interferon
+  - baseline_proliferation
+  - baseline_stromal_emt
+  - baseline_dna_repair
+  - baseline_hypoxia_stress
+  - baseline_apoptosis
+  - residual_immune_interferon
+  - residual_proliferation
+  - residual_stromal_emt
+  - residual_dna_repair
+  - residual_hypoxia_stress
+  - residual_apoptosis
+  P4:
+  - arm
+  - baseline_cancer_epithelial
+  - baseline_immune_fraction
+  - baseline_stromal_fraction
+  - delta_cancer_epithelial
+  - delta_immune_fraction
+  - delta_stromal_fraction
+  - baseline_immune_interferon
+  - baseline_proliferation
+  - baseline_stromal_emt
+  - baseline_dna_repair
+  - baseline_hypoxia_stress
+  - baseline_apoptosis
+  - delta_immune_interferon
+  - delta_proliferation
+  - delta_stromal_emt
+  - delta_dna_repair
+  - delta_hypoxia_stress
+  - delta_apoptosis
+  - residual_immune_interferon
+  - residual_proliferation
+  - residual_stromal_emt
+  - residual_dna_repair
+  - residual_hypoxia_stress
+  - residual_apoptosis
+expected_response_predictors:
+- arm
+- baseline_immune_interferon
+- baseline_proliferation
+- baseline_stromal_emt
+- baseline_dna_repair
+- baseline_hypoxia_stress
+- baseline_apoptosis
+- baseline_cancer_epithelial
+- baseline_stromal_fraction
+- baseline_immune_fraction
+outer_seed: 319650 + repeat_number
+outer_stratification: treatment_arm_only
+split_seed: 319650 + 10000 * repeat + 100 * outer_fold
+residual_crossfit_seed: split_seed + 1
+expected_tuning_seed: split_seed + 10 + residual_crossfit_fold
+full_training_expected_tuning_seed: split_seed + 20
+classifier_seed: split_seed + 30
+classifier_stratification: pcr
+RNGkind:
+- Mersenne-Twister
+- Inversion
+- Rejection
+residual_feature_values: residual_z using outer-training cross-fitted residual mean
+  and sample SD
+classifier_standardization: glmnet training-only standardization in each fit
+composition_units: fraction; Stage 3 percentage values divided by 100 for classifier
+  inputs
+normal_epithelial_reference: yes
+calibration_clip: 1.0e-06
+auc_method: Mann-Whitney rank statistic with average ranks for ties
+summary_range: 2.5th and 97.5th empirical repeat percentiles, type 7; not formal confidence
+  intervals
+calibration_display: Patient-level mean OOF probabilities; five equal-count bins per
+  model for display only
+reproduction_splits:
+- repeat_01/fold_01
+- repeat_05/fold_03
+- repeat_10/fold_05
+glmnet_version: '5.1'

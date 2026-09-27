@@ -1,0 +1,5 @@
+source('R/paths.R')
+print(formals(scuttle::quickPerCellQC)); print(formals(UCell::ScoreSignatures_UCell))
+ref <- celldex::HumanPrimaryCellAtlasData()
+saveRDS(ref,path('models/stage09/HPCA_reference.rds'))
+print(sort(unique(ref$label.main)))

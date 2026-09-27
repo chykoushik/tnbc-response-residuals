@@ -1,0 +1,13 @@
+timestamp	check	result
+2026-09-25T14:24:04.639704+00:00	stage01_gate_synthetic_failures	PASS
+2026-09-25T14:24:04.639704+00:00	synthetic_fraction_qc_failures	PASS
+2026-09-25T14:24:04.639704+00:00	pair_delta_direction_and_missing_sample_failure	PASS
+2026-09-25T14:24:04.639704+00:00	source_sha256_integrity	PASS
+2026-09-25T14:24:04.639704+00:00	stage01_inputs_unchanged	PASS
+2026-09-25T14:24:04.639704+00:00	stored_output_sha256_integrity	PASS
+2026-09-25T14:24:04.639704+00:00	independent_full_fraction_and_summary_reconciliation	PASS
+2026-09-25T14:24:04.639704+00:00	independent_150_pair_delta_reconciliation	PASS
+2026-09-25T14:24:04.639704+00:00	no_outcome_or_treatment_columns_in_composition	PASS
+2026-09-25T14:24:04.639704+00:00	all_76_cell_state_fractions_valid	PASS
+2026-09-25T14:24:04.639704+00:00	pinned_instaprism_and_renv_snapshot	PASS
+2026-09-25T14:24:04.639704+00:00	decision_log_matches_status	PASS
